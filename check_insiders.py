@@ -20,7 +20,7 @@ SEEN_FILE         = Path("last_seen.json")
 FMP_BASE          = "https://financialmodelingprep.com/stable"
 
 # How far back to look on first run (days) — avoids flooding on initial setup
-LOOKBACK_DAYS     = 2
+LOOKBACK_DAYS     = 1
 
 
 # ── Helpers ───────────────────────────────────────────────────────────────────
