@@ -1,0 +1,35 @@
+{"seen_ids": []}
+```
+5. Click **Commit changes** (green button, bottom of page)
+
+---
+
+### File 2: `check_insiders.py`
+
+1. Click **Add file → Create new file**
+2. In the filename box type: `check_insiders.py`
+3. Open the downloaded `check_insiders.py` file on your computer in Notepad, select all, copy
+4. Paste it into the GitHub editor
+5. Click **Commit changes**
+
+---
+
+### File 3: `insider-alert.yml` (the tricky one — nested folders)
+
+This one lives inside `.github/workflows/` which doesn't exist yet. GitHub lets you create folders by typing a `/` in the filename box.
+
+1. Click **Add file → Create new file**
+2. In the filename box type exactly: `.github/workflows/insider-alert.yml`
+   - As soon as you type the first `/`, GitHub will split it into a folder path automatically — that's normal
+3. Open the downloaded `insider-alert.yml` file in Notepad, select all, copy
+4. Paste into the GitHub editor
+5. Click **Commit changes**
+
+---
+
+That's it. After all three commits your repo should look like this in the file list:
+```
+📁 .github/workflows/
+📄 check_insiders.py
+📄 last_seen.json
+📄 README.md
