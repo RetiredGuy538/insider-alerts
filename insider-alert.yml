@@ -1,0 +1,45 @@
+name: Insider Trading Alert
+
+on:
+  schedule:
+    # Runs every 15 minutes, Mon–Fri, between 8am–8pm ET (13:00–01:00 UTC)
+    - cron: '*/15 13-23,0,1 * * 1-5'
+  workflow_dispatch:   # allows manual trigger from Actions tab
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
+jobs:
+  check-insiders:
+    runs-on: ubuntu-latest
+
+    # Give the job write permission so it can commit last_seen.json back to the repo
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run insider alert check
+        env:
+          FMP_API_KEY: ${{ secrets.FMP_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python check_insiders.py
+
+      - name: Commit updated last_seen.json
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add last_seen.json
+          git diff --cached --quiet || git commit -m "chore: update last_seen [skip ci]"
+          git push
