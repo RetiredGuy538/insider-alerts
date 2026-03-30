@@ -17,7 +17,7 @@ TELEGRAM_CHAT_ID  = os.environ["TELEGRAM_CHAT_ID"]
 
 MIN_VALUE         = 100_000          # alert threshold in dollars
 SEEN_FILE         = Path("last_seen.json")
-FMP_BASE          = "https://financialmodelingprep.com/api/v4"
+FMP_BASE          = "https://financialmodelingprep.com/stable"
 
 # How far back to look on first run (days) — avoids flooding on initial setup
 LOOKBACK_DAYS     = 2
@@ -53,6 +53,7 @@ def fetch_insider_purchases() -> list[dict]:
             f"{FMP_BASE}/insider-trading"
             f"?transactionType=P-Purchase"
             f"&page={page}"
+            f"&limit=100"
             f"&apikey={FMP_API_KEY}"
         )
         resp = requests.get(url, timeout=30)
