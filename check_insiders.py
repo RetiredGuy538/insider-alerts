@@ -50,7 +50,7 @@ def fetch_insider_purchases() -> list[dict]:
 
     while True:
         url = (
-            f"{FMP_BASE}/insider-trading"
+            f"{FMP_BASE}/insider-trading/latest"
             f"?transactionType=P-Purchase"
             f"&page={page}"
             f"&limit=100"
