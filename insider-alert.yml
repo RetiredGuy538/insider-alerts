@@ -6,6 +6,9 @@ on:
     - cron: '*/15 13-23,0,1 * * 1-5'
   workflow_dispatch:   # allows manual trigger from Actions tab
 
+  env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   check-insiders:
     runs-on: ubuntu-latest
