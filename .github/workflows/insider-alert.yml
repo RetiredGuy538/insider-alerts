@@ -37,6 +37,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add last_seen.json
-          git diff --cached --quiet || git commit -m "chore: update last_seen [skip ci]"
+          git add last_seen.json alerts.json
+          git diff --cached --quiet || git commit -m "chore: update insider data [skip ci]"
           git push
