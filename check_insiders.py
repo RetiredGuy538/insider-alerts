@@ -149,22 +149,21 @@ def fetch_form4_detail(filing_link):
     print(content[:800])
     print("    === END ===")
 
+    import re as _re2
     xml_url = None
-    for line in content.split("\n"):
-        if ".xml" in line.lower() and "form4" not in line.lower() and "<a href" in line.lower():
-            start = line.lower().find('href="') + 6
-            end   = line.find('"', start)
-            if start > 5 and end > start:
-                path = line[start:end]
-                if path.endswith(".xml"):
-                    xml_url = "https://www.sec.gov" + path if path.startswith("/") else path
-                    break
 
-    if not xml_url:
-        import re
-        matches = re.findall(r'href="(/Archives/edgar/data/[^"]+\.xml)"', content, re.IGNORECASE)
-        if matches:
-            xml_url = "https://www.sec.gov" + matches[0]
+    # Look for the raw Form 4 XML data file — it lives in the filing root folder.
+    # Exclude xsl/xslF345X06 paths (those are HTML renderings, not raw XML data).
+    # The real data file typically matches the accession number pattern.
+    matches = _re2.findall(r'href="(/Archives/edgar/data/[^"]+\.xml)"', content, _re2.IGNORECASE)
+    for match in matches:
+        if "xsl" not in match.lower():
+            xml_url = "https://www.sec.gov" + match
+            break
+
+    # Fallback: take first xml that isn't in an xsl folder
+    if not xml_url and matches:
+        xml_url = "https://www.sec.gov" + matches[0]
 
     print("    xml_url found: " + str(xml_url))
 
