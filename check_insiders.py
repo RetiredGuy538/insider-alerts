@@ -24,7 +24,7 @@ ALERTS_FILE       = Path("alerts.json")   # dashboard data file
 FMP_BASE          = "https://financialmodelingprep.com/stable"
 
 # How far back to look on first run (days) — avoids flooding on initial setup
-LOOKBACK_DAYS     = 7
+LOOKBACK_DAYS     = 1
 
 # How many days of alerts to keep in alerts.json for the dashboard
 DASHBOARD_DAYS    = 30
