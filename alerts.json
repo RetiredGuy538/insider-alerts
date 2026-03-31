@@ -1,4 +1,18 @@
 {
-  "updated": "2026-03-31 17:15 UTC",
-  "alerts": []
+  "updated": "2026-03-31 17:19 UTC",
+  "alerts": [
+    {
+      "uid": "CIA|Stenberg Jon|2026-03-30|50000.0|4.7",
+      "symbol": "CIA",
+      "companyName": "CITIZENS, INC.",
+      "reportingName": "Stenberg Jon",
+      "title": "President & CEO",
+      "transactionDate": "2026-03-30",
+      "filingDatetime": "2026-03-31 13:11 ET",
+      "shares": 50000.0,
+      "price": 4.7,
+      "totalValue": 235000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/24090/000201579326000006/wk-form4_1774977093.xml"
+    }
+  ]
 }
