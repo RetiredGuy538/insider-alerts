@@ -13,9 +13,11 @@ jobs:
   check-insiders:
     runs-on: ubuntu-latest
 
-    # Give the job write permission so it can commit last_seen.json back to the repo
+    # Write permission to commit last_seen.json and alerts.json back to the repo
     permissions:
       contents: write
+      pages: write
+      id-token: write
 
     steps:
       - name: Checkout repo
@@ -36,10 +38,10 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python check_insiders.py
 
-      - name: Commit updated last_seen.json
+      - name: Commit updated data files
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add last_seen.json
-          git diff --cached --quiet || git commit -m "chore: update last_seen [skip ci]"
+          git add last_seen.json alerts.json
+          git diff --cached --quiet || git commit -m "chore: update insider data [skip ci]"
           git push
