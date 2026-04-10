@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-10 16:08 UTC",
+  "updated": "2026-04-10 17:07 UTC",
   "alerts": [
+    {
+      "uid": "ENR|Aqua Capital, Ltd.|2026-04-08|14372.0|17.4683",
+      "symbol": "ENR",
+      "companyName": "ENERGIZER HOLDINGS, INC.",
+      "reportingName": "Aqua Capital, Ltd.",
+      "title": "",
+      "transactionDate": "2026-04-08",
+      "filingDatetime": "2026-04-10 12:15 ET",
+      "shares": 14372.0,
+      "price": 17.4683,
+      "totalValue": 251054.41,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126014176/form4.xml"
+    },
     {
       "uid": "SG|GOLDMAN SACHS GROUP INC|2026-04-07|566000.0|5.69",
       "symbol": "SG",
