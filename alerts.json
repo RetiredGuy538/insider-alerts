@@ -1,6 +1,32 @@
 {
-  "updated": "2026-04-10 19:54 UTC",
+  "updated": "2026-04-10 20:32 UTC",
   "alerts": [
+    {
+      "uid": "TBN|SHEFFIELD SCOTT D|2026-04-08|6990.0|36.0192",
+      "symbol": "TBN",
+      "companyName": "Tamboran Resources Corp",
+      "reportingName": "SHEFFIELD SCOTT D",
+      "title": "",
+      "transactionDate": "2026-04-08",
+      "filingDatetime": "2026-04-10 16:30 ET",
+      "shares": 6990.0,
+      "price": 36.0192,
+      "totalValue": 251774.21,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1034316/000119312526151346/ownership.xml"
+    },
+    {
+      "uid": "NKE|ROGERS JOHN W JR|2026-04-09|4000.0|43.34",
+      "symbol": "NKE",
+      "companyName": "NIKE, Inc.",
+      "reportingName": "ROGERS JOHN W JR",
+      "title": "",
+      "transactionDate": "2026-04-09",
+      "filingDatetime": "2026-04-10 16:24 ET",
+      "shares": 4000.0,
+      "price": 43.34,
+      "totalValue": 173360.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000045/form4.xml"
+    },
     {
       "uid": "ENR|Aqua Capital, Ltd.|2026-04-08|14372.0|17.4683",
       "symbol": "ENR",
