@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-09 23:52 UTC",
+  "updated": "2026-04-10 02:07 UTC",
   "alerts": [
+    {
+      "uid": "SG|GOLDMAN SACHS GROUP INC|2026-04-07|566000.0|5.69",
+      "symbol": "SG",
+      "companyName": "Sweetgreen, Inc.",
+      "reportingName": "GOLDMAN SACHS GROUP INC",
+      "title": "",
+      "transactionDate": "2026-04-07",
+      "filingDatetime": "2026-04-09 21:58 ET",
+      "shares": 566000.0,
+      "price": 5.69,
+      "totalValue": 3220540.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/769993/000119312526150095/ownership.xml"
+    },
     {
       "uid": "LW|JANA Partners Management, LP|2026-04-08|100000.0|41.41",
       "symbol": "LW",
