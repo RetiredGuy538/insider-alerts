@@ -1,6 +1,32 @@
 {
-  "updated": "2026-04-13 16:02 UTC",
+  "updated": "2026-04-13 17:19 UTC",
   "alerts": [
+    {
+      "uid": "MKC|Hattersley Gavin|2026-04-10|2000.0|52.98",
+      "symbol": "MKC",
+      "companyName": "MCCORMICK & CO INC",
+      "reportingName": "Hattersley Gavin",
+      "title": "",
+      "transactionDate": "2026-04-10",
+      "filingDatetime": "2026-04-13 12:30 ET",
+      "shares": 2000.0,
+      "price": 52.98,
+      "totalValue": 105960.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000204/form4.xml"
+    },
+    {
+      "uid": "HTO|ATLAS Infrastructure Partners (UK) Ltd.|2026-04-10|50385.0|59.0636",
+      "symbol": "HTO",
+      "companyName": "H2O AMERICA",
+      "reportingName": "ATLAS Infrastructure Partners (UK) Ltd.",
+      "title": "",
+      "transactionDate": "2026-04-10",
+      "filingDatetime": "2026-04-13 12:10 ET",
+      "shares": 50385.0,
+      "price": 59.0636,
+      "totalValue": 2975919.49,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/766829/000121465926004574/marketforms-72936.xml"
+    },
     {
       "uid": "TBN|SHEFFIELD SCOTT D|2026-04-08|6990.0|36.0192",
       "symbol": "TBN",
