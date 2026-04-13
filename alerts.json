@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-13 22:30 UTC",
+  "updated": "2026-04-13 23:25 UTC",
   "alerts": [
+    {
+      "uid": "CHPT|Wilmer Richard|2026-04-13|46847.0|5.3365",
+      "symbol": "CHPT",
+      "companyName": "ChargePoint Holdings, Inc.",
+      "reportingName": "Wilmer Richard",
+      "title": "President and CEO",
+      "transactionDate": "2026-04-13",
+      "filingDatetime": "2026-04-13 18:51 ET",
+      "shares": 46847.0,
+      "price": 5.3365,
+      "totalValue": 249999.02,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1393301/000139330126000004/wk-form4_1776120670.xml"
+    },
     {
       "uid": "MKC|Hattersley Gavin|2026-04-10|2000.0|52.98",
       "symbol": "MKC",
