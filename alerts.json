@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-15 23:02 UTC",
+  "updated": "2026-04-15 23:58 UTC",
   "alerts": [
+    {
+      "uid": "TBN|PACE PHILLIP Z|2026-04-13|10000.0|36.9865",
+      "symbol": "TBN",
+      "companyName": "Tamboran Resources Corp",
+      "reportingName": "PACE PHILLIP Z",
+      "title": "",
+      "transactionDate": "2026-04-13",
+      "filingDatetime": "2026-04-15 19:46 ET",
+      "shares": 10000.0,
+      "price": 36.9865,
+      "totalValue": 369865.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1709285/000119312526157453/ownership.xml"
+    },
     {
       "uid": "CAG|Mulligan John J|2026-04-14|17500.0|14.3087",
       "symbol": "CAG",
