@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-15 20:29 UTC",
+  "updated": "2026-04-15 21:28 UTC",
   "alerts": [
+    {
+      "uid": "CAG|LENNY RICHARD H|2026-04-14|25000.0|14.34",
+      "symbol": "CAG",
+      "companyName": "CONAGRA BRANDS INC.",
+      "reportingName": "LENNY RICHARD H",
+      "title": "",
+      "transactionDate": "2026-04-14",
+      "filingDatetime": "2026-04-15 17:27 ET",
+      "shares": 25000.0,
+      "price": 14.34,
+      "totalValue": 358500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/23217/000113949726000002/form4-04152026_090402.xml"
+    },
     {
       "uid": "CHPT|Wilmer Richard|2026-04-13|46847.0|5.3365",
       "symbol": "CHPT",
