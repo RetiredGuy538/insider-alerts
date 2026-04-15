@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-15 21:28 UTC",
+  "updated": "2026-04-15 22:10 UTC",
   "alerts": [
+    {
+      "uid": "CAG|Mulligan John J|2026-04-14|17500.0|14.3087",
+      "symbol": "CAG",
+      "companyName": "CONAGRA BRANDS INC.",
+      "reportingName": "Mulligan John J",
+      "title": "",
+      "transactionDate": "2026-04-14",
+      "filingDatetime": "2026-04-15 17:28 ET",
+      "shares": 17500.0,
+      "price": 14.3087,
+      "totalValue": 250402.25,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/23217/000154581926000009/form4-04152026_090422.xml"
+    },
     {
       "uid": "CAG|LENNY RICHARD H|2026-04-14|25000.0|14.34",
       "symbol": "CAG",
