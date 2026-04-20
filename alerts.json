@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-20 20:26 UTC",
+  "updated": "2026-04-20 21:10 UTC",
   "alerts": [
+    {
+      "uid": "OKTA|Schellhase David|2026-04-16|2612.0|71.8594",
+      "symbol": "OKTA",
+      "companyName": "Okta, Inc.",
+      "reportingName": "Schellhase David",
+      "title": "",
+      "transactionDate": "2026-04-16",
+      "filingDatetime": "2026-04-20 17:08 ET",
+      "shares": 2612.0,
+      "price": 71.8594,
+      "totalValue": 187696.75,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1294735/000129473526000001/wk-form4_1776719332.xml"
+    },
     {
       "uid": "HOMB|ALLISON JOHN W|2026-04-17|100000.0|26.9621",
       "symbol": "HOMB",
