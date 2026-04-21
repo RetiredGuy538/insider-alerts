@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-21 18:38 UTC",
+  "updated": "2026-04-21 19:49 UTC",
   "alerts": [
+    {
+      "uid": "BMI|Bockhorst Kenneth|2026-04-21|2200.0|117.5333",
+      "symbol": "BMI",
+      "companyName": "BADGER METER INC",
+      "reportingName": "Bockhorst Kenneth",
+      "title": "Chairman, President & CEO",
+      "transactionDate": "2026-04-21",
+      "filingDatetime": "2026-04-21 15:42 ET",
+      "shares": 2200.0,
+      "price": 117.5333,
+      "totalValue": 258573.26,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/9092/000119312526166603/ownership.xml"
+    },
     {
       "uid": "ARXS|Jankowski Ryan Anthony|2026-04-17|4464.0|28.0",
       "symbol": "ARXS",
