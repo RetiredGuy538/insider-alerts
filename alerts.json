@@ -1,6 +1,32 @@
 {
-  "updated": "2026-04-24 18:43 UTC",
+  "updated": "2026-04-24 19:39 UTC",
   "alerts": [
+    {
+      "uid": "NBBK|Pascucci Hope|2026-04-24|10000.0|19.4392",
+      "symbol": "NBBK",
+      "companyName": "NB Bancorp, Inc.",
+      "reportingName": "Pascucci Hope",
+      "title": "",
+      "transactionDate": "2026-04-24",
+      "filingDatetime": "2026-04-24 15:04 ET",
+      "shares": 10000.0,
+      "price": 19.4392,
+      "totalValue": 194392.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1979330/000143774926013302/rdgdoc.xml"
+    },
+    {
+      "uid": "NBBK|Pascucci Hope|2026-04-24|10000.0|19.4889",
+      "symbol": "NBBK",
+      "companyName": "NB Bancorp, Inc.",
+      "reportingName": "Pascucci Hope",
+      "title": "",
+      "transactionDate": "2026-04-24",
+      "filingDatetime": "2026-04-24 15:04 ET",
+      "shares": 10000.0,
+      "price": 19.4889,
+      "totalValue": 194889.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1979330/000143774926013302/rdgdoc.xml"
+    },
     {
       "uid": "BMI|Htwe Richard|2026-04-21|1700.0|116.13",
       "symbol": "BMI",
