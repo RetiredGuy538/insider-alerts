@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-27 20:58 UTC",
+  "updated": "2026-04-27 21:55 UTC",
   "alerts": [
+    {
+      "uid": "ABT|Boudreau Philip P|2026-04-23|2200.0|91.5",
+      "symbol": "ABT",
+      "companyName": "ABBOTT LABORATORIES",
+      "reportingName": "Boudreau Philip P",
+      "title": "EVP AND CFO",
+      "transactionDate": "2026-04-23",
+      "filingDatetime": "2026-04-27 17:34 ET",
+      "shares": 2200.0,
+      "price": 91.5,
+      "totalValue": 201300.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1800/000180509926000006/form4-04272026_090443.xml"
+    },
     {
       "uid": "NBBK|Pascucci Hope|2026-04-24|10000.0|19.4392",
       "symbol": "NBBK",
