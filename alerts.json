@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-28 18:51 UTC",
+  "updated": "2026-04-28 20:12 UTC",
   "alerts": [
+    {
+      "uid": "NBP|Hagler Mark Arnold|2026-04-24|230000.0|2.51",
+      "symbol": "NBP",
+      "companyName": "NovaBridge Biosciences",
+      "reportingName": "Hagler Mark Arnold",
+      "title": "See Remarks",
+      "transactionDate": "2026-04-24",
+      "filingDatetime": "2026-04-28 16:05 ET",
+      "shares": 230000.0,
+      "price": 2.51,
+      "totalValue": 577300.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1778016/000119312526186924/ownership.xml"
+    },
     {
       "uid": "GAME|Blue & Silver Ventures, Ltd.|2026-04-24|417813.0|0.6",
       "symbol": "GAME",
