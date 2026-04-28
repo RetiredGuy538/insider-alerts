@@ -1,6 +1,45 @@
 {
-  "updated": "2026-04-27 23:50 UTC",
+  "updated": "2026-04-28 02:34 UTC",
   "alerts": [
+    {
+      "uid": "GAME|Blue & Silver Ventures, Ltd.|2026-04-24|417813.0|0.6",
+      "symbol": "GAME",
+      "companyName": "GameSquare Holdings, Inc.",
+      "reportingName": "Blue & Silver Ventures, Ltd.",
+      "title": "",
+      "transactionDate": "2026-04-24",
+      "filingDatetime": "2026-04-27 21:56 ET",
+      "shares": 417813.0,
+      "price": 0.6,
+      "totalValue": 250687.8,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226019216/ownership.xml"
+    },
+    {
+      "uid": "GAME|Blue & Silver Ventures, Ltd.|2026-04-23|922890.0|0.6",
+      "symbol": "GAME",
+      "companyName": "GameSquare Holdings, Inc.",
+      "reportingName": "Blue & Silver Ventures, Ltd.",
+      "title": "",
+      "transactionDate": "2026-04-23",
+      "filingDatetime": "2026-04-27 21:56 ET",
+      "shares": 922890.0,
+      "price": 0.6,
+      "totalValue": 553734.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226019216/ownership.xml"
+    },
+    {
+      "uid": "GAME|Blue & Silver Ventures, Ltd.|2026-04-22|809109.0|0.58",
+      "symbol": "GAME",
+      "companyName": "GameSquare Holdings, Inc.",
+      "reportingName": "Blue & Silver Ventures, Ltd.",
+      "title": "",
+      "transactionDate": "2026-04-22",
+      "filingDatetime": "2026-04-27 21:56 ET",
+      "shares": 809109.0,
+      "price": 0.58,
+      "totalValue": 469283.22,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226019216/ownership.xml"
+    },
     {
       "uid": "ABT|Boudreau Philip P|2026-04-23|2200.0|91.5",
       "symbol": "ABT",
