@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-29 22:06 UTC",
+  "updated": "2026-04-29 23:09 UTC",
   "alerts": [
+    {
+      "uid": "HBAN|ROLLINS JAMES D III|2026-04-27|6500.0|17.09",
+      "symbol": "HBAN",
+      "companyName": "HUNTINGTON BANCSHARES INC /MD/",
+      "reportingName": "ROLLINS JAMES D III",
+      "title": "",
+      "transactionDate": "2026-04-27",
+      "filingDatetime": "2026-04-29 18:53 ET",
+      "shares": 6500.0,
+      "price": 17.09,
+      "totalValue": 111085.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/49196/000122520826004706/doc4.xml"
+    },
     {
       "uid": "NBP|Hagler Mark Arnold|2026-04-24|230000.0|2.51",
       "symbol": "NBP",
