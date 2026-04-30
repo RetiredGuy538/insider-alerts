@@ -1,6 +1,19 @@
 {
-  "updated": "2026-04-30 22:51 UTC",
+  "updated": "2026-04-30 23:49 UTC",
   "alerts": [
+    {
+      "uid": "BDC|ASSURED GUARANTY LTD|2026-04-30|242718.447|24.72",
+      "symbol": "BDC",
+      "companyName": "Sound Point Meridian Capital, Inc.",
+      "reportingName": "ASSURED GUARANTY LTD",
+      "title": "",
+      "transactionDate": "2026-04-30",
+      "filingDatetime": "2026-04-30 19:15 ET",
+      "shares": 242718.447,
+      "price": 24.72,
+      "totalValue": 6000000.01,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/913357/000089914026000403/form4.xml"
+    },
     {
       "uid": "IPX|Hannigan Todd|2026-04-29|260000.0|4.1991",
       "symbol": "IPX",
