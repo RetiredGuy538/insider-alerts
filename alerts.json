@@ -1,6 +1,32 @@
 {
-  "updated": "2026-04-29 23:09 UTC",
+  "updated": "2026-04-30 00:07 UTC",
   "alerts": [
+    {
+      "uid": "ZBIO|MOULDER LEON O JR|2026-04-29|35000.0|17.62",
+      "symbol": "ZBIO",
+      "companyName": "Zenas BioPharma, Inc.",
+      "reportingName": "MOULDER LEON O JR",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-04-29",
+      "filingDatetime": "2026-04-29 19:21 ET",
+      "shares": 35000.0,
+      "price": 17.62,
+      "totalValue": 616700.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1228865/000110465926051889/tm2613154-1_4seq1.xml"
+    },
+    {
+      "uid": "ZBIO|MOULDER LEON O JR|2026-04-28|25000.0|18.02",
+      "symbol": "ZBIO",
+      "companyName": "Zenas BioPharma, Inc.",
+      "reportingName": "MOULDER LEON O JR",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-04-28",
+      "filingDatetime": "2026-04-29 19:21 ET",
+      "shares": 25000.0,
+      "price": 18.02,
+      "totalValue": 450500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1228865/000110465926051889/tm2613154-1_4seq1.xml"
+    },
     {
       "uid": "HBAN|ROLLINS JAMES D III|2026-04-27|6500.0|17.09",
       "symbol": "HBAN",
@@ -507,19 +533,6 @@
       "price": 46.23,
       "totalValue": 100550.25,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1197735/000122520826004392/doc4.xml"
-    },
-    {
-      "uid": "CIA|Stenberg Jon|2026-03-30|50000.0|4.7",
-      "symbol": "CIA",
-      "companyName": "CITIZENS, INC.",
-      "reportingName": "Stenberg Jon",
-      "title": "President & CEO",
-      "transactionDate": "2026-03-30",
-      "filingDatetime": "2026-03-31 13:11 ET",
-      "shares": 50000.0,
-      "price": 4.7,
-      "totalValue": 235000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/24090/000201579326000006/wk-form4_1774977093.xml"
     }
   ]
 }
