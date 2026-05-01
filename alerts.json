@@ -1,6 +1,45 @@
 {
-  "updated": "2026-05-01 22:05 UTC",
+  "updated": "2026-05-01 23:06 UTC",
   "alerts": [
+    {
+      "uid": "AVLN|Carroll Jill|2026-05-01|277778.0|18.0",
+      "symbol": "AVLN",
+      "companyName": "Avalyn Pharma Inc.",
+      "reportingName": "Carroll Jill",
+      "title": "",
+      "transactionDate": "2026-05-01",
+      "filingDatetime": "2026-05-01 18:50 ET",
+      "shares": 277778.0,
+      "price": 18.0,
+      "totalValue": 5000004.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1540171/000119312526201894/ownership.xml"
+    },
+    {
+      "uid": "AVLN|SR ONE CAPITAL MANAGEMENT, LLC|2026-05-01|277778.0|18.0",
+      "symbol": "AVLN",
+      "companyName": "Avalyn Pharma Inc.",
+      "reportingName": "SR ONE CAPITAL MANAGEMENT, LLC",
+      "title": "",
+      "transactionDate": "2026-05-01",
+      "filingDatetime": "2026-05-01 18:46 ET",
+      "shares": 277778.0,
+      "price": 18.0,
+      "totalValue": 5000004.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1540171/000119312526201887/ownership.xml"
+    },
+    {
+      "uid": "AVLN|SR ONE CAPITAL MANAGEMENT, LLC|2026-05-01|277777.0|18.0",
+      "symbol": "AVLN",
+      "companyName": "Avalyn Pharma Inc.",
+      "reportingName": "SR ONE CAPITAL MANAGEMENT, LLC",
+      "title": "",
+      "transactionDate": "2026-05-01",
+      "filingDatetime": "2026-05-01 18:46 ET",
+      "shares": 277777.0,
+      "price": 18.0,
+      "totalValue": 4999986.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1540171/000119312526201887/ownership.xml"
+    },
     {
       "uid": "BDC|ASSURED GUARANTY LTD|2026-04-30|242718.447|24.72",
       "symbol": "BDC",
