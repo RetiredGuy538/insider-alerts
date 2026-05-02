@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01 23:06 UTC",
+  "updated": "2026-05-02 00:04 UTC",
   "alerts": [
     {
       "uid": "AVLN|Carroll Jill|2026-05-01|277778.0|18.0",
@@ -572,19 +572,6 @@
       "price": 24.685,
       "totalValue": 123425.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/40417/000004041726000039/primary_doc.xml"
-    },
-    {
-      "uid": "CTGO|Nauman Clynton R.|2026-04-01|10000.0|18.56",
-      "symbol": "CTGO",
-      "companyName": "Contango Silver & Gold Inc.",
-      "reportingName": "Nauman Clynton R.",
-      "title": "",
-      "transactionDate": "2026-04-01",
-      "filingDatetime": "2026-04-07 17:30 ET",
-      "shares": 10000.0,
-      "price": 18.56,
-      "totalValue": 185600.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1502377/000156103626000003/ownership.xml"
     },
     {
       "uid": "VSCO|Sheehan Anne|2026-04-02|4842.0|45.86",
