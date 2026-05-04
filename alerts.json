@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-04 18:54 UTC",
+  "updated": "2026-05-04 20:12 UTC",
   "alerts": [
+    {
+      "uid": "GLND|BAQAR HASSAN|2026-05-04|45000.0|2.9",
+      "symbol": "GLND",
+      "companyName": "Greenland Energy Co",
+      "reportingName": "BAQAR HASSAN",
+      "title": "",
+      "transactionDate": "2026-05-04",
+      "filingDatetime": "2026-05-04 16:10 ET",
+      "shares": 45000.0,
+      "price": 2.9,
+      "totalValue": 130500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1529638/000182912626004456/ownership.xml"
+    },
     {
       "uid": "AVLN|Carroll Jill|2026-05-01|277778.0|18.0",
       "symbol": "AVLN",
