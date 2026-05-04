@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-04 21:20 UTC",
+  "updated": "2026-05-04 22:32 UTC",
   "alerts": [
+    {
+      "uid": "FND|LANGLEY BRYAN|2026-05-04|2500.0|48.69",
+      "symbol": "FND",
+      "companyName": "Floor & Decor Holdings, Inc.",
+      "reportingName": "LANGLEY BRYAN",
+      "title": "EVP & CHIEF FINANCIAL OFFICER",
+      "transactionDate": "2026-05-04",
+      "filingDatetime": "2026-05-04 18:28 ET",
+      "shares": 2500.0,
+      "price": 48.69,
+      "totalValue": 121725.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1507079/000162828026029998/wk-form4_1777933681.xml"
+    },
     {
       "uid": "GLND|BAQAR HASSAN|2026-05-04|45000.0|2.9",
       "symbol": "GLND",
