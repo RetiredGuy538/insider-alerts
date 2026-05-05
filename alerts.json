@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-05 19:51 UTC",
+  "updated": "2026-05-05 20:58 UTC",
   "alerts": [
+    {
+      "uid": "CLX|Breber Pierre R|2026-05-05|5000.0|85.8248",
+      "symbol": "CLX",
+      "companyName": "CLOROX CO /DE/",
+      "reportingName": "Breber Pierre R",
+      "title": "",
+      "transactionDate": "2026-05-05",
+      "filingDatetime": "2026-05-05 16:54 ET",
+      "shares": 5000.0,
+      "price": 85.8248,
+      "totalValue": 429124.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/21076/000122520826004962/doc4.xml"
+    },
     {
       "uid": "CAT|MacLennan David|2026-05-04|250.0|876.84",
       "symbol": "CAT",
