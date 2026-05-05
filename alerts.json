@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-05 16:54 UTC",
+  "updated": "2026-05-05 18:07 UTC",
   "alerts": [
+    {
+      "uid": "CAT|MacLennan David|2026-05-04|250.0|876.84",
+      "symbol": "CAT",
+      "companyName": "CATERPILLAR INC",
+      "reportingName": "MacLennan David",
+      "title": "",
+      "transactionDate": "2026-05-04",
+      "filingDatetime": "2026-05-05 14:00 ET",
+      "shares": 250.0,
+      "price": 876.84,
+      "totalValue": 219210.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/18230/000110465926055493/tm2613618-1_4seq1.xml"
+    },
     {
       "uid": "FND|LANGLEY BRYAN|2026-05-04|2500.0|48.69",
       "symbol": "FND",
