@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-07 17:16 UTC",
+  "updated": "2026-05-07 19:13 UTC",
   "alerts": [
+    {
+      "uid": "ANGX|Sarowitz Steven I|2026-05-05|321544.0|3.0558",
+      "symbol": "ANGX",
+      "companyName": "Angel Studios, Inc.",
+      "reportingName": "Sarowitz Steven I",
+      "title": "",
+      "transactionDate": "2026-05-05",
+      "filingDatetime": "2026-05-07 14:25 ET",
+      "shares": 321544.0,
+      "price": 3.0558,
+      "totalValue": 982574.16,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1597870/000186520026000038/form4.xml"
+    },
     {
       "uid": "AMG|Cates G. Staley|2026-05-06|1500.0|305.83",
       "symbol": "AMG",
