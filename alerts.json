@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-06 23:06 UTC",
+  "updated": "2026-05-07 00:03 UTC",
   "alerts": [
+    {
+      "uid": "AMG|Cates G. Staley|2026-05-06|1500.0|305.83",
+      "symbol": "AMG",
+      "companyName": "AFFILIATED MANAGERS GROUP, INC.",
+      "reportingName": "Cates G. Staley",
+      "title": "",
+      "transactionDate": "2026-05-06",
+      "filingDatetime": "2026-05-06 19:27 ET",
+      "shares": 1500.0,
+      "price": 305.83,
+      "totalValue": 458745.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1004434/000100443426000053/form4.xml"
+    },
     {
       "uid": "NSP|SARVADI PAUL J|2026-05-05|50057.0|28.2",
       "symbol": "NSP",
