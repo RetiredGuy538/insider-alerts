@@ -1,6 +1,32 @@
 {
-  "updated": "2026-05-07 19:13 UTC",
+  "updated": "2026-05-07 20:39 UTC",
   "alerts": [
+    {
+      "uid": "ARE|MARCUS JOEL S|2026-05-06|3989.0|45.99",
+      "symbol": "ARE",
+      "companyName": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+      "reportingName": "MARCUS JOEL S",
+      "title": "Executive Chairman",
+      "transactionDate": "2026-05-06",
+      "filingDatetime": "2026-05-07 16:32 ET",
+      "shares": 3989.0,
+      "price": 45.99,
+      "totalValue": 183454.11,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1035443/000121695526000017/wk-form4_1778185919.xml"
+    },
+    {
+      "uid": "ARE|MARCUS JOEL S|2026-05-06|3511.0|46.74",
+      "symbol": "ARE",
+      "companyName": "ALEXANDRIA REAL ESTATE EQUITIES, INC.",
+      "reportingName": "MARCUS JOEL S",
+      "title": "Executive Chairman",
+      "transactionDate": "2026-05-06",
+      "filingDatetime": "2026-05-07 16:32 ET",
+      "shares": 3511.0,
+      "price": 46.74,
+      "totalValue": 164104.14,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1035443/000121695526000017/wk-form4_1778185919.xml"
+    },
     {
       "uid": "ANGX|Sarowitz Steven I|2026-05-05|321544.0|3.0558",
       "symbol": "ANGX",
