@@ -1,6 +1,32 @@
 {
-  "updated": "2026-05-08 14:48 UTC",
+  "updated": "2026-05-08 16:14 UTC",
   "alerts": [
+    {
+      "uid": "POOL|PEREZ DE LA MESA MANUEL J|2026-05-07|10000.0|190.0",
+      "symbol": "POOL",
+      "companyName": "POOL CORP",
+      "reportingName": "PEREZ DE LA MESA MANUEL J",
+      "title": "",
+      "transactionDate": "2026-05-07",
+      "filingDatetime": "2026-05-08 11:57 ET",
+      "shares": 10000.0,
+      "price": 190.0,
+      "totalValue": 1900000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/945841/000094584126000114/form4.xml"
+    },
+    {
+      "uid": "POOL|STOKELY JOHN E|2026-05-07|1000.0|193.065",
+      "symbol": "POOL",
+      "companyName": "POOL CORP",
+      "reportingName": "STOKELY JOHN E",
+      "title": "",
+      "transactionDate": "2026-05-07",
+      "filingDatetime": "2026-05-08 11:55 ET",
+      "shares": 1000.0,
+      "price": 193.065,
+      "totalValue": 193065.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/945841/000094584126000112/form4.xml"
+    },
     {
       "uid": "ARE|MARCUS JOEL S|2026-05-06|3989.0|45.99",
       "symbol": "ARE",
