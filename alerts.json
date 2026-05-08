@@ -1,6 +1,32 @@
 {
-  "updated": "2026-05-08 18:57 UTC",
+  "updated": "2026-05-08 20:07 UTC",
   "alerts": [
+    {
+      "uid": "SITE|Laughlin Daniel T.|2026-05-06|2000.0|123.6",
+      "symbol": "SITE",
+      "companyName": "SiteOne Landscape Supply, Inc.",
+      "reportingName": "Laughlin Daniel T.",
+      "title": "SVP, Strategy & Development",
+      "transactionDate": "2026-05-06",
+      "filingDatetime": "2026-05-08 16:05 ET",
+      "shares": 2000.0,
+      "price": 123.6,
+      "totalValue": 247200.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1650729/000110465926057908/tm2613929-1_4seq1.xml"
+    },
+    {
+      "uid": "SOFI|Noto Anthony|2026-05-08|15878.0|15.7305",
+      "symbol": "SOFI",
+      "companyName": "SoFi Technologies, Inc.",
+      "reportingName": "Noto Anthony",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-05-08",
+      "filingDatetime": "2026-05-08 16:02 ET",
+      "shares": 15878.0,
+      "price": 15.7305,
+      "totalValue": 249768.88,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1613438/000161343826000010/wk-form4_1778270533.xml"
+    },
     {
       "uid": "POOL|PEREZ DE LA MESA MANUEL J|2026-05-07|10000.0|190.0",
       "symbol": "POOL",
