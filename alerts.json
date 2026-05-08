@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07 23:36 UTC",
+  "updated": "2026-05-08 01:24 UTC",
   "alerts": [
     {
       "uid": "ARE|MARCUS JOEL S|2026-05-06|3989.0|45.99",
@@ -639,19 +639,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126014176/form4.xml"
     },
     {
-      "uid": "SG|GOLDMAN SACHS GROUP INC|2026-04-07|566000.0|5.69",
-      "symbol": "SG",
-      "companyName": "Sweetgreen, Inc.",
-      "reportingName": "GOLDMAN SACHS GROUP INC",
-      "title": "",
-      "transactionDate": "2026-04-07",
-      "filingDatetime": "2026-04-09 21:58 ET",
-      "shares": 566000.0,
-      "price": 5.69,
-      "totalValue": 3220540.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/769993/000119312526150095/ownership.xml"
-    },
-    {
       "uid": "LW|JANA Partners Management, LP|2026-04-08|100000.0|41.41",
       "symbol": "LW",
       "companyName": "Lamb Weston Holdings, Inc.",
@@ -662,19 +649,6 @@
       "shares": 100000.0,
       "price": 41.41,
       "totalValue": 4141000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1679273/000090266426001944/ownership.xml"
-    },
-    {
-      "uid": "LW|JANA Partners Management, LP|2026-04-07|136000.0|40.89",
-      "symbol": "LW",
-      "companyName": "Lamb Weston Holdings, Inc.",
-      "reportingName": "JANA Partners Management, LP",
-      "title": "",
-      "transactionDate": "2026-04-07",
-      "filingDatetime": "2026-04-09 18:00 ET",
-      "shares": 136000.0,
-      "price": 40.89,
-      "totalValue": 5561040.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1679273/000090266426001944/ownership.xml"
     },
     {
@@ -689,19 +663,6 @@
       "price": 32.8863,
       "totalValue": 164431.5,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1401336/000140133626000011/wk-form4_1775770149.xml"
-    },
-    {
-      "uid": "LW|Prestage Norman|2026-04-07|2500.0|41.4",
-      "symbol": "LW",
-      "companyName": "Lamb Weston Holdings, Inc.",
-      "reportingName": "Prestage Norman",
-      "title": "",
-      "transactionDate": "2026-04-07",
-      "filingDatetime": "2026-04-08 17:36 ET",
-      "shares": 2500.0,
-      "price": 41.4,
-      "totalValue": 103500.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1679273/000203927726000002/form4-04082026_090431.xml"
     },
     {
       "uid": "GAM|Priest Jeffrey W|2026-04-08|5000.0|24.685",
