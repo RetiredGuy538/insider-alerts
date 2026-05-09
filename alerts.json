@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08 23:30 UTC",
+  "updated": "2026-05-09 01:22 UTC",
   "alerts": [
     {
       "uid": "SITE|Laughlin Daniel T.|2026-05-06|2000.0|123.6",
@@ -652,19 +652,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/766829/000121465926004574/marketforms-72936.xml"
     },
     {
-      "uid": "TBN|SHEFFIELD SCOTT D|2026-04-08|6990.0|36.0192",
-      "symbol": "TBN",
-      "companyName": "Tamboran Resources Corp",
-      "reportingName": "SHEFFIELD SCOTT D",
-      "title": "",
-      "transactionDate": "2026-04-08",
-      "filingDatetime": "2026-04-10 16:30 ET",
-      "shares": 6990.0,
-      "price": 36.0192,
-      "totalValue": 251774.21,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1034316/000119312526151346/ownership.xml"
-    },
-    {
       "uid": "NKE|ROGERS JOHN W JR|2026-04-09|4000.0|43.34",
       "symbol": "NKE",
       "companyName": "NIKE, Inc.",
@@ -678,32 +665,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000045/form4.xml"
     },
     {
-      "uid": "ENR|Aqua Capital, Ltd.|2026-04-08|14372.0|17.4683",
-      "symbol": "ENR",
-      "companyName": "ENERGIZER HOLDINGS, INC.",
-      "reportingName": "Aqua Capital, Ltd.",
-      "title": "",
-      "transactionDate": "2026-04-08",
-      "filingDatetime": "2026-04-10 12:15 ET",
-      "shares": 14372.0,
-      "price": 17.4683,
-      "totalValue": 251054.41,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126014176/form4.xml"
-    },
-    {
-      "uid": "LW|JANA Partners Management, LP|2026-04-08|100000.0|41.41",
-      "symbol": "LW",
-      "companyName": "Lamb Weston Holdings, Inc.",
-      "reportingName": "JANA Partners Management, LP",
-      "title": "",
-      "transactionDate": "2026-04-08",
-      "filingDatetime": "2026-04-09 18:00 ET",
-      "shares": 100000.0,
-      "price": 41.41,
-      "totalValue": 4141000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1679273/000090266426001944/ownership.xml"
-    },
-    {
       "uid": "BETR|Talwar Harit|2026-04-09|5000.0|32.8863",
       "symbol": "BETR",
       "companyName": "Better Home & Finance Holding Co",
@@ -715,19 +676,6 @@
       "price": 32.8863,
       "totalValue": 164431.5,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1401336/000140133626000011/wk-form4_1775770149.xml"
-    },
-    {
-      "uid": "GAM|Priest Jeffrey W|2026-04-08|5000.0|24.685",
-      "symbol": "GAM",
-      "companyName": "GENERAL AMERICAN INVESTORS CO INC",
-      "reportingName": "Priest Jeffrey W",
-      "title": "President & CEO",
-      "transactionDate": "2026-04-08",
-      "filingDatetime": "2026-04-08 16:52 ET",
-      "shares": 5000.0,
-      "price": 24.685,
-      "totalValue": 123425.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/40417/000004041726000039/primary_doc.xml"
     }
   ]
 }
