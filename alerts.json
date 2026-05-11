@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-11 17:51 UTC",
+  "updated": "2026-05-11 19:42 UTC",
   "alerts": [
+    {
+      "uid": "SOFI|Noto Anthony|2026-05-11|15545.0|16.0039",
+      "symbol": "SOFI",
+      "companyName": "SoFi Technologies, Inc.",
+      "reportingName": "Noto Anthony",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-05-11",
+      "filingDatetime": "2026-05-11 14:58 ET",
+      "shares": 15545.0,
+      "price": 16.0039,
+      "totalValue": 248780.63,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1613438/000161343826000012/wk-form4_1778525889.xml"
+    },
     {
       "uid": "SR|KOONCE PAUL D|2026-05-08|2000.0|85.81",
       "symbol": "SR",
