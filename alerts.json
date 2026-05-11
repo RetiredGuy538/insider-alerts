@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-09 01:22 UTC",
+  "updated": "2026-05-11 02:45 UTC",
   "alerts": [
     {
       "uid": "SITE|Laughlin Daniel T.|2026-05-06|2000.0|123.6",
@@ -624,58 +624,6 @@
       "price": 5.3365,
       "totalValue": 249999.02,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1393301/000139330126000004/wk-form4_1776120670.xml"
-    },
-    {
-      "uid": "MKC|Hattersley Gavin|2026-04-10|2000.0|52.98",
-      "symbol": "MKC",
-      "companyName": "MCCORMICK & CO INC",
-      "reportingName": "Hattersley Gavin",
-      "title": "",
-      "transactionDate": "2026-04-10",
-      "filingDatetime": "2026-04-13 12:30 ET",
-      "shares": 2000.0,
-      "price": 52.98,
-      "totalValue": 105960.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/63754/000006375426000204/form4.xml"
-    },
-    {
-      "uid": "HTO|ATLAS Infrastructure Partners (UK) Ltd.|2026-04-10|50385.0|59.0636",
-      "symbol": "HTO",
-      "companyName": "H2O AMERICA",
-      "reportingName": "ATLAS Infrastructure Partners (UK) Ltd.",
-      "title": "",
-      "transactionDate": "2026-04-10",
-      "filingDatetime": "2026-04-13 12:10 ET",
-      "shares": 50385.0,
-      "price": 59.0636,
-      "totalValue": 2975919.49,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/766829/000121465926004574/marketforms-72936.xml"
-    },
-    {
-      "uid": "NKE|ROGERS JOHN W JR|2026-04-09|4000.0|43.34",
-      "symbol": "NKE",
-      "companyName": "NIKE, Inc.",
-      "reportingName": "ROGERS JOHN W JR",
-      "title": "",
-      "transactionDate": "2026-04-09",
-      "filingDatetime": "2026-04-10 16:24 ET",
-      "shares": 4000.0,
-      "price": 43.34,
-      "totalValue": 173360.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/320187/000032018726000045/form4.xml"
-    },
-    {
-      "uid": "BETR|Talwar Harit|2026-04-09|5000.0|32.8863",
-      "symbol": "BETR",
-      "companyName": "Better Home & Finance Holding Co",
-      "reportingName": "Talwar Harit",
-      "title": "",
-      "transactionDate": "2026-04-09",
-      "filingDatetime": "2026-04-09 17:29 ET",
-      "shares": 5000.0,
-      "price": 32.8863,
-      "totalValue": 164431.5,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1401336/000140133626000011/wk-form4_1775770149.xml"
     }
   ]
 }
