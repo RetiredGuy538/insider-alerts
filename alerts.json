@@ -1,6 +1,32 @@
 {
-  "updated": "2026-05-11 15:54 UTC",
+  "updated": "2026-05-11 17:51 UTC",
   "alerts": [
+    {
+      "uid": "SR|KOONCE PAUL D|2026-05-08|2000.0|85.81",
+      "symbol": "SR",
+      "companyName": "SPIRE INC",
+      "reportingName": "KOONCE PAUL D",
+      "title": "",
+      "transactionDate": "2026-05-08",
+      "filingDatetime": "2026-05-11 13:28 ET",
+      "shares": 2000.0,
+      "price": 85.81,
+      "totalValue": 171620.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1104955/000110495526000006/primarydocument.xml"
+    },
+    {
+      "uid": "MMSI|Lloyd Brian G.|2026-05-07|2000.0|62.625",
+      "symbol": "MMSI",
+      "companyName": "MERIT MEDICAL SYSTEMS INC",
+      "reportingName": "Lloyd Brian G.",
+      "title": "CHIEF LEGAL OFFICER, SECRETARY",
+      "transactionDate": "2026-05-07",
+      "filingDatetime": "2026-05-11 13:03 ET",
+      "shares": 2000.0,
+      "price": 62.625,
+      "totalValue": 125250.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/856982/000167177226000004/form4-05112026_050526.xml"
+    },
     {
       "uid": "SITE|Laughlin Daniel T.|2026-05-06|2000.0|123.6",
       "symbol": "SITE",
