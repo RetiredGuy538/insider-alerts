@@ -1,6 +1,45 @@
 {
-  "updated": "2026-05-12 22:14 UTC",
+  "updated": "2026-05-12 23:19 UTC",
   "alerts": [
+    {
+      "uid": "IBP|Miller Michael Thomas|2026-05-11|520.0|205.08",
+      "symbol": "IBP",
+      "companyName": "Installed Building Products, Inc.",
+      "reportingName": "Miller Michael Thomas",
+      "title": "Executive VP & CFO",
+      "transactionDate": "2026-05-11",
+      "filingDatetime": "2026-05-12 18:49 ET",
+      "shares": 520.0,
+      "price": 205.08,
+      "totalValue": 106641.6,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1580905/000162828026034263/wk-form4_1778626158.xml"
+    },
+    {
+      "uid": "IBP|Miller Michael Thomas|2026-05-11|802.0|206.06",
+      "symbol": "IBP",
+      "companyName": "Installed Building Products, Inc.",
+      "reportingName": "Miller Michael Thomas",
+      "title": "Executive VP & CFO",
+      "transactionDate": "2026-05-11",
+      "filingDatetime": "2026-05-12 18:49 ET",
+      "shares": 802.0,
+      "price": 206.06,
+      "totalValue": 165260.12,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1580905/000162828026034263/wk-form4_1778626158.xml"
+    },
+    {
+      "uid": "IBP|Wheeler Brad A|2026-05-11|716.0|209.13",
+      "symbol": "IBP",
+      "companyName": "Installed Building Products, Inc.",
+      "reportingName": "Wheeler Brad A",
+      "title": "Chief Operating Officer",
+      "transactionDate": "2026-05-11",
+      "filingDatetime": "2026-05-12 18:48 ET",
+      "shares": 716.0,
+      "price": 209.13,
+      "totalValue": 149737.08,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1580905/000162828026034261/wk-form4_1778626092.xml"
+    },
     {
       "uid": "PTLO|LEE EUGENE I JR|2026-05-11|70165.0|4.28",
       "symbol": "PTLO",
