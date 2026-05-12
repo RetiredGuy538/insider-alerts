@@ -1,6 +1,71 @@
 {
-  "updated": "2026-05-12 20:58 UTC",
+  "updated": "2026-05-12 22:14 UTC",
   "alerts": [
+    {
+      "uid": "PTLO|LEE EUGENE I JR|2026-05-11|70165.0|4.28",
+      "symbol": "PTLO",
+      "companyName": "Portillo's Inc.",
+      "reportingName": "LEE EUGENE I JR",
+      "title": "",
+      "transactionDate": "2026-05-11",
+      "filingDatetime": "2026-05-12 18:03 ET",
+      "shares": 70165.0,
+      "price": 4.28,
+      "totalValue": 300306.2,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1242843/000124284326000008/wk-form4_1778623401.xml"
+    },
+    {
+      "uid": "XRN|KIERNAN ROBERT J|2026-05-11|3000.0|33.49",
+      "symbol": "XRN",
+      "companyName": "Chiron Real Estate Inc.",
+      "reportingName": "KIERNAN ROBERT J",
+      "title": "CFO and Treasurer",
+      "transactionDate": "2026-05-11",
+      "filingDatetime": "2026-05-12 17:44 ET",
+      "shares": 3000.0,
+      "price": 33.49,
+      "totalValue": 100470.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1229248/000110465926059537/tm2614359-1_4seq1.xml"
+    },
+    {
+      "uid": "XRN|Decker Mark Okey Jr|2026-05-12|4000.0|33.99",
+      "symbol": "XRN",
+      "companyName": "Chiron Real Estate Inc.",
+      "reportingName": "Decker Mark Okey Jr",
+      "title": "CEO and President",
+      "transactionDate": "2026-05-12",
+      "filingDatetime": "2026-05-12 17:41 ET",
+      "shares": 4000.0,
+      "price": 33.99,
+      "totalValue": 135960.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1533615/000110465926059532/tm2614359-3_4seq1.xml"
+    },
+    {
+      "uid": "ODTX|Dimension Capital II, L.P.|2026-05-08|1111111.0|18.0",
+      "symbol": "ODTX",
+      "companyName": "Odyssey Therapeutics, Inc.",
+      "reportingName": "Dimension Capital II, L.P.",
+      "title": "",
+      "transactionDate": "2026-05-08",
+      "filingDatetime": "2026-05-12 17:37 ET",
+      "shares": 1111111.0,
+      "price": 18.0,
+      "totalValue": 19999998.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1882782/000101297526000417/form4.xml"
+    },
+    {
+      "uid": "BOBS|BARTON WILLIAM G|2026-05-08|22150.0|13.56",
+      "symbol": "BOBS",
+      "companyName": "Bob's Discount Furniture, Inc.",
+      "reportingName": "BARTON WILLIAM G",
+      "title": "See Remarks",
+      "transactionDate": "2026-05-08",
+      "filingDatetime": "2026-05-12 17:32 ET",
+      "shares": 22150.0,
+      "price": 13.56,
+      "totalValue": 300354.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1055887/000162828026034242/wk-form4_1778621525.xml"
+    },
     {
       "uid": "PSN|McMahon Harry T.|2026-05-11|10000.0|49.14",
       "symbol": "PSN",
