@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-12 04:58 UTC",
+  "updated": "2026-05-12 15:37 UTC",
   "alerts": [
+    {
+      "uid": "BHRB|Barnwell Julian Forrest Jr.|2026-05-11|5000.0|63.0464",
+      "symbol": "BHRB",
+      "companyName": "Burke & Herbert Financial Services Corp.",
+      "reportingName": "Barnwell Julian Forrest Jr.",
+      "title": "",
+      "transactionDate": "2026-05-11",
+      "filingDatetime": "2026-05-12 11:29 ET",
+      "shares": 5000.0,
+      "price": 63.0464,
+      "totalValue": 315232.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1964333/000196451826000003/wk-form4_1778599741.xml"
+    },
     {
       "uid": "MOBI|Lucchese Cynthia L|2026-05-11|125000.0|15.0",
       "symbol": "MOBI",
