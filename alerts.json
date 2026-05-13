@@ -1,6 +1,45 @@
 {
-  "updated": "2026-05-13 19:49 UTC",
+  "updated": "2026-05-13 21:23 UTC",
   "alerts": [
+    {
+      "uid": "KINS|Newgarden Thomas|2026-05-13|15201.0|14.36",
+      "symbol": "KINS",
+      "companyName": "KINGSTONE COMPANIES, INC.",
+      "reportingName": "Newgarden Thomas",
+      "title": "",
+      "transactionDate": "2026-05-13",
+      "filingDatetime": "2026-05-13 17:12 ET",
+      "shares": 15201.0,
+      "price": 14.36,
+      "totalValue": 218286.36,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/33992/000102177126000070/form4.xml"
+    },
+    {
+      "uid": "KINS|Newgarden Thomas|2026-05-12|15301.0|14.52",
+      "symbol": "KINS",
+      "companyName": "KINGSTONE COMPANIES, INC.",
+      "reportingName": "Newgarden Thomas",
+      "title": "",
+      "transactionDate": "2026-05-12",
+      "filingDatetime": "2026-05-13 17:12 ET",
+      "shares": 15301.0,
+      "price": 14.52,
+      "totalValue": 222170.52,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/33992/000102177126000070/form4.xml"
+    },
+    {
+      "uid": "ODTX|TPG GP A, LLC|2026-05-11|1388889.0|18.0",
+      "symbol": "ODTX",
+      "companyName": "Odyssey Therapeutics, Inc.",
+      "reportingName": "TPG GP A, LLC",
+      "title": "",
+      "transactionDate": "2026-05-11",
+      "filingDatetime": "2026-05-13 17:10 ET",
+      "shares": 1388889.0,
+      "price": 18.0,
+      "totalValue": 25000002.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1099776/000199937126010652/odyssey-form4_051326.xml"
+    },
     {
       "uid": "TFSL|Weir Daniel F|2026-05-12|21000.0|14.91",
       "symbol": "TFSL",
