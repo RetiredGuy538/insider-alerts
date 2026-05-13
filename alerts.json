@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-13 21:23 UTC",
+  "updated": "2026-05-13 22:44 UTC",
   "alerts": [
+    {
+      "uid": "SMRT|Martell Frank|2026-05-12|100000.0|1.1785",
+      "symbol": "SMRT",
+      "companyName": "SmartRent, Inc.",
+      "reportingName": "Martell Frank",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-05-12",
+      "filingDatetime": "2026-05-13 17:57 ET",
+      "shares": 100000.0,
+      "price": 1.1785,
+      "totalValue": 117850.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1387655/000119312526222083/ownership.xml"
+    },
     {
       "uid": "KINS|Newgarden Thomas|2026-05-13|15201.0|14.36",
       "symbol": "KINS",
