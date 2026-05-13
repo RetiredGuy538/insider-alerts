@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-13 05:06 UTC",
+  "updated": "2026-05-13 15:40 UTC",
   "alerts": [
+    {
+      "uid": "TFSL|Weir Daniel F|2026-05-12|21000.0|14.91",
+      "symbol": "TFSL",
+      "companyName": "TFS Financial CORP",
+      "reportingName": "Weir Daniel F",
+      "title": "",
+      "transactionDate": "2026-05-12",
+      "filingDatetime": "2026-05-13 11:24 ET",
+      "shares": 21000.0,
+      "price": 14.91,
+      "totalValue": 313110.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1381668/000193666326000002/wk-form4_1778685874.xml"
+    },
     {
       "uid": "FCNCA|HOLDING FRANK B JR|2026-05-12|5940.0|1726.82",
       "symbol": "FCNCA",
