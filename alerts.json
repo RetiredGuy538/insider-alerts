@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-12 23:19 UTC",
+  "updated": "2026-05-13 01:23 UTC",
   "alerts": [
+    {
+      "uid": "FCNCA|HOLDING FRANK B JR|2026-05-12|5940.0|1726.82",
+      "symbol": "FCNCA",
+      "companyName": "FIRST CITIZENS BANCSHARES INC /DE/",
+      "reportingName": "HOLDING FRANK B JR",
+      "title": "Chairman and CEO",
+      "transactionDate": "2026-05-12",
+      "filingDatetime": "2026-05-12 20:32 ET",
+      "shares": 5940.0,
+      "price": 1726.82,
+      "totalValue": 10257310.8,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/798941/000119312526220236/ownership.xml"
+    },
     {
       "uid": "IBP|Miller Michael Thomas|2026-05-11|520.0|205.08",
       "symbol": "IBP",
