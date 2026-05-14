@@ -1,6 +1,58 @@
 {
-  "updated": "2026-05-14 20:51 UTC",
+  "updated": "2026-05-14 22:06 UTC",
   "alerts": [
+    {
+      "uid": "JYNT|JOBSON CHARLES E|2026-05-13|20375.0|8.57",
+      "symbol": "JYNT",
+      "companyName": "JOINT Corp",
+      "reportingName": "JOBSON CHARLES E",
+      "title": "",
+      "transactionDate": "2026-05-13",
+      "filingDatetime": "2026-05-14 18:00 ET",
+      "shares": 20375.0,
+      "price": 8.57,
+      "totalValue": 174613.75,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1232587/000121465926006221/marketforms-73174.xml"
+    },
+    {
+      "uid": "JYNT|JOBSON CHARLES E|2026-05-12|127676.0|8.57",
+      "symbol": "JYNT",
+      "companyName": "JOINT Corp",
+      "reportingName": "JOBSON CHARLES E",
+      "title": "",
+      "transactionDate": "2026-05-12",
+      "filingDatetime": "2026-05-14 18:00 ET",
+      "shares": 127676.0,
+      "price": 8.57,
+      "totalValue": 1094183.32,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1232587/000121465926006221/marketforms-73174.xml"
+    },
+    {
+      "uid": "LODE|Pei Steven Yu-Tsung|2026-05-14|79559.0|3.425",
+      "symbol": "LODE",
+      "companyName": "Comstock Inc.",
+      "reportingName": "Pei Steven Yu-Tsung",
+      "title": "",
+      "transactionDate": "2026-05-14",
+      "filingDatetime": "2026-05-14 17:41 ET",
+      "shares": 79559.0,
+      "price": 3.425,
+      "totalValue": 272489.58,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1120970/000143774926017150/rdgdoc.xml"
+    },
+    {
+      "uid": "LODE|Pei Steven Yu-Tsung|2026-05-13|345000.0|3.375",
+      "symbol": "LODE",
+      "companyName": "Comstock Inc.",
+      "reportingName": "Pei Steven Yu-Tsung",
+      "title": "",
+      "transactionDate": "2026-05-13",
+      "filingDatetime": "2026-05-14 17:41 ET",
+      "shares": 345000.0,
+      "price": 3.375,
+      "totalValue": 1164375.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1120970/000143774926017150/rdgdoc.xml"
+    },
     {
       "uid": "BLND|Haveli Investments, L.P.|2026-05-13|1296924.0|1.4392",
       "symbol": "BLND",
