@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-15 17:00 UTC",
+  "updated": "2026-05-15 18:52 UTC",
   "alerts": [
+    {
+      "uid": "TFSL|Weir Daniel F|2026-05-14|7000.0|15.02",
+      "symbol": "TFSL",
+      "companyName": "TFS Financial CORP",
+      "reportingName": "Weir Daniel F",
+      "title": "",
+      "transactionDate": "2026-05-14",
+      "filingDatetime": "2026-05-15 14:37 ET",
+      "shares": 7000.0,
+      "price": 15.02,
+      "totalValue": 105140.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1381668/000193666326000004/wk-form4_1778870252.xml"
+    },
     {
       "uid": "JYNT|JOBSON CHARLES E|2026-05-13|20375.0|8.57",
       "symbol": "JYNT",
