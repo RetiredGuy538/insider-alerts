@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14 23:11 UTC",
+  "updated": "2026-05-15 00:09 UTC",
   "alerts": [
     {
       "uid": "JYNT|JOBSON CHARLES E|2026-05-13|20375.0|8.57",
@@ -1300,32 +1300,6 @@
       "price": 7.23,
       "totalValue": 198000.78,
       "secLink": "https://www.sec.gov/Archives/edgar/data/2069785/000209331526000004/form4-04172026_120427.xml"
-    },
-    {
-      "uid": "CAG|Mulligan John J|2026-04-14|17500.0|14.3087",
-      "symbol": "CAG",
-      "companyName": "CONAGRA BRANDS INC.",
-      "reportingName": "Mulligan John J",
-      "title": "",
-      "transactionDate": "2026-04-14",
-      "filingDatetime": "2026-04-15 17:28 ET",
-      "shares": 17500.0,
-      "price": 14.3087,
-      "totalValue": 250402.25,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/23217/000154581926000009/form4-04152026_090422.xml"
-    },
-    {
-      "uid": "CAG|LENNY RICHARD H|2026-04-14|25000.0|14.34",
-      "symbol": "CAG",
-      "companyName": "CONAGRA BRANDS INC.",
-      "reportingName": "LENNY RICHARD H",
-      "title": "",
-      "transactionDate": "2026-04-14",
-      "filingDatetime": "2026-04-15 17:27 ET",
-      "shares": 25000.0,
-      "price": 14.34,
-      "totalValue": 358500.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/23217/000113949726000002/form4-04152026_090402.xml"
     }
   ]
 }
