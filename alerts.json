@@ -1,6 +1,32 @@
 {
-  "updated": "2026-05-18 20:11 UTC",
+  "updated": "2026-05-18 21:37 UTC",
   "alerts": [
+    {
+      "uid": "ICFI|VAN HANDEL MICHAEL J|2026-05-15|4000.0|61.5835",
+      "symbol": "ICFI",
+      "companyName": "ICF International, Inc.",
+      "reportingName": "VAN HANDEL MICHAEL J",
+      "title": "",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-18 17:34 ET",
+      "shares": 4000.0,
+      "price": 61.5835,
+      "totalValue": 246334.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1226090/000122520826005466/doc4.xml"
+    },
+    {
+      "uid": "ICFI|VAN HANDEL MICHAEL J|2026-05-15|4000.0|61.2",
+      "symbol": "ICFI",
+      "companyName": "ICF International, Inc.",
+      "reportingName": "VAN HANDEL MICHAEL J",
+      "title": "",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-18 17:34 ET",
+      "shares": 4000.0,
+      "price": 61.2,
+      "totalValue": 244800.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1226090/000122520826005466/doc4.xml"
+    },
     {
       "uid": "MSCI|Fernandez Henry A|2026-05-15|240.0|560.28",
       "symbol": "MSCI",
