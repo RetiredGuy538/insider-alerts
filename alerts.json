@@ -1,6 +1,32 @@
 {
-  "updated": "2026-05-18 21:37 UTC",
+  "updated": "2026-05-18 22:38 UTC",
   "alerts": [
+    {
+      "uid": "BKKT|ALFRED MICHAEL|2026-05-18|220000.0|8.2",
+      "symbol": "BKKT",
+      "companyName": "Bakkt, Inc.",
+      "reportingName": "ALFRED MICHAEL",
+      "title": "",
+      "transactionDate": "2026-05-18",
+      "filingDatetime": "2026-05-18 18:37 ET",
+      "shares": 220000.0,
+      "price": 8.2,
+      "totalValue": 1804000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1816739/000181673926000002/wk-form4_1779143856.xml"
+    },
+    {
+      "uid": "BKKT|ALFRED MICHAEL|2026-05-15|365000.0|8.34",
+      "symbol": "BKKT",
+      "companyName": "Bakkt, Inc.",
+      "reportingName": "ALFRED MICHAEL",
+      "title": "",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-18 18:37 ET",
+      "shares": 365000.0,
+      "price": 8.34,
+      "totalValue": 3044100.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1816739/000181673926000002/wk-form4_1779143856.xml"
+    },
     {
       "uid": "ICFI|VAN HANDEL MICHAEL J|2026-05-15|4000.0|61.5835",
       "symbol": "ICFI",
