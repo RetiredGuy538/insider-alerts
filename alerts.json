@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-18 16:19 UTC",
+  "updated": "2026-05-18 18:17 UTC",
   "alerts": [
+    {
+      "uid": "NIQ|Peck James M|2026-05-18|118625.0|8.43",
+      "symbol": "NIQ",
+      "companyName": "NIQ Global Intelligence plc",
+      "reportingName": "Peck James M",
+      "title": "See Remarks",
+      "transactionDate": "2026-05-18",
+      "filingDatetime": "2026-05-18 14:02 ET",
+      "shares": 118625.0,
+      "price": 8.43,
+      "totalValue": 1000008.75,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1645773/000164577326000007/wk-form4_1779127330.xml"
+    },
     {
       "uid": "AMR|Courtis Kenneth S.|2026-05-12|596.0|183.05",
       "symbol": "AMR",
