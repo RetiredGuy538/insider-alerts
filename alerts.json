@@ -1,6 +1,71 @@
 {
-  "updated": "2026-05-18 18:17 UTC",
+  "updated": "2026-05-18 20:11 UTC",
   "alerts": [
+    {
+      "uid": "MSCI|Fernandez Henry A|2026-05-15|240.0|560.28",
+      "symbol": "MSCI",
+      "companyName": "MSCI Inc.",
+      "reportingName": "Fernandez Henry A",
+      "title": "Chairman and CEO",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-18 16:10 ET",
+      "shares": 240.0,
+      "price": 560.28,
+      "totalValue": 134467.2,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1408198/000141675026000011/wk-form4_1779135010.xml"
+    },
+    {
+      "uid": "MSCI|Fernandez Henry A|2026-05-15|1238.0|561.56",
+      "symbol": "MSCI",
+      "companyName": "MSCI Inc.",
+      "reportingName": "Fernandez Henry A",
+      "title": "Chairman and CEO",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-18 16:10 ET",
+      "shares": 1238.0,
+      "price": 561.56,
+      "totalValue": 695211.28,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1408198/000141675026000011/wk-form4_1779135010.xml"
+    },
+    {
+      "uid": "MSCI|Fernandez Henry A|2026-05-15|1122.0|562.47",
+      "symbol": "MSCI",
+      "companyName": "MSCI Inc.",
+      "reportingName": "Fernandez Henry A",
+      "title": "Chairman and CEO",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-18 16:10 ET",
+      "shares": 1122.0,
+      "price": 562.47,
+      "totalValue": 631091.34,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1408198/000141675026000011/wk-form4_1779135010.xml"
+    },
+    {
+      "uid": "MSCI|Fernandez Henry A|2026-05-15|800.0|563.39",
+      "symbol": "MSCI",
+      "companyName": "MSCI Inc.",
+      "reportingName": "Fernandez Henry A",
+      "title": "Chairman and CEO",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-18 16:10 ET",
+      "shares": 800.0,
+      "price": 563.39,
+      "totalValue": 450712.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1408198/000141675026000011/wk-form4_1779135010.xml"
+    },
+    {
+      "uid": "MSCI|Fernandez Henry A|2026-05-15|400.0|564.42",
+      "symbol": "MSCI",
+      "companyName": "MSCI Inc.",
+      "reportingName": "Fernandez Henry A",
+      "title": "Chairman and CEO",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-18 16:10 ET",
+      "shares": 400.0,
+      "price": 564.42,
+      "totalValue": 225768.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1408198/000141675026000011/wk-form4_1779135010.xml"
+    },
     {
       "uid": "NIQ|Peck James M|2026-05-18|118625.0|8.43",
       "symbol": "NIQ",
