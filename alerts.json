@@ -1,6 +1,58 @@
 {
-  "updated": "2026-05-19 21:45 UTC",
+  "updated": "2026-05-19 22:50 UTC",
   "alerts": [
+    {
+      "uid": "EROK|Nelson James Carl|2026-05-15|50000.0|18.5",
+      "symbol": "EROK",
+      "companyName": "EagleRock Land, LLC",
+      "reportingName": "Nelson James Carl",
+      "title": "",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-19 18:44 ET",
+      "shares": 50000.0,
+      "price": 18.5,
+      "totalValue": 925000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2104882/000119312526231279/ownership.xml"
+    },
+    {
+      "uid": "EROK|Wallace Michael Wayne|2026-05-15|250000.0|18.5",
+      "symbol": "EROK",
+      "companyName": "EagleRock Land, LLC",
+      "reportingName": "Wallace Michael Wayne",
+      "title": "",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-19 18:41 ET",
+      "shares": 250000.0,
+      "price": 18.5,
+      "totalValue": 4625000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2104882/000119312526231271/ownership.xml"
+    },
+    {
+      "uid": "EROK|Reed Stephanie L|2026-05-15|13513.0|18.5",
+      "symbol": "EROK",
+      "companyName": "EagleRock Land, LLC",
+      "reportingName": "Reed Stephanie L",
+      "title": "",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-19 18:40 ET",
+      "shares": 13513.0,
+      "price": 18.5,
+      "totalValue": 249990.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1799333/000119312526231265/ownership.xml"
+    },
+    {
+      "uid": "EROK|Lott Jeff Slaughter|2026-05-15|250000.0|18.5",
+      "symbol": "EROK",
+      "companyName": "EagleRock Land, LLC",
+      "reportingName": "Lott Jeff Slaughter",
+      "title": "",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-19 18:35 ET",
+      "shares": 250000.0,
+      "price": 18.5,
+      "totalValue": 4625000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2104882/000119312526231255/ownership.xml"
+    },
     {
       "uid": "AZTA|Cornog William L|2026-05-18|10000.0|16.38",
       "symbol": "AZTA",
