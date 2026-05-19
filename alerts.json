@@ -1,6 +1,32 @@
 {
-  "updated": "2026-05-18 23:45 UTC",
+  "updated": "2026-05-19 01:50 UTC",
   "alerts": [
+    {
+      "uid": "GSHD|Thornthwaite Martin Ellis|2026-05-18|5000.0|41.5",
+      "symbol": "GSHD",
+      "companyName": "Goosehead Insurance, Inc.",
+      "reportingName": "Thornthwaite Martin Ellis",
+      "title": "General Counsel",
+      "transactionDate": "2026-05-18",
+      "filingDatetime": "2026-05-18 21:23 ET",
+      "shares": 5000.0,
+      "price": 41.5,
+      "totalValue": 207500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1726978/000095010326007352/ownership.xml"
+    },
+    {
+      "uid": "ZBIO|MOULDER LEON O JR|2026-05-18|60000.0|16.88",
+      "symbol": "ZBIO",
+      "companyName": "Zenas BioPharma, Inc.",
+      "reportingName": "MOULDER LEON O JR",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-05-18",
+      "filingDatetime": "2026-05-18 21:12 ET",
+      "shares": 60000.0,
+      "price": 16.88,
+      "totalValue": 1012800.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1228865/000110465926063362/tm2615027-1_4seq1.xml"
+    },
     {
       "uid": "BKKT|ALFRED MICHAEL|2026-05-18|220000.0|8.2",
       "symbol": "BKKT",
