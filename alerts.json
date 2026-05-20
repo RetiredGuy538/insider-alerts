@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-19 22:50 UTC",
+  "updated": "2026-05-20 00:00 UTC",
   "alerts": [
+    {
+      "uid": "RIVN|Gomez Aidan N.|2026-05-15|18000.0|13.97",
+      "symbol": "RIVN",
+      "companyName": "Rivian Automotive, Inc. / DE",
+      "reportingName": "Gomez Aidan N.",
+      "title": "",
+      "transactionDate": "2026-05-15",
+      "filingDatetime": "2026-05-19 19:24 ET",
+      "shares": 18000.0,
+      "price": 13.97,
+      "totalValue": 251460.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1874178/000206649126000007/wk-form4_1779233069.xml"
+    },
     {
       "uid": "EROK|Nelson James Carl|2026-05-15|50000.0|18.5",
       "symbol": "EROK",
