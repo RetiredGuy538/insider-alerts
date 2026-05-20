@@ -1,6 +1,45 @@
 {
-  "updated": "2026-05-20 20:55 UTC",
+  "updated": "2026-05-20 22:22 UTC",
   "alerts": [
+    {
+      "uid": "WEX|GROCH JAMES R|2026-05-18|1500.0|142.95",
+      "symbol": "WEX",
+      "companyName": "WEX Inc.",
+      "reportingName": "GROCH JAMES R",
+      "title": "",
+      "transactionDate": "2026-05-18",
+      "filingDatetime": "2026-05-20 17:54 ET",
+      "shares": 1500.0,
+      "price": 142.95,
+      "totalValue": 214425.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1185424/000118542426000010/wk-form4_1779314055.xml"
+    },
+    {
+      "uid": "TXO|SIMPSON BOB R|2026-05-20|90152.0|13.3514",
+      "symbol": "TXO",
+      "companyName": "TXO Partners, L.P.",
+      "reportingName": "SIMPSON BOB R",
+      "title": "",
+      "transactionDate": "2026-05-20",
+      "filingDatetime": "2026-05-20 17:48 ET",
+      "shares": 90152.0,
+      "price": 13.3514,
+      "totalValue": 1203655.41,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000008/ownership.xml"
+    },
+    {
+      "uid": "TXO|SIMPSON BOB R|2026-05-18|58251.0|13.1687",
+      "symbol": "TXO",
+      "companyName": "TXO Partners, L.P.",
+      "reportingName": "SIMPSON BOB R",
+      "title": "",
+      "transactionDate": "2026-05-18",
+      "filingDatetime": "2026-05-20 17:48 ET",
+      "shares": 58251.0,
+      "price": 13.1687,
+      "totalValue": 767089.94,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000008/ownership.xml"
+    },
     {
       "uid": "RIVN|Gomez Aidan N.|2026-05-15|18000.0|13.97",
       "symbol": "RIVN",
