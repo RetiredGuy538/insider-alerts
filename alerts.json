@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-20 22:22 UTC",
+  "updated": "2026-05-20 23:47 UTC",
   "alerts": [
+    {
+      "uid": "EQPT|HILL W BRYAN|2026-05-19|21803.0|22.89",
+      "symbol": "EQPT",
+      "companyName": "EquipmentShare.com Inc",
+      "reportingName": "HILL W BRYAN",
+      "title": "",
+      "transactionDate": "2026-05-19",
+      "filingDatetime": "2026-05-20 18:55 ET",
+      "shares": 21803.0,
+      "price": 22.89,
+      "totalValue": 499070.67,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1232293/000095010326007556/ownership.xml"
+    },
     {
       "uid": "WEX|GROCH JAMES R|2026-05-18|1500.0|142.95",
       "symbol": "WEX",
