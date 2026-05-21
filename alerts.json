@@ -1,6 +1,45 @@
 {
-  "updated": "2026-05-20 23:47 UTC",
+  "updated": "2026-05-21 02:53 UTC",
   "alerts": [
+    {
+      "uid": "FBIN|GARDEN EDWARD P|2026-05-20|5900.0|33.28",
+      "symbol": "FBIN",
+      "companyName": "Fortune Brands Innovations, Inc.",
+      "reportingName": "GARDEN EDWARD P",
+      "title": "",
+      "transactionDate": "2026-05-20",
+      "filingDatetime": "2026-05-20 21:29 ET",
+      "shares": 5900.0,
+      "price": 33.28,
+      "totalValue": 196352.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1257864/000121390026059773/ownership.xml"
+    },
+    {
+      "uid": "FBIN|GARDEN EDWARD P|2026-05-19|403000.0|33.4",
+      "symbol": "FBIN",
+      "companyName": "Fortune Brands Innovations, Inc.",
+      "reportingName": "GARDEN EDWARD P",
+      "title": "",
+      "transactionDate": "2026-05-19",
+      "filingDatetime": "2026-05-20 21:29 ET",
+      "shares": 403000.0,
+      "price": 33.4,
+      "totalValue": 13460200.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1257864/000121390026059773/ownership.xml"
+    },
+    {
+      "uid": "MP|Rosenthal Michael Stuart|2026-05-20|17000.0|56.62",
+      "symbol": "MP",
+      "companyName": "MP Materials Corp. / DE",
+      "reportingName": "Rosenthal Michael Stuart",
+      "title": "Chief Operating Officer",
+      "transactionDate": "2026-05-20",
+      "filingDatetime": "2026-05-20 21:03 ET",
+      "shares": 17000.0,
+      "price": 56.62,
+      "totalValue": 962540.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1801368/000183205026000005/wk-form4_1779325382.xml"
+    },
     {
       "uid": "EQPT|HILL W BRYAN|2026-05-19|21803.0|22.89",
       "symbol": "EQPT",
