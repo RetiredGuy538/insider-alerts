@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-21 20:12 UTC",
+  "updated": "2026-05-21 21:48 UTC",
   "alerts": [
+    {
+      "uid": "BETA|Stone Michael Robert|2026-05-19|17135.023|14.59",
+      "symbol": "BETA",
+      "companyName": "BETA Technologies, Inc.",
+      "reportingName": "Stone Michael Robert",
+      "title": "",
+      "transactionDate": "2026-05-19",
+      "filingDatetime": "2026-05-21 17:40 ET",
+      "shares": 17135.023,
+      "price": 14.59,
+      "totalValue": 249999.99,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1784570/000209037026000002/primarydocument.xml"
+    },
     {
       "uid": "FBIN|GARDEN EDWARD P|2026-05-20|5900.0|33.28",
       "symbol": "FBIN",
