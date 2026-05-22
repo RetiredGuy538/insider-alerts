@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-22 15:46 UTC",
+  "updated": "2026-05-22 17:48 UTC",
   "alerts": [
+    {
+      "uid": "SPB|Maura David M|2026-05-20|2500.0|72.85",
+      "symbol": "SPB",
+      "companyName": "Spectrum Brands Holdings, Inc.",
+      "reportingName": "Maura David M",
+      "title": "Executive Chairman and CEO",
+      "transactionDate": "2026-05-20",
+      "filingDatetime": "2026-05-22 13:45 ET",
+      "shares": 2500.0,
+      "price": 72.85,
+      "totalValue": 182125.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/109177/000136583326000002/wk-form4_1779471921.xml"
+    },
     {
       "uid": "BLND|Haveli Investments, L.P.|2026-05-20|185611.0|1.4982",
       "symbol": "BLND",
