@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-21 22:59 UTC",
+  "updated": "2026-05-22 00:11 UTC",
   "alerts": [
     {
       "uid": "BETA|Stone Michael Robert|2026-05-19|17135.023|14.59",
@@ -1833,32 +1833,6 @@
       "price": 19.4889,
       "totalValue": 194889.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1979330/000143774926013302/rdgdoc.xml"
-    },
-    {
-      "uid": "BMI|Htwe Richard|2026-04-21|1700.0|116.13",
-      "symbol": "BMI",
-      "companyName": "BADGER METER INC",
-      "reportingName": "Htwe Richard",
-      "title": "VP-Global Operations",
-      "transactionDate": "2026-04-21",
-      "filingDatetime": "2026-04-22 11:30 ET",
-      "shares": 1700.0,
-      "price": 116.13,
-      "totalValue": 197421.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/9092/000119312526169265/ownership.xml"
-    },
-    {
-      "uid": "BMI|Bockhorst Kenneth|2026-04-21|2200.0|117.5333",
-      "symbol": "BMI",
-      "companyName": "BADGER METER INC",
-      "reportingName": "Bockhorst Kenneth",
-      "title": "Chairman, President & CEO",
-      "transactionDate": "2026-04-21",
-      "filingDatetime": "2026-04-21 15:42 ET",
-      "shares": 2200.0,
-      "price": 117.5333,
-      "totalValue": 258573.26,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/9092/000119312526166603/ownership.xml"
     }
   ]
 }
