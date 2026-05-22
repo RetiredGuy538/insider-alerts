@@ -1,6 +1,32 @@
 {
-  "updated": "2026-05-22 00:11 UTC",
+  "updated": "2026-05-22 04:35 UTC",
   "alerts": [
+    {
+      "uid": "BLND|Haveli Investments, L.P.|2026-05-20|185611.0|1.4982",
+      "symbol": "BLND",
+      "companyName": "Blend Labs, Inc.",
+      "reportingName": "Haveli Investments, L.P.",
+      "title": "",
+      "transactionDate": "2026-05-20",
+      "filingDatetime": "2026-05-21 20:15 ET",
+      "shares": 185611.0,
+      "price": 1.4982,
+      "totalValue": 278082.4,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526235156/ownership.xml"
+    },
+    {
+      "uid": "BLND|Haveli Investments, L.P.|2026-05-19|583450.0|1.4875",
+      "symbol": "BLND",
+      "companyName": "Blend Labs, Inc.",
+      "reportingName": "Haveli Investments, L.P.",
+      "title": "",
+      "transactionDate": "2026-05-19",
+      "filingDatetime": "2026-05-21 20:15 ET",
+      "shares": 583450.0,
+      "price": 1.4875,
+      "totalValue": 867881.88,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526235156/ownership.xml"
+    },
     {
       "uid": "BETA|Stone Michael Robert|2026-05-19|17135.023|14.59",
       "symbol": "BETA",
