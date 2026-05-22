@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-22 20:54 UTC",
+  "updated": "2026-05-22 22:04 UTC",
   "alerts": [
+    {
+      "uid": "PNBK|De Tomasi Mario|2026-05-20|87719.0|1.15",
+      "symbol": "PNBK",
+      "companyName": "PATRIOT NATIONAL BANCORP INC",
+      "reportingName": "De Tomasi Mario",
+      "title": "",
+      "transactionDate": "2026-05-20",
+      "filingDatetime": "2026-05-22 18:03 ET",
+      "shares": 87719.0,
+      "price": 1.15,
+      "totalValue": 100876.85,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1098146/000143774926018295/rdgdoc.xml"
+    },
     {
       "uid": "SPB|Maura David M|2026-05-20|2500.0|72.85",
       "symbol": "SPB",
