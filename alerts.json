@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-23 01:21 UTC",
+  "updated": "2026-05-25 02:58 UTC",
   "alerts": [
+    {
+      "uid": "BRCB|Geyer Clay Howard|2026-05-21|45080.0|6.51",
+      "symbol": "BRCB",
+      "companyName": "Black Rock Coffee Bar, Inc.",
+      "reportingName": "Geyer Clay Howard",
+      "title": "Chief Operating Officer",
+      "transactionDate": "2026-05-21",
+      "filingDatetime": "2026-05-22 21:42 ET",
+      "shares": 45080.0,
+      "price": 6.51,
+      "totalValue": 293470.8,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2068577/000162828026037910/wk-form4_1779500519.xml"
+    },
     {
       "uid": "PNBK|De Tomasi Mario|2026-05-20|87719.0|1.15",
       "symbol": "PNBK",
@@ -1794,84 +1807,6 @@
       "price": 17.09,
       "totalValue": 111085.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/49196/000122520826004706/doc4.xml"
-    },
-    {
-      "uid": "NBP|Hagler Mark Arnold|2026-04-24|230000.0|2.51",
-      "symbol": "NBP",
-      "companyName": "NovaBridge Biosciences",
-      "reportingName": "Hagler Mark Arnold",
-      "title": "See Remarks",
-      "transactionDate": "2026-04-24",
-      "filingDatetime": "2026-04-28 16:05 ET",
-      "shares": 230000.0,
-      "price": 2.51,
-      "totalValue": 577300.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1778016/000119312526186924/ownership.xml"
-    },
-    {
-      "uid": "GAME|Blue & Silver Ventures, Ltd.|2026-04-24|417813.0|0.6",
-      "symbol": "GAME",
-      "companyName": "GameSquare Holdings, Inc.",
-      "reportingName": "Blue & Silver Ventures, Ltd.",
-      "title": "",
-      "transactionDate": "2026-04-24",
-      "filingDatetime": "2026-04-27 21:56 ET",
-      "shares": 417813.0,
-      "price": 0.6,
-      "totalValue": 250687.8,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226019216/ownership.xml"
-    },
-    {
-      "uid": "GAME|Blue & Silver Ventures, Ltd.|2026-04-23|922890.0|0.6",
-      "symbol": "GAME",
-      "companyName": "GameSquare Holdings, Inc.",
-      "reportingName": "Blue & Silver Ventures, Ltd.",
-      "title": "",
-      "transactionDate": "2026-04-23",
-      "filingDatetime": "2026-04-27 21:56 ET",
-      "shares": 922890.0,
-      "price": 0.6,
-      "totalValue": 553734.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1714562/000149315226019216/ownership.xml"
-    },
-    {
-      "uid": "ABT|Boudreau Philip P|2026-04-23|2200.0|91.5",
-      "symbol": "ABT",
-      "companyName": "ABBOTT LABORATORIES",
-      "reportingName": "Boudreau Philip P",
-      "title": "EVP AND CFO",
-      "transactionDate": "2026-04-23",
-      "filingDatetime": "2026-04-27 17:34 ET",
-      "shares": 2200.0,
-      "price": 91.5,
-      "totalValue": 201300.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1800/000180509926000006/form4-04272026_090443.xml"
-    },
-    {
-      "uid": "NBBK|Pascucci Hope|2026-04-24|10000.0|19.4392",
-      "symbol": "NBBK",
-      "companyName": "NB Bancorp, Inc.",
-      "reportingName": "Pascucci Hope",
-      "title": "",
-      "transactionDate": "2026-04-24",
-      "filingDatetime": "2026-04-24 15:04 ET",
-      "shares": 10000.0,
-      "price": 19.4392,
-      "totalValue": 194392.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1979330/000143774926013302/rdgdoc.xml"
-    },
-    {
-      "uid": "NBBK|Pascucci Hope|2026-04-24|10000.0|19.4889",
-      "symbol": "NBBK",
-      "companyName": "NB Bancorp, Inc.",
-      "reportingName": "Pascucci Hope",
-      "title": "",
-      "transactionDate": "2026-04-24",
-      "filingDatetime": "2026-04-24 15:04 ET",
-      "shares": 10000.0,
-      "price": 19.4889,
-      "totalValue": 194889.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1979330/000143774926013302/rdgdoc.xml"
     }
   ]
 }
