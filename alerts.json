@@ -1,6 +1,45 @@
 {
-  "updated": "2026-05-26 19:08 UTC",
+  "updated": "2026-05-26 20:59 UTC",
   "alerts": [
+    {
+      "uid": "GLP|Global GP LLC|2026-05-26|5000.0|48.92",
+      "symbol": "GLP",
+      "companyName": "GLOBAL PARTNERS LP",
+      "reportingName": "Global GP LLC",
+      "title": "",
+      "transactionDate": "2026-05-26",
+      "filingDatetime": "2026-05-26 16:54 ET",
+      "shares": 5000.0,
+      "price": 48.92,
+      "totalValue": 244600.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000068/form4.xml"
+    },
+    {
+      "uid": "GLP|Global GP LLC|2026-05-22|4184.0|50.05",
+      "symbol": "GLP",
+      "companyName": "GLOBAL PARTNERS LP",
+      "reportingName": "Global GP LLC",
+      "title": "",
+      "transactionDate": "2026-05-22",
+      "filingDatetime": "2026-05-26 16:54 ET",
+      "shares": 4184.0,
+      "price": 50.05,
+      "totalValue": 209409.2,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000068/form4.xml"
+    },
+    {
+      "uid": "GLP|Global GP LLC|2026-05-21|5000.0|51.28",
+      "symbol": "GLP",
+      "companyName": "GLOBAL PARTNERS LP",
+      "reportingName": "Global GP LLC",
+      "title": "",
+      "transactionDate": "2026-05-21",
+      "filingDatetime": "2026-05-26 16:54 ET",
+      "shares": 5000.0,
+      "price": 51.28,
+      "totalValue": 256400.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000068/form4.xml"
+    },
     {
       "uid": "BRCB|Geyer Clay Howard|2026-05-21|45080.0|6.51",
       "symbol": "BRCB",
