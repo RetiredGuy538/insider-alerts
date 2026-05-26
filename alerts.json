@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-26 22:25 UTC",
+  "updated": "2026-05-26 23:39 UTC",
   "alerts": [
+    {
+      "uid": "ENPH|Kothandaraman Badrinarayanan|2026-05-26|4400.0|67.3749",
+      "symbol": "ENPH",
+      "companyName": "Enphase Energy, Inc.",
+      "reportingName": "Kothandaraman Badrinarayanan",
+      "title": "President & CEO",
+      "transactionDate": "2026-05-26",
+      "filingDatetime": "2026-05-26 19:04 ET",
+      "shares": 4400.0,
+      "price": 67.3749,
+      "totalValue": 296449.56,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1463101/000154377726000005/wk-form4_1779836663.xml"
+    },
     {
       "uid": "GLP|Global GP LLC|2026-05-26|5000.0|48.92",
       "symbol": "GLP",
