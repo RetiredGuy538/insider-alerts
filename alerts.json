@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-27 19:04 UTC",
+  "updated": "2026-05-27 21:11 UTC",
   "alerts": [
+    {
+      "uid": "TXO|SIMPSON BOB R|2026-05-27|65592.0|13.2036",
+      "symbol": "TXO",
+      "companyName": "TXO Partners, L.P.",
+      "reportingName": "SIMPSON BOB R",
+      "title": "",
+      "transactionDate": "2026-05-27",
+      "filingDatetime": "2026-05-27 17:02 ET",
+      "shares": 65592.0,
+      "price": 13.2036,
+      "totalValue": 866050.53,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000013/ownership.xml"
+    },
     {
       "uid": "ROCK|Bosway William T|2026-05-26|19735.0|37.4377",
       "symbol": "ROCK",
