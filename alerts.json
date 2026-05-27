@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-27 01:51 UTC",
+  "updated": "2026-05-27 16:34 UTC",
   "alerts": [
+    {
+      "uid": "ROCK|Bosway William T|2026-05-26|19735.0|37.4377",
+      "symbol": "ROCK",
+      "companyName": "GIBRALTAR INDUSTRIES, INC.",
+      "reportingName": "Bosway William T",
+      "title": "President and CEO",
+      "transactionDate": "2026-05-26",
+      "filingDatetime": "2026-05-27 12:00 ET",
+      "shares": 19735.0,
+      "price": 37.4377,
+      "totalValue": 738833.01,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/912562/000091256226000122/form4.xml"
+    },
     {
       "uid": "WHF|Aronson Stuart D|2026-05-21|20000.0|6.67",
       "symbol": "WHF",
