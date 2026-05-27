@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-26 23:39 UTC",
+  "updated": "2026-05-27 01:51 UTC",
   "alerts": [
+    {
+      "uid": "WHF|Aronson Stuart D|2026-05-21|20000.0|6.67",
+      "symbol": "WHF",
+      "companyName": "WhiteHorse Finance, Inc.",
+      "reportingName": "Aronson Stuart D",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-05-21",
+      "filingDatetime": "2026-05-26 20:47 ET",
+      "shares": 20000.0,
+      "price": 6.67,
+      "totalValue": 133400.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1552198/000110465926066477/tm2615556-1_4seq1.xml"
+    },
     {
       "uid": "ENPH|Kothandaraman Badrinarayanan|2026-05-26|4400.0|67.3749",
       "symbol": "ENPH",
