@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27 23:57 UTC",
+  "updated": "2026-05-28 03:54 UTC",
   "alerts": [
     {
       "uid": "BOC|Royal Jeffrey C|2026-05-27|10000.0|12.72",
@@ -1963,19 +1963,6 @@
       "price": 18.02,
       "totalValue": 450500.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1228865/000110465926051889/tm2613154-1_4seq1.xml"
-    },
-    {
-      "uid": "HBAN|ROLLINS JAMES D III|2026-04-27|6500.0|17.09",
-      "symbol": "HBAN",
-      "companyName": "HUNTINGTON BANCSHARES INC /MD/",
-      "reportingName": "ROLLINS JAMES D III",
-      "title": "",
-      "transactionDate": "2026-04-27",
-      "filingDatetime": "2026-04-29 18:53 ET",
-      "shares": 6500.0,
-      "price": 17.09,
-      "totalValue": 111085.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/49196/000122520826004706/doc4.xml"
     }
   ]
 }
