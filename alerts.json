@@ -1,6 +1,58 @@
 {
-  "updated": "2026-05-29 19:16 UTC",
+  "updated": "2026-05-29 21:20 UTC",
   "alerts": [
+    {
+      "uid": "CDNL|Wood Benjamin|2026-05-27|6739.0|49.89",
+      "symbol": "CDNL",
+      "companyName": "Cardinal Infrastructure Group Inc.",
+      "reportingName": "Wood Benjamin",
+      "title": "CHIEF OPERATING OFFICER",
+      "transactionDate": "2026-05-27",
+      "filingDatetime": "2026-05-29 17:15 ET",
+      "shares": 6739.0,
+      "price": 49.89,
+      "totalValue": 336208.71,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2079999/000121390026062942/ownership.xml"
+    },
+    {
+      "uid": "CDNL|Wood Benjamin|2026-05-27|5355.0|50.78",
+      "symbol": "CDNL",
+      "companyName": "Cardinal Infrastructure Group Inc.",
+      "reportingName": "Wood Benjamin",
+      "title": "CHIEF OPERATING OFFICER",
+      "transactionDate": "2026-05-27",
+      "filingDatetime": "2026-05-29 17:15 ET",
+      "shares": 5355.0,
+      "price": 50.78,
+      "totalValue": 271926.9,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2079999/000121390026062942/ownership.xml"
+    },
+    {
+      "uid": "CDNL|Wood Benjamin|2026-05-27|4206.0|51.9",
+      "symbol": "CDNL",
+      "companyName": "Cardinal Infrastructure Group Inc.",
+      "reportingName": "Wood Benjamin",
+      "title": "CHIEF OPERATING OFFICER",
+      "transactionDate": "2026-05-27",
+      "filingDatetime": "2026-05-29 17:15 ET",
+      "shares": 4206.0,
+      "price": 51.9,
+      "totalValue": 218291.4,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2079999/000121390026062942/ownership.xml"
+    },
+    {
+      "uid": "CDNL|Wood Benjamin|2026-05-27|3600.0|53.9",
+      "symbol": "CDNL",
+      "companyName": "Cardinal Infrastructure Group Inc.",
+      "reportingName": "Wood Benjamin",
+      "title": "CHIEF OPERATING OFFICER",
+      "transactionDate": "2026-05-27",
+      "filingDatetime": "2026-05-29 17:15 ET",
+      "shares": 3600.0,
+      "price": 53.9,
+      "totalValue": 194040.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2079999/000121390026062942/ownership.xml"
+    },
     {
       "uid": "BOC|Royal Jeffrey C|2026-05-27|10000.0|12.72",
       "symbol": "BOC",
