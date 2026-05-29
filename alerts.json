@@ -1,6 +1,19 @@
 {
-  "updated": "2026-05-29 21:20 UTC",
+  "updated": "2026-05-29 22:48 UTC",
   "alerts": [
+    {
+      "uid": "DC|KENNER TODD J|2026-05-28|17921.0|5.6",
+      "symbol": "DC",
+      "companyName": "Dakota Gold Corp.",
+      "reportingName": "KENNER TODD J",
+      "title": "",
+      "transactionDate": "2026-05-28",
+      "filingDatetime": "2026-05-29 18:22 ET",
+      "shares": 17921.0,
+      "price": 5.6,
+      "totalValue": 100357.6,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1203760/000110465926068409/tm2616034-1_4seq1.xml"
+    },
     {
       "uid": "CDNL|Wood Benjamin|2026-05-27|6739.0|49.89",
       "symbol": "CDNL",
