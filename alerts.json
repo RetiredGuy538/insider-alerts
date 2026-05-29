@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28 23:01 UTC",
+  "updated": "2026-05-29 00:20 UTC",
   "alerts": [
     {
       "uid": "BOC|Royal Jeffrey C|2026-05-27|10000.0|12.72",
@@ -1926,19 +1926,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1864148/000186414826000006/primary_doc.xml"
     },
     {
-      "uid": "IPX|Hannigan Todd|2026-04-28|220000.0|4.4819",
-      "symbol": "IPX",
-      "companyName": "IPERIONX Ltd",
-      "reportingName": "Hannigan Todd",
-      "title": "Executive Chairman",
-      "transactionDate": "2026-04-28",
-      "filingDatetime": "2026-04-29 21:51 ET",
-      "shares": 220000.0,
-      "price": 4.4819,
-      "totalValue": 986018.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1864148/000186414826000006/primary_doc.xml"
-    },
-    {
       "uid": "ZBIO|MOULDER LEON O JR|2026-04-29|35000.0|17.62",
       "symbol": "ZBIO",
       "companyName": "Zenas BioPharma, Inc.",
@@ -1949,19 +1936,6 @@
       "shares": 35000.0,
       "price": 17.62,
       "totalValue": 616700.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1228865/000110465926051889/tm2613154-1_4seq1.xml"
-    },
-    {
-      "uid": "ZBIO|MOULDER LEON O JR|2026-04-28|25000.0|18.02",
-      "symbol": "ZBIO",
-      "companyName": "Zenas BioPharma, Inc.",
-      "reportingName": "MOULDER LEON O JR",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-04-28",
-      "filingDatetime": "2026-04-29 19:21 ET",
-      "shares": 25000.0,
-      "price": 18.02,
-      "totalValue": 450500.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1228865/000110465926051889/tm2613154-1_4seq1.xml"
     }
   ]
