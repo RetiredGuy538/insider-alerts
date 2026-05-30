@@ -1,6 +1,32 @@
 {
-  "updated": "2026-05-29 22:48 UTC",
+  "updated": "2026-05-30 00:06 UTC",
   "alerts": [
+    {
+      "uid": "ADSK|Smith Stacy J|2026-05-29|696.0|230.48",
+      "symbol": "ADSK",
+      "companyName": "Autodesk, Inc.",
+      "reportingName": "Smith Stacy J",
+      "title": "",
+      "transactionDate": "2026-05-29",
+      "filingDatetime": "2026-05-29 19:34 ET",
+      "shares": 696.0,
+      "price": 230.48,
+      "totalValue": 160414.08,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/769397/000076939726000046/wk-form4_1780097667.xml"
+    },
+    {
+      "uid": "ADSK|Smith Stacy J|2026-05-29|2739.0|231.34",
+      "symbol": "ADSK",
+      "companyName": "Autodesk, Inc.",
+      "reportingName": "Smith Stacy J",
+      "title": "",
+      "transactionDate": "2026-05-29",
+      "filingDatetime": "2026-05-29 19:34 ET",
+      "shares": 2739.0,
+      "price": 231.34,
+      "totalValue": 633640.26,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/769397/000076939726000046/wk-form4_1780097667.xml"
+    },
     {
       "uid": "DC|KENNER TODD J|2026-05-28|17921.0|5.6",
       "symbol": "DC",
@@ -1976,32 +2002,6 @@
       "price": 24.72,
       "totalValue": 6000000.01,
       "secLink": "https://www.sec.gov/Archives/edgar/data/913357/000089914026000403/form4.xml"
-    },
-    {
-      "uid": "IPX|Hannigan Todd|2026-04-29|260000.0|4.1991",
-      "symbol": "IPX",
-      "companyName": "IPERIONX Ltd",
-      "reportingName": "Hannigan Todd",
-      "title": "Executive Chairman",
-      "transactionDate": "2026-04-29",
-      "filingDatetime": "2026-04-29 21:51 ET",
-      "shares": 260000.0,
-      "price": 4.1991,
-      "totalValue": 1091766.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1864148/000186414826000006/primary_doc.xml"
-    },
-    {
-      "uid": "ZBIO|MOULDER LEON O JR|2026-04-29|35000.0|17.62",
-      "symbol": "ZBIO",
-      "companyName": "Zenas BioPharma, Inc.",
-      "reportingName": "MOULDER LEON O JR",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-04-29",
-      "filingDatetime": "2026-04-29 19:21 ET",
-      "shares": 35000.0,
-      "price": 17.62,
-      "totalValue": 616700.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1228865/000110465926051889/tm2613154-1_4seq1.xml"
     }
   ]
 }
