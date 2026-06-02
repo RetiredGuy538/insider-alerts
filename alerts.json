@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-02 17:17 UTC",
+  "updated": "2026-06-02 20:23 UTC",
   "alerts": [
+    {
+      "uid": "NHC|Piercey Lisa|2026-06-01|949.0|184.2559",
+      "symbol": "NHC",
+      "companyName": "NATIONAL HEALTHCARE CORP",
+      "reportingName": "Piercey Lisa",
+      "title": "",
+      "transactionDate": "2026-06-01",
+      "filingDatetime": "2026-06-02 16:20 ET",
+      "shares": 949.0,
+      "price": 184.2559,
+      "totalValue": 174858.85,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1047335/000143774926019170/rdgdoc.xml"
+    },
     {
       "uid": "ADSK|Smith Stacy J|2026-05-29|696.0|230.48",
       "symbol": "ADSK",
