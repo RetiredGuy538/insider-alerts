@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-03 21:18 UTC",
+  "updated": "2026-06-03 23:16 UTC",
   "alerts": [
+    {
+      "uid": "HOOD|Malka Meyer|2026-06-03|181000.0|83.4467",
+      "symbol": "HOOD",
+      "companyName": "Robinhood Markets, Inc.",
+      "reportingName": "Malka Meyer",
+      "title": "",
+      "transactionDate": "2026-06-03",
+      "filingDatetime": "2026-06-03 18:50 ET",
+      "shares": 181000.0,
+      "price": 83.4467,
+      "totalValue": 15103852.7,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1571355/000110465926070232/tm2616819-1_4seq1.xml"
+    },
     {
       "uid": "NHC|Piercey Lisa|2026-06-01|949.0|184.2559",
       "symbol": "NHC",
