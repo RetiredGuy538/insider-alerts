@@ -1,6 +1,32 @@
 {
-  "updated": "2026-06-03 23:16 UTC",
+  "updated": "2026-06-04 02:04 UTC",
   "alerts": [
+    {
+      "uid": "TXO|SIMPSON BOB R|2026-06-03|369153.0|13.9113",
+      "symbol": "TXO",
+      "companyName": "TXO Partners, L.P.",
+      "reportingName": "SIMPSON BOB R",
+      "title": "",
+      "transactionDate": "2026-06-03",
+      "filingDatetime": "2026-06-03 21:22 ET",
+      "shares": 369153.0,
+      "price": 13.9113,
+      "totalValue": 5135398.13,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000015/ownership.xml"
+    },
+    {
+      "uid": "TXO|SIMPSON BOB R|2026-06-02|230847.0|13.4131",
+      "symbol": "TXO",
+      "companyName": "TXO Partners, L.P.",
+      "reportingName": "SIMPSON BOB R",
+      "title": "",
+      "transactionDate": "2026-06-02",
+      "filingDatetime": "2026-06-03 21:22 ET",
+      "shares": 230847.0,
+      "price": 13.4131,
+      "totalValue": 3096373.9,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000015/ownership.xml"
+    },
     {
       "uid": "HOOD|Malka Meyer|2026-06-03|181000.0|83.4467",
       "symbol": "HOOD",
@@ -1924,45 +1950,6 @@
       "price": 85.8248,
       "totalValue": 429124.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/21076/000122520826004962/doc4.xml"
-    },
-    {
-      "uid": "CAT|MacLennan David|2026-05-04|250.0|876.84",
-      "symbol": "CAT",
-      "companyName": "CATERPILLAR INC",
-      "reportingName": "MacLennan David",
-      "title": "",
-      "transactionDate": "2026-05-04",
-      "filingDatetime": "2026-05-05 14:00 ET",
-      "shares": 250.0,
-      "price": 876.84,
-      "totalValue": 219210.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/18230/000110465926055493/tm2613618-1_4seq1.xml"
-    },
-    {
-      "uid": "FND|LANGLEY BRYAN|2026-05-04|2500.0|48.69",
-      "symbol": "FND",
-      "companyName": "Floor & Decor Holdings, Inc.",
-      "reportingName": "LANGLEY BRYAN",
-      "title": "EVP & CHIEF FINANCIAL OFFICER",
-      "transactionDate": "2026-05-04",
-      "filingDatetime": "2026-05-04 18:28 ET",
-      "shares": 2500.0,
-      "price": 48.69,
-      "totalValue": 121725.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1507079/000162828026029998/wk-form4_1777933681.xml"
-    },
-    {
-      "uid": "GLND|BAQAR HASSAN|2026-05-04|45000.0|2.9",
-      "symbol": "GLND",
-      "companyName": "Greenland Energy Co",
-      "reportingName": "BAQAR HASSAN",
-      "title": "",
-      "transactionDate": "2026-05-04",
-      "filingDatetime": "2026-05-04 16:10 ET",
-      "shares": 45000.0,
-      "price": 2.9,
-      "totalValue": 130500.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1529638/000182912626004456/ownership.xml"
     }
   ]
 }
