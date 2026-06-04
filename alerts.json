@@ -1,6 +1,45 @@
 {
-  "updated": "2026-06-04 18:33 UTC",
+  "updated": "2026-06-04 20:52 UTC",
   "alerts": [
+    {
+      "uid": "XMTR|Biewald Lukas Alexander|2026-06-03|47058.0|85.0",
+      "symbol": "XMTR",
+      "companyName": "Xometry, Inc.",
+      "reportingName": "Biewald Lukas Alexander",
+      "title": "",
+      "transactionDate": "2026-06-03",
+      "filingDatetime": "2026-06-04 16:48 ET",
+      "shares": 47058.0,
+      "price": 85.0,
+      "totalValue": 3999930.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1657573/000213472226000003/primarydocument.xml"
+    },
+    {
+      "uid": "SMMT|Soni Manmeet Singh|2026-06-04|25000.0|14.46",
+      "symbol": "SMMT",
+      "companyName": "Summit Therapeutics Inc.",
+      "reportingName": "Soni Manmeet Singh",
+      "title": "COO and CFO",
+      "transactionDate": "2026-06-04",
+      "filingDatetime": "2026-06-04 16:40 ET",
+      "shares": 25000.0,
+      "price": 14.46,
+      "totalValue": 361500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1569769/000156976926000004/wk-form4_1780605646.xml"
+    },
+    {
+      "uid": "SMMT|Soni Manmeet Singh|2026-06-04|25000.0|14.43",
+      "symbol": "SMMT",
+      "companyName": "Summit Therapeutics Inc.",
+      "reportingName": "Soni Manmeet Singh",
+      "title": "COO and CFO",
+      "transactionDate": "2026-06-04",
+      "filingDatetime": "2026-06-04 16:40 ET",
+      "shares": 25000.0,
+      "price": 14.43,
+      "totalValue": 360750.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1569769/000156976926000004/wk-form4_1780605646.xml"
+    },
     {
       "uid": "TXO|SIMPSON BOB R|2026-06-03|369153.0|13.9113",
       "symbol": "TXO",
