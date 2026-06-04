@@ -1,6 +1,45 @@
 {
-  "updated": "2026-06-04 20:52 UTC",
+  "updated": "2026-06-04 22:17 UTC",
   "alerts": [
+    {
+      "uid": "AADX|Lynch Susan D|2026-06-04|8000.0|20.0",
+      "symbol": "AADX",
+      "companyName": "Applied Aerospace & Defense, Inc.",
+      "reportingName": "Lynch Susan D",
+      "title": "",
+      "transactionDate": "2026-06-04",
+      "filingDatetime": "2026-06-04 18:00 ET",
+      "shares": 8000.0,
+      "price": 20.0,
+      "totalValue": 160000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1784973/000119312526257860/ownership.xml"
+    },
+    {
+      "uid": "AADX|McRae Jeffrey L.|2026-06-04|25000.0|20.0",
+      "symbol": "AADX",
+      "companyName": "Applied Aerospace & Defense, Inc.",
+      "reportingName": "McRae Jeffrey L.",
+      "title": "Chief Financial Officer",
+      "transactionDate": "2026-06-04",
+      "filingDatetime": "2026-06-04 17:55 ET",
+      "shares": 25000.0,
+      "price": 20.0,
+      "totalValue": 500000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1599036/000119312526257845/ownership.xml"
+    },
+    {
+      "uid": "AADX|Katzman James C|2026-06-04|25000.0|20.0",
+      "symbol": "AADX",
+      "companyName": "Applied Aerospace & Defense, Inc.",
+      "reportingName": "Katzman James C",
+      "title": "",
+      "transactionDate": "2026-06-04",
+      "filingDatetime": "2026-06-04 17:53 ET",
+      "shares": 25000.0,
+      "price": 20.0,
+      "totalValue": 500000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1729886/000119312526257841/ownership.xml"
+    },
     {
       "uid": "XMTR|Biewald Lukas Alexander|2026-06-03|47058.0|85.0",
       "symbol": "XMTR",
