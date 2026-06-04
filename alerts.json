@@ -1,6 +1,32 @@
 {
-  "updated": "2026-06-04 22:17 UTC",
+  "updated": "2026-06-04 23:44 UTC",
   "alerts": [
+    {
+      "uid": "LTC|BOITANO DAVID M|2026-06-04|5000.0|34.69",
+      "symbol": "LTC",
+      "companyName": "LTC PROPERTIES INC",
+      "reportingName": "BOITANO DAVID M",
+      "title": "EVP & CIO",
+      "transactionDate": "2026-06-04",
+      "filingDatetime": "2026-06-04 19:00 ET",
+      "shares": 5000.0,
+      "price": 34.69,
+      "totalValue": 173450.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/887905/000119567926000003/form4-06042026_110644.xml"
+    },
+    {
+      "uid": "LTC|BOITANO DAVID M|2026-06-04|5000.0|34.85",
+      "symbol": "LTC",
+      "companyName": "LTC PROPERTIES INC",
+      "reportingName": "BOITANO DAVID M",
+      "title": "EVP & CIO",
+      "transactionDate": "2026-06-04",
+      "filingDatetime": "2026-06-04 19:00 ET",
+      "shares": 5000.0,
+      "price": 34.85,
+      "totalValue": 174250.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/887905/000119567926000003/form4-06042026_110644.xml"
+    },
     {
       "uid": "AADX|Lynch Susan D|2026-06-04|8000.0|20.0",
       "symbol": "AADX",
