@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-05 22:40 UTC",
+  "updated": "2026-06-05 23:49 UTC",
   "alerts": [
+    {
+      "uid": "BLND|Haveli Investments, L.P.|2026-06-03|240307.0|1.5649",
+      "symbol": "BLND",
+      "companyName": "Blend Labs, Inc.",
+      "reportingName": "Haveli Investments, L.P.",
+      "title": "",
+      "transactionDate": "2026-06-03",
+      "filingDatetime": "2026-06-05 19:41 ET",
+      "shares": 240307.0,
+      "price": 1.5649,
+      "totalValue": 376056.42,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526260213/ownership.xml"
+    },
     {
       "uid": "DNUT|Hees Bernardo|2026-06-04|150000.0|3.2896",
       "symbol": "DNUT",
