@@ -1,6 +1,58 @@
 {
-  "updated": "2026-06-04 23:44 UTC",
+  "updated": "2026-06-05 01:54 UTC",
   "alerts": [
+    {
+      "uid": "DNUT|Hees Bernardo|2026-06-04|150000.0|3.2896",
+      "symbol": "DNUT",
+      "companyName": "Krispy Kreme, Inc.",
+      "reportingName": "Hees Bernardo",
+      "title": "",
+      "transactionDate": "2026-06-04",
+      "filingDatetime": "2026-06-04 20:43 ET",
+      "shares": 150000.0,
+      "price": 3.2896,
+      "totalValue": 493440.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1552354/000155235426000004/wk-form4_1780620187.xml"
+    },
+    {
+      "uid": "DNUT|Hees Bernardo|2026-06-03|170596.0|3.345",
+      "symbol": "DNUT",
+      "companyName": "Krispy Kreme, Inc.",
+      "reportingName": "Hees Bernardo",
+      "title": "",
+      "transactionDate": "2026-06-03",
+      "filingDatetime": "2026-06-04 20:43 ET",
+      "shares": 170596.0,
+      "price": 3.345,
+      "totalValue": 570643.62,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1552354/000155235426000004/wk-form4_1780620187.xml"
+    },
+    {
+      "uid": "DNUT|Hees Bernardo|2026-06-02|235875.0|3.39",
+      "symbol": "DNUT",
+      "companyName": "Krispy Kreme, Inc.",
+      "reportingName": "Hees Bernardo",
+      "title": "",
+      "transactionDate": "2026-06-02",
+      "filingDatetime": "2026-06-04 20:43 ET",
+      "shares": 235875.0,
+      "price": 3.39,
+      "totalValue": 799616.25,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1552354/000155235426000004/wk-form4_1780620187.xml"
+    },
+    {
+      "uid": "DNUT|Hees Bernardo|2026-06-01|73640.0|3.436",
+      "symbol": "DNUT",
+      "companyName": "Krispy Kreme, Inc.",
+      "reportingName": "Hees Bernardo",
+      "title": "",
+      "transactionDate": "2026-06-01",
+      "filingDatetime": "2026-06-04 20:43 ET",
+      "shares": 73640.0,
+      "price": 3.436,
+      "totalValue": 253027.04,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1552354/000155235426000004/wk-form4_1780620187.xml"
+    },
     {
       "uid": "LTC|BOITANO DAVID M|2026-06-04|5000.0|34.69",
       "symbol": "LTC",
@@ -1991,19 +2043,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1035443/000121695526000017/wk-form4_1778185919.xml"
     },
     {
-      "uid": "ANGX|Sarowitz Steven I|2026-05-05|321544.0|3.0558",
-      "symbol": "ANGX",
-      "companyName": "Angel Studios, Inc.",
-      "reportingName": "Sarowitz Steven I",
-      "title": "",
-      "transactionDate": "2026-05-05",
-      "filingDatetime": "2026-05-07 14:25 ET",
-      "shares": 321544.0,
-      "price": 3.0558,
-      "totalValue": 982574.16,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1597870/000186520026000038/form4.xml"
-    },
-    {
       "uid": "AMG|Cates G. Staley|2026-05-06|1500.0|305.83",
       "symbol": "AMG",
       "companyName": "AFFILIATED MANAGERS GROUP, INC.",
@@ -2015,45 +2054,6 @@
       "price": 305.83,
       "totalValue": 458745.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1004434/000100443426000053/form4.xml"
-    },
-    {
-      "uid": "NSP|SARVADI PAUL J|2026-05-05|50057.0|28.2",
-      "symbol": "NSP",
-      "companyName": "INSPERITY, INC.",
-      "reportingName": "SARVADI PAUL J",
-      "title": "Chairman of the Board & CEO",
-      "transactionDate": "2026-05-05",
-      "filingDatetime": "2026-05-06 17:37 ET",
-      "shares": 50057.0,
-      "price": 28.2,
-      "totalValue": 1411607.4,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1000753/000100075326000053/form4.xml"
-    },
-    {
-      "uid": "NSP|SARVADI PAUL J|2026-05-05|49543.0|29.26",
-      "symbol": "NSP",
-      "companyName": "INSPERITY, INC.",
-      "reportingName": "SARVADI PAUL J",
-      "title": "Chairman of the Board & CEO",
-      "transactionDate": "2026-05-05",
-      "filingDatetime": "2026-05-06 17:37 ET",
-      "shares": 49543.0,
-      "price": 29.26,
-      "totalValue": 1449628.18,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1000753/000100075326000053/form4.xml"
-    },
-    {
-      "uid": "CLX|Breber Pierre R|2026-05-05|5000.0|85.8248",
-      "symbol": "CLX",
-      "companyName": "CLOROX CO /DE/",
-      "reportingName": "Breber Pierre R",
-      "title": "",
-      "transactionDate": "2026-05-05",
-      "filingDatetime": "2026-05-05 16:54 ET",
-      "shares": 5000.0,
-      "price": 85.8248,
-      "totalValue": 429124.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/21076/000122520826004962/doc4.xml"
     }
   ]
 }
