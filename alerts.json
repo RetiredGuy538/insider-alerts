@@ -1,6 +1,45 @@
 {
-  "updated": "2026-06-09 17:57 UTC",
+  "updated": "2026-06-09 20:09 UTC",
   "alerts": [
+    {
+      "uid": "KNSL|Tangard Christopher R.|2026-06-08|330.0|304.0",
+      "symbol": "KNSL",
+      "companyName": "Kinsale Capital Group, Inc.",
+      "reportingName": "Tangard Christopher R.",
+      "title": "SVP, Chief Accounting Officer",
+      "transactionDate": "2026-06-08",
+      "filingDatetime": "2026-06-09 16:07 ET",
+      "shares": 330.0,
+      "price": 304.0,
+      "totalValue": 100320.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1669162/000200620526000007/wk-form4_1781035640.xml"
+    },
+    {
+      "uid": "MBC|PETRATIS DAVID D|2026-06-08|11587.0|8.8237",
+      "symbol": "MBC",
+      "companyName": "MasterBrand, Inc.",
+      "reportingName": "PETRATIS DAVID D",
+      "title": "",
+      "transactionDate": "2026-06-08",
+      "filingDatetime": "2026-06-09 16:07 ET",
+      "shares": 11587.0,
+      "price": 8.8237,
+      "totalValue": 102240.21,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1299140/000162828026041887/wk-form4_1781035635.xml"
+    },
+    {
+      "uid": "HOOD|Malka Meyer|2026-06-05|250000.0|80.7368",
+      "symbol": "HOOD",
+      "companyName": "Robinhood Markets, Inc.",
+      "reportingName": "Malka Meyer",
+      "title": "",
+      "transactionDate": "2026-06-05",
+      "filingDatetime": "2026-06-09 16:05 ET",
+      "shares": 250000.0,
+      "price": 80.7368,
+      "totalValue": 20184200.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1571355/000110465926071829/tm2617364-1_4seq1.xml"
+    },
     {
       "uid": "INR|Quinn William J|2026-06-05|44000.0|13.1865",
       "symbol": "INR",
