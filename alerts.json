@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-09 20:09 UTC",
+  "updated": "2026-06-09 21:58 UTC",
   "alerts": [
+    {
+      "uid": "IMNM|BIENAIME JEAN JACQUES|2026-06-05|6000.0|19.48",
+      "symbol": "IMNM",
+      "companyName": "Immunome Inc.",
+      "reportingName": "BIENAIME JEAN JACQUES",
+      "title": "",
+      "transactionDate": "2026-06-05",
+      "filingDatetime": "2026-06-09 17:40 ET",
+      "shares": 6000.0,
+      "price": 19.48,
+      "totalValue": 116880.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1221590/000122159026000015/form4-06092026_090607.xml"
+    },
     {
       "uid": "KNSL|Tangard Christopher R.|2026-06-08|330.0|304.0",
       "symbol": "KNSL",
