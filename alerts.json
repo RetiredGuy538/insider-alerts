@@ -1,6 +1,45 @@
 {
-  "updated": "2026-06-10 21:33 UTC",
+  "updated": "2026-06-10 23:14 UTC",
   "alerts": [
+    {
+      "uid": "BLND|Haveli Investments, L.P.|2026-06-10|723460.0|1.673",
+      "symbol": "BLND",
+      "companyName": "Blend Labs, Inc.",
+      "reportingName": "Haveli Investments, L.P.",
+      "title": "",
+      "transactionDate": "2026-06-10",
+      "filingDatetime": "2026-06-10 18:51 ET",
+      "shares": 723460.0,
+      "price": 1.673,
+      "totalValue": 1210348.58,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526266221/ownership.xml"
+    },
+    {
+      "uid": "BLND|Haveli Investments, L.P.|2026-06-09|178677.0|1.7007",
+      "symbol": "BLND",
+      "companyName": "Blend Labs, Inc.",
+      "reportingName": "Haveli Investments, L.P.",
+      "title": "",
+      "transactionDate": "2026-06-09",
+      "filingDatetime": "2026-06-10 18:51 ET",
+      "shares": 178677.0,
+      "price": 1.7007,
+      "totalValue": 303875.97,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526266221/ownership.xml"
+    },
+    {
+      "uid": "BLND|Haveli Investments, L.P.|2026-06-08|216798.0|1.6982",
+      "symbol": "BLND",
+      "companyName": "Blend Labs, Inc.",
+      "reportingName": "Haveli Investments, L.P.",
+      "title": "",
+      "transactionDate": "2026-06-08",
+      "filingDatetime": "2026-06-10 18:51 ET",
+      "shares": 216798.0,
+      "price": 1.6982,
+      "totalValue": 368166.36,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526266221/ownership.xml"
+    },
     {
       "uid": "IMNM|BIENAIME JEAN JACQUES|2026-06-05|6000.0|19.48",
       "symbol": "IMNM",
