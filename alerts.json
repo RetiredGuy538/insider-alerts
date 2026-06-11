@@ -1,6 +1,71 @@
 {
-  "updated": "2026-06-11 21:49 UTC",
+  "updated": "2026-06-11 23:18 UTC",
   "alerts": [
+    {
+      "uid": "AII|SOWELL JAMES E|2026-06-09|79497.0|16.85",
+      "symbol": "AII",
+      "companyName": "American Integrity Insurance Group, Inc.",
+      "reportingName": "SOWELL JAMES E",
+      "title": "",
+      "transactionDate": "2026-06-09",
+      "filingDatetime": "2026-06-11 18:33 ET",
+      "shares": 79497.0,
+      "price": 16.85,
+      "totalValue": 1339524.45,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1034495/000119312526268044/ownership.xml"
+    },
+    {
+      "uid": "AII|SOWELL JAMES E|2026-06-08|33628.0|16.91",
+      "symbol": "AII",
+      "companyName": "American Integrity Insurance Group, Inc.",
+      "reportingName": "SOWELL JAMES E",
+      "title": "",
+      "transactionDate": "2026-06-08",
+      "filingDatetime": "2026-06-11 18:33 ET",
+      "shares": 33628.0,
+      "price": 16.91,
+      "totalValue": 568649.48,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1034495/000119312526268044/ownership.xml"
+    },
+    {
+      "uid": "AII|SOWELL JAMES E|2026-06-05|23231.0|16.92",
+      "symbol": "AII",
+      "companyName": "American Integrity Insurance Group, Inc.",
+      "reportingName": "SOWELL JAMES E",
+      "title": "",
+      "transactionDate": "2026-06-05",
+      "filingDatetime": "2026-06-11 18:33 ET",
+      "shares": 23231.0,
+      "price": 16.92,
+      "totalValue": 393068.52,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1034495/000119312526268044/ownership.xml"
+    },
+    {
+      "uid": "STEP|McCabe Michael I|2026-06-11|96887.0|41.71",
+      "symbol": "STEP",
+      "companyName": "StepStone Group Inc.",
+      "reportingName": "McCabe Michael I",
+      "title": "Head of Strategy",
+      "transactionDate": "2026-06-11",
+      "filingDatetime": "2026-06-11 18:31 ET",
+      "shares": 96887.0,
+      "price": 41.71,
+      "totalValue": 4041156.77,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1796022/000182288026000004/wk-form4_1781217090.xml"
+    },
+    {
+      "uid": "STEP|McCabe Michael I|2026-06-11|23113.0|42.44",
+      "symbol": "STEP",
+      "companyName": "StepStone Group Inc.",
+      "reportingName": "McCabe Michael I",
+      "title": "Head of Strategy",
+      "transactionDate": "2026-06-11",
+      "filingDatetime": "2026-06-11 18:31 ET",
+      "shares": 23113.0,
+      "price": 42.44,
+      "totalValue": 980915.72,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1796022/000182288026000004/wk-form4_1781217090.xml"
+    },
     {
       "uid": "BLND|Haveli Investments, L.P.|2026-06-10|723460.0|1.673",
       "symbol": "BLND",
