@@ -1,6 +1,32 @@
 {
-  "updated": "2026-06-15 17:50 UTC",
+  "updated": "2026-06-15 20:50 UTC",
   "alerts": [
+    {
+      "uid": "AVO|Pack Jay A|2026-06-11|25281.0|11.03",
+      "symbol": "AVO",
+      "companyName": "Mission Produce, Inc.",
+      "reportingName": "Pack Jay A",
+      "title": "",
+      "transactionDate": "2026-06-11",
+      "filingDatetime": "2026-06-15 16:45 ET",
+      "shares": 25281.0,
+      "price": 11.03,
+      "totalValue": 278849.43,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1802974/000182587926000003/wk-form4_1781556342.xml"
+    },
+    {
+      "uid": "AVO|Pack Jay A|2026-06-11|12169.0|11.04",
+      "symbol": "AVO",
+      "companyName": "Mission Produce, Inc.",
+      "reportingName": "Pack Jay A",
+      "title": "",
+      "transactionDate": "2026-06-11",
+      "filingDatetime": "2026-06-15 16:45 ET",
+      "shares": 12169.0,
+      "price": 11.04,
+      "totalValue": 134345.76,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1802974/000182587926000003/wk-form4_1781556342.xml"
+    },
     {
       "uid": "INR|Poole David P|2026-06-10|7500.0|13.995",
       "symbol": "INR",
