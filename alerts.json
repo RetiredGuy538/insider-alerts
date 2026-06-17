@@ -1,6 +1,45 @@
 {
-  "updated": "2026-06-16 23:01 UTC",
+  "updated": "2026-06-17 01:40 UTC",
   "alerts": [
+    {
+      "uid": "VRA|Bickley Ian|2026-06-12|28901.0|3.87",
+      "symbol": "VRA",
+      "companyName": "Vera Bradley, Inc.",
+      "reportingName": "Bickley Ian",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-06-12",
+      "filingDatetime": "2026-06-16 21:08 ET",
+      "shares": 28901.0,
+      "price": 3.87,
+      "totalValue": 111846.87,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1495320/000163246826000011/form4-06172026_010630.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-06-12|6136.0|200.49",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-06-12",
+      "filingDatetime": "2026-06-16 20:41 ET",
+      "shares": 6136.0,
+      "price": 200.49,
+      "totalValue": 1230206.64,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000007/primary_doc.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-06-12|3864.0|201.11",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-06-12",
+      "filingDatetime": "2026-06-16 20:41 ET",
+      "shares": 3864.0,
+      "price": 201.11,
+      "totalValue": 777089.04,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000007/primary_doc.xml"
+    },
     {
       "uid": "PBLS|RA CAPITAL MANAGEMENT, L.P.|2026-06-11|19728353.0|20.0",
       "symbol": "PBLS",
