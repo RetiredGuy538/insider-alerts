@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-18 00:14 UTC",
+  "updated": "2026-06-18 05:04 UTC",
   "alerts": [
+    {
+      "uid": "FBRT|ORTALE BUFORD H|2026-06-15|25900.0|8.44",
+      "symbol": "FBRT",
+      "companyName": "Franklin BSP Realty Trust, Inc.",
+      "reportingName": "ORTALE BUFORD H",
+      "title": "",
+      "transactionDate": "2026-06-15",
+      "filingDatetime": "2026-06-17 21:45 ET",
+      "shares": 25900.0,
+      "price": 8.44,
+      "totalValue": 218596.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1050002/000110465926075331/tm2618116-1_4seq1.xml"
+    },
     {
       "uid": "VRA|Bickley Ian|2026-06-12|28901.0|3.87",
       "symbol": "VRA",
