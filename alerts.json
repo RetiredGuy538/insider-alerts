@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17 22:56 UTC",
+  "updated": "2026-06-18 00:14 UTC",
   "alerts": [
     {
       "uid": "VRA|Bickley Ian|2026-06-12|28901.0|3.87",
@@ -1016,19 +1016,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1232293/000095010326007556/ownership.xml"
     },
     {
-      "uid": "WEX|GROCH JAMES R|2026-05-18|1500.0|142.95",
-      "symbol": "WEX",
-      "companyName": "WEX Inc.",
-      "reportingName": "GROCH JAMES R",
-      "title": "",
-      "transactionDate": "2026-05-18",
-      "filingDatetime": "2026-05-20 17:54 ET",
-      "shares": 1500.0,
-      "price": 142.95,
-      "totalValue": 214425.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1185424/000118542426000010/wk-form4_1779314055.xml"
-    },
-    {
       "uid": "TXO|SIMPSON BOB R|2026-05-20|90152.0|13.3514",
       "symbol": "TXO",
       "companyName": "TXO Partners, L.P.",
@@ -1042,32 +1029,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000008/ownership.xml"
     },
     {
-      "uid": "TXO|SIMPSON BOB R|2026-05-18|58251.0|13.1687",
-      "symbol": "TXO",
-      "companyName": "TXO Partners, L.P.",
-      "reportingName": "SIMPSON BOB R",
-      "title": "",
-      "transactionDate": "2026-05-18",
-      "filingDatetime": "2026-05-20 17:48 ET",
-      "shares": 58251.0,
-      "price": 13.1687,
-      "totalValue": 767089.94,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000008/ownership.xml"
-    },
-    {
-      "uid": "AZTA|Cornog William L|2026-05-18|10000.0|16.38",
-      "symbol": "AZTA",
-      "companyName": "Azenta, Inc.",
-      "reportingName": "Cornog William L",
-      "title": "",
-      "transactionDate": "2026-05-18",
-      "filingDatetime": "2026-05-19 16:10 ET",
-      "shares": 10000.0,
-      "price": 16.38,
-      "totalValue": 163800.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/933974/000119312526230764/ownership.xml"
-    },
-    {
       "uid": "CTEV|Prince John Michael|2026-05-19|10000.0|16.0",
       "symbol": "CTEV",
       "companyName": "Claritev Corp",
@@ -1079,84 +1040,6 @@
       "price": 16.0,
       "totalValue": 160000.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1793229/000198265626000004/wk-form4_1779221274.xml"
-    },
-    {
-      "uid": "CTEV|Dalton Travis|2026-05-18|9720.0|12.92",
-      "symbol": "CTEV",
-      "companyName": "Claritev Corp",
-      "reportingName": "Dalton Travis",
-      "title": "Pres., CEO & Executive Chair",
-      "transactionDate": "2026-05-18",
-      "filingDatetime": "2026-05-19 16:07 ET",
-      "shares": 9720.0,
-      "price": 12.92,
-      "totalValue": 125582.4,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1793229/000184140926000007/wk-form4_1779221252.xml"
-    },
-    {
-      "uid": "CTEV|Dalton Travis|2026-05-18|11200.0|11.88",
-      "symbol": "CTEV",
-      "companyName": "Claritev Corp",
-      "reportingName": "Dalton Travis",
-      "title": "Pres., CEO & Executive Chair",
-      "transactionDate": "2026-05-18",
-      "filingDatetime": "2026-05-19 16:07 ET",
-      "shares": 11200.0,
-      "price": 11.88,
-      "totalValue": 133056.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1793229/000184140926000007/wk-form4_1779221252.xml"
-    },
-    {
-      "uid": "GSHD|Thornthwaite Martin Ellis|2026-05-18|5000.0|41.5",
-      "symbol": "GSHD",
-      "companyName": "Goosehead Insurance, Inc.",
-      "reportingName": "Thornthwaite Martin Ellis",
-      "title": "General Counsel",
-      "transactionDate": "2026-05-18",
-      "filingDatetime": "2026-05-18 21:23 ET",
-      "shares": 5000.0,
-      "price": 41.5,
-      "totalValue": 207500.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1726978/000095010326007352/ownership.xml"
-    },
-    {
-      "uid": "ZBIO|MOULDER LEON O JR|2026-05-18|60000.0|16.88",
-      "symbol": "ZBIO",
-      "companyName": "Zenas BioPharma, Inc.",
-      "reportingName": "MOULDER LEON O JR",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-05-18",
-      "filingDatetime": "2026-05-18 21:12 ET",
-      "shares": 60000.0,
-      "price": 16.88,
-      "totalValue": 1012800.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1228865/000110465926063362/tm2615027-1_4seq1.xml"
-    },
-    {
-      "uid": "BKKT|ALFRED MICHAEL|2026-05-18|220000.0|8.2",
-      "symbol": "BKKT",
-      "companyName": "Bakkt, Inc.",
-      "reportingName": "ALFRED MICHAEL",
-      "title": "",
-      "transactionDate": "2026-05-18",
-      "filingDatetime": "2026-05-18 18:37 ET",
-      "shares": 220000.0,
-      "price": 8.2,
-      "totalValue": 1804000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1816739/000181673926000002/wk-form4_1779143856.xml"
-    },
-    {
-      "uid": "NIQ|Peck James M|2026-05-18|118625.0|8.43",
-      "symbol": "NIQ",
-      "companyName": "NIQ Global Intelligence plc",
-      "reportingName": "Peck James M",
-      "title": "See Remarks",
-      "transactionDate": "2026-05-18",
-      "filingDatetime": "2026-05-18 14:02 ET",
-      "shares": 118625.0,
-      "price": 8.43,
-      "totalValue": 1000008.75,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1645773/000164577326000007/wk-form4_1779127330.xml"
     }
   ]
 }
