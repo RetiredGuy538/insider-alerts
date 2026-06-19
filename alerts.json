@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18 23:05 UTC",
+  "updated": "2026-06-19 02:04 UTC",
   "alerts": [
     {
       "uid": "FBRT|ORTALE BUFORD H|2026-06-15|25900.0|8.44",
@@ -951,32 +951,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526235156/ownership.xml"
     },
     {
-      "uid": "BLND|Haveli Investments, L.P.|2026-05-19|583450.0|1.4875",
-      "symbol": "BLND",
-      "companyName": "Blend Labs, Inc.",
-      "reportingName": "Haveli Investments, L.P.",
-      "title": "",
-      "transactionDate": "2026-05-19",
-      "filingDatetime": "2026-05-21 20:15 ET",
-      "shares": 583450.0,
-      "price": 1.4875,
-      "totalValue": 867881.88,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526235156/ownership.xml"
-    },
-    {
-      "uid": "BETA|Stone Michael Robert|2026-05-19|17135.023|14.59",
-      "symbol": "BETA",
-      "companyName": "BETA Technologies, Inc.",
-      "reportingName": "Stone Michael Robert",
-      "title": "",
-      "transactionDate": "2026-05-19",
-      "filingDatetime": "2026-05-21 17:40 ET",
-      "shares": 17135.023,
-      "price": 14.59,
-      "totalValue": 249999.99,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1784570/000209037026000002/primarydocument.xml"
-    },
-    {
       "uid": "FBIN|GARDEN EDWARD P|2026-05-20|5900.0|33.28",
       "symbol": "FBIN",
       "companyName": "Fortune Brands Innovations, Inc.",
@@ -987,19 +961,6 @@
       "shares": 5900.0,
       "price": 33.28,
       "totalValue": 196352.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1257864/000121390026059773/ownership.xml"
-    },
-    {
-      "uid": "FBIN|GARDEN EDWARD P|2026-05-19|403000.0|33.4",
-      "symbol": "FBIN",
-      "companyName": "Fortune Brands Innovations, Inc.",
-      "reportingName": "GARDEN EDWARD P",
-      "title": "",
-      "transactionDate": "2026-05-19",
-      "filingDatetime": "2026-05-20 21:29 ET",
-      "shares": 403000.0,
-      "price": 33.4,
-      "totalValue": 13460200.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1257864/000121390026059773/ownership.xml"
     },
     {
@@ -1016,19 +977,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1801368/000183205026000005/wk-form4_1779325382.xml"
     },
     {
-      "uid": "EQPT|HILL W BRYAN|2026-05-19|21803.0|22.89",
-      "symbol": "EQPT",
-      "companyName": "EquipmentShare.com Inc",
-      "reportingName": "HILL W BRYAN",
-      "title": "",
-      "transactionDate": "2026-05-19",
-      "filingDatetime": "2026-05-20 18:55 ET",
-      "shares": 21803.0,
-      "price": 22.89,
-      "totalValue": 499070.67,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1232293/000095010326007556/ownership.xml"
-    },
-    {
       "uid": "TXO|SIMPSON BOB R|2026-05-20|90152.0|13.3514",
       "symbol": "TXO",
       "companyName": "TXO Partners, L.P.",
@@ -1040,19 +988,6 @@
       "price": 13.3514,
       "totalValue": 1203655.41,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000008/ownership.xml"
-    },
-    {
-      "uid": "CTEV|Prince John Michael|2026-05-19|10000.0|16.0",
-      "symbol": "CTEV",
-      "companyName": "Claritev Corp",
-      "reportingName": "Prince John Michael",
-      "title": "",
-      "transactionDate": "2026-05-19",
-      "filingDatetime": "2026-05-19 16:07 ET",
-      "shares": 10000.0,
-      "price": 16.0,
-      "totalValue": 160000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1793229/000198265626000004/wk-form4_1779221274.xml"
     }
   ]
 }
