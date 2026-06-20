@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19 23:40 UTC",
+  "updated": "2026-06-20 01:50 UTC",
   "alerts": [
     {
       "uid": "FBRT|ORTALE BUFORD H|2026-06-15|25900.0|8.44",
@@ -910,84 +910,6 @@
       "price": 6.51,
       "totalValue": 293470.8,
       "secLink": "https://www.sec.gov/Archives/edgar/data/2068577/000162828026037910/wk-form4_1779500519.xml"
-    },
-    {
-      "uid": "PNBK|De Tomasi Mario|2026-05-20|87719.0|1.15",
-      "symbol": "PNBK",
-      "companyName": "PATRIOT NATIONAL BANCORP INC",
-      "reportingName": "De Tomasi Mario",
-      "title": "",
-      "transactionDate": "2026-05-20",
-      "filingDatetime": "2026-05-22 18:03 ET",
-      "shares": 87719.0,
-      "price": 1.15,
-      "totalValue": 100876.85,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1098146/000143774926018295/rdgdoc.xml"
-    },
-    {
-      "uid": "SPB|Maura David M|2026-05-20|2500.0|72.85",
-      "symbol": "SPB",
-      "companyName": "Spectrum Brands Holdings, Inc.",
-      "reportingName": "Maura David M",
-      "title": "Executive Chairman and CEO",
-      "transactionDate": "2026-05-20",
-      "filingDatetime": "2026-05-22 13:45 ET",
-      "shares": 2500.0,
-      "price": 72.85,
-      "totalValue": 182125.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/109177/000136583326000002/wk-form4_1779471921.xml"
-    },
-    {
-      "uid": "BLND|Haveli Investments, L.P.|2026-05-20|185611.0|1.4982",
-      "symbol": "BLND",
-      "companyName": "Blend Labs, Inc.",
-      "reportingName": "Haveli Investments, L.P.",
-      "title": "",
-      "transactionDate": "2026-05-20",
-      "filingDatetime": "2026-05-21 20:15 ET",
-      "shares": 185611.0,
-      "price": 1.4982,
-      "totalValue": 278082.4,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526235156/ownership.xml"
-    },
-    {
-      "uid": "FBIN|GARDEN EDWARD P|2026-05-20|5900.0|33.28",
-      "symbol": "FBIN",
-      "companyName": "Fortune Brands Innovations, Inc.",
-      "reportingName": "GARDEN EDWARD P",
-      "title": "",
-      "transactionDate": "2026-05-20",
-      "filingDatetime": "2026-05-20 21:29 ET",
-      "shares": 5900.0,
-      "price": 33.28,
-      "totalValue": 196352.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1257864/000121390026059773/ownership.xml"
-    },
-    {
-      "uid": "MP|Rosenthal Michael Stuart|2026-05-20|17000.0|56.62",
-      "symbol": "MP",
-      "companyName": "MP Materials Corp. / DE",
-      "reportingName": "Rosenthal Michael Stuart",
-      "title": "Chief Operating Officer",
-      "transactionDate": "2026-05-20",
-      "filingDatetime": "2026-05-20 21:03 ET",
-      "shares": 17000.0,
-      "price": 56.62,
-      "totalValue": 962540.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1801368/000183205026000005/wk-form4_1779325382.xml"
-    },
-    {
-      "uid": "TXO|SIMPSON BOB R|2026-05-20|90152.0|13.3514",
-      "symbol": "TXO",
-      "companyName": "TXO Partners, L.P.",
-      "reportingName": "SIMPSON BOB R",
-      "title": "",
-      "transactionDate": "2026-05-20",
-      "filingDatetime": "2026-05-20 17:48 ET",
-      "shares": 90152.0,
-      "price": 13.3514,
-      "totalValue": 1203655.41,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000008/ownership.xml"
     }
   ]
 }
