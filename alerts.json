@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20 01:50 UTC",
+  "updated": "2026-06-22 03:44 UTC",
   "alerts": [
     {
       "uid": "FBRT|ORTALE BUFORD H|2026-06-15|25900.0|8.44",
@@ -769,19 +769,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1494582/000143774926018632/rdgdoc.xml"
     },
     {
-      "uid": "BOC|Royal Jeffrey C|2026-05-22|10000.0|12.4",
-      "symbol": "BOC",
-      "companyName": "BOSTON OMAHA Corp",
-      "reportingName": "Royal Jeffrey C",
-      "title": "",
-      "transactionDate": "2026-05-22",
-      "filingDatetime": "2026-05-27 18:42 ET",
-      "shares": 10000.0,
-      "price": 12.4,
-      "totalValue": 124000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1494582/000143774926018632/rdgdoc.xml"
-    },
-    {
       "uid": "BLND|Haveli Investments, L.P.|2026-05-26|243805.0|1.4591",
       "symbol": "BLND",
       "companyName": "Blend Labs, Inc.",
@@ -792,19 +779,6 @@
       "shares": 243805.0,
       "price": 1.4591,
       "totalValue": 355735.88,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526242341/ownership.xml"
-    },
-    {
-      "uid": "BLND|Haveli Investments, L.P.|2026-05-22|798223.0|1.4809",
-      "symbol": "BLND",
-      "companyName": "Blend Labs, Inc.",
-      "reportingName": "Haveli Investments, L.P.",
-      "title": "",
-      "transactionDate": "2026-05-22",
-      "filingDatetime": "2026-05-27 18:38 ET",
-      "shares": 798223.0,
-      "price": 1.4809,
-      "totalValue": 1182088.44,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526242341/ownership.xml"
     },
     {
@@ -834,19 +808,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/912562/000091256226000122/form4.xml"
     },
     {
-      "uid": "WHF|Aronson Stuart D|2026-05-21|20000.0|6.67",
-      "symbol": "WHF",
-      "companyName": "WhiteHorse Finance, Inc.",
-      "reportingName": "Aronson Stuart D",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-05-21",
-      "filingDatetime": "2026-05-26 20:47 ET",
-      "shares": 20000.0,
-      "price": 6.67,
-      "totalValue": 133400.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1552198/000110465926066477/tm2615556-1_4seq1.xml"
-    },
-    {
       "uid": "ENPH|Kothandaraman Badrinarayanan|2026-05-26|4400.0|67.3749",
       "symbol": "ENPH",
       "companyName": "Enphase Energy, Inc.",
@@ -871,45 +832,6 @@
       "price": 48.92,
       "totalValue": 244600.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000068/form4.xml"
-    },
-    {
-      "uid": "GLP|Global GP LLC|2026-05-22|4184.0|50.05",
-      "symbol": "GLP",
-      "companyName": "GLOBAL PARTNERS LP",
-      "reportingName": "Global GP LLC",
-      "title": "",
-      "transactionDate": "2026-05-22",
-      "filingDatetime": "2026-05-26 16:54 ET",
-      "shares": 4184.0,
-      "price": 50.05,
-      "totalValue": 209409.2,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000068/form4.xml"
-    },
-    {
-      "uid": "GLP|Global GP LLC|2026-05-21|5000.0|51.28",
-      "symbol": "GLP",
-      "companyName": "GLOBAL PARTNERS LP",
-      "reportingName": "Global GP LLC",
-      "title": "",
-      "transactionDate": "2026-05-21",
-      "filingDatetime": "2026-05-26 16:54 ET",
-      "shares": 5000.0,
-      "price": 51.28,
-      "totalValue": 256400.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000068/form4.xml"
-    },
-    {
-      "uid": "BRCB|Geyer Clay Howard|2026-05-21|45080.0|6.51",
-      "symbol": "BRCB",
-      "companyName": "Black Rock Coffee Bar, Inc.",
-      "reportingName": "Geyer Clay Howard",
-      "title": "Chief Operating Officer",
-      "transactionDate": "2026-05-21",
-      "filingDatetime": "2026-05-22 21:42 ET",
-      "shares": 45080.0,
-      "price": 6.51,
-      "totalValue": 293470.8,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/2068577/000162828026037910/wk-form4_1779500519.xml"
     }
   ]
 }
