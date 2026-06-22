@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-22 17:27 UTC",
+  "updated": "2026-06-22 20:19 UTC",
   "alerts": [
+    {
+      "uid": "LOVE|HEYER ANDREW R|2026-06-18|30000.0|14.68",
+      "symbol": "LOVE",
+      "companyName": "Lovesac Co",
+      "reportingName": "HEYER ANDREW R",
+      "title": "",
+      "transactionDate": "2026-06-18",
+      "filingDatetime": "2026-06-22 16:17 ET",
+      "shares": 30000.0,
+      "price": 14.68,
+      "totalValue": 440400.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1259062/000162828026044640/wk-form4_1782159417.xml"
+    },
     {
       "uid": "FBRT|ORTALE BUFORD H|2026-06-15|25900.0|8.44",
       "symbol": "FBRT",
