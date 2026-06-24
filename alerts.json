@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-24 22:39 UTC",
+  "updated": "2026-06-24 23:48 UTC",
   "alerts": [
+    {
+      "uid": "OXY|Jackson Richard A.|2026-06-23|4770.0|52.38",
+      "symbol": "OXY",
+      "companyName": "OCCIDENTAL PETROLEUM CORP /DE/",
+      "reportingName": "Jackson Richard A.",
+      "title": "President and CEO",
+      "transactionDate": "2026-06-23",
+      "filingDatetime": "2026-06-24 19:04 ET",
+      "shares": 4770.0,
+      "price": 52.38,
+      "totalValue": 249852.6,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/797468/000162828026045313/wk-form4_1782342238.xml"
+    },
     {
       "uid": "ENR|Aqua Capital, Ltd.|2026-06-22|20000.0|21.101",
       "symbol": "ENR",
