@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-24 23:48 UTC",
+  "updated": "2026-06-25 02:49 UTC",
   "alerts": [
+    {
+      "uid": "KARD|HRTG GPE, LLC|2026-06-22|3125000.0|16.0",
+      "symbol": "KARD",
+      "companyName": "Kardigan, Inc.",
+      "reportingName": "HRTG GPE, LLC",
+      "title": "",
+      "transactionDate": "2026-06-22",
+      "filingDatetime": "2026-06-24 21:26 ET",
+      "shares": 3125000.0,
+      "price": 16.0,
+      "totalValue": 50000000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1537455/000119312526281553/ownership.xml"
+    },
     {
       "uid": "OXY|Jackson Richard A.|2026-06-23|4770.0|52.38",
       "symbol": "OXY",
