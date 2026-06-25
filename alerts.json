@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-25 02:49 UTC",
+  "updated": "2026-06-25 15:37 UTC",
   "alerts": [
+    {
+      "uid": "EPSN|Stabell Jason|2026-06-24|21800.0|5.27",
+      "symbol": "EPSN",
+      "companyName": "Epsilon Energy Ltd.",
+      "reportingName": "Stabell Jason",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-06-24",
+      "filingDatetime": "2026-06-25 11:19 ET",
+      "shares": 21800.0,
+      "price": 5.27,
+      "totalValue": 114886.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1726126/000110465926077619/tm2618978-1_4seq1.xml"
+    },
     {
       "uid": "KARD|HRTG GPE, LLC|2026-06-22|3125000.0|16.0",
       "symbol": "KARD",
