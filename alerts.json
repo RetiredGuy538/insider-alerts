@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27 01:33 UTC",
+  "updated": "2026-06-29 03:28 UTC",
   "alerts": [
     {
       "uid": "EPSN|Stabell Jason|2026-06-24|21800.0|5.27",
@@ -858,45 +858,6 @@
       "price": 184.2559,
       "totalValue": 174858.85,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1047335/000143774926019170/rdgdoc.xml"
-    },
-    {
-      "uid": "ADSK|Smith Stacy J|2026-05-29|696.0|230.48",
-      "symbol": "ADSK",
-      "companyName": "Autodesk, Inc.",
-      "reportingName": "Smith Stacy J",
-      "title": "",
-      "transactionDate": "2026-05-29",
-      "filingDatetime": "2026-05-29 19:34 ET",
-      "shares": 696.0,
-      "price": 230.48,
-      "totalValue": 160414.08,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/769397/000076939726000046/wk-form4_1780097667.xml"
-    },
-    {
-      "uid": "ADSK|Smith Stacy J|2026-05-29|2739.0|231.34",
-      "symbol": "ADSK",
-      "companyName": "Autodesk, Inc.",
-      "reportingName": "Smith Stacy J",
-      "title": "",
-      "transactionDate": "2026-05-29",
-      "filingDatetime": "2026-05-29 19:34 ET",
-      "shares": 2739.0,
-      "price": 231.34,
-      "totalValue": 633640.26,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/769397/000076939726000046/wk-form4_1780097667.xml"
-    },
-    {
-      "uid": "DC|KENNER TODD J|2026-05-28|17921.0|5.6",
-      "symbol": "DC",
-      "companyName": "Dakota Gold Corp.",
-      "reportingName": "KENNER TODD J",
-      "title": "",
-      "transactionDate": "2026-05-28",
-      "filingDatetime": "2026-05-29 18:22 ET",
-      "shares": 17921.0,
-      "price": 5.6,
-      "totalValue": 100357.6,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1203760/000110465926068409/tm2616034-1_4seq1.xml"
     }
   ]
 }
