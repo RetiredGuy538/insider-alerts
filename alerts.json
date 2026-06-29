@@ -1,6 +1,19 @@
 {
-  "updated": "2026-06-29 20:30 UTC",
+  "updated": "2026-06-29 21:58 UTC",
   "alerts": [
+    {
+      "uid": "CGON|Liu Brian Guan-Chyun|2026-06-25|371085.0|66.87",
+      "symbol": "CGON",
+      "companyName": "CG Oncology, Inc.",
+      "reportingName": "Liu Brian Guan-Chyun",
+      "title": "",
+      "transactionDate": "2026-06-25",
+      "filingDatetime": "2026-06-29 17:26 ET",
+      "shares": 371085.0,
+      "price": 66.87,
+      "totalValue": 24814453.95,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1991792/000114036126026779/form4.xml"
+    },
     {
       "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-06-25|31000.0|8.88",
       "symbol": "ARTV",
