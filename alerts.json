@@ -1,6 +1,45 @@
 {
-  "updated": "2026-06-29 23:02 UTC",
+  "updated": "2026-06-30 00:18 UTC",
   "alerts": [
+    {
+      "uid": "BOLD|TANG KEVIN|2026-06-29|63985.0|2.47",
+      "symbol": "BOLD",
+      "companyName": "Boundless Bio, Inc.",
+      "reportingName": "TANG KEVIN",
+      "title": "",
+      "transactionDate": "2026-06-29",
+      "filingDatetime": "2026-06-29 19:56 ET",
+      "shares": 63985.0,
+      "price": 2.47,
+      "totalValue": 158042.95,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000008/form4-06292026_110657.xml"
+    },
+    {
+      "uid": "BOLD|TANG KEVIN|2026-06-26|75047.0|2.55",
+      "symbol": "BOLD",
+      "companyName": "Boundless Bio, Inc.",
+      "reportingName": "TANG KEVIN",
+      "title": "",
+      "transactionDate": "2026-06-26",
+      "filingDatetime": "2026-06-29 19:56 ET",
+      "shares": 75047.0,
+      "price": 2.55,
+      "totalValue": 191369.85,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000008/form4-06292026_110657.xml"
+    },
+    {
+      "uid": "BOLD|TANG KEVIN|2026-06-25|145880.0|2.48",
+      "symbol": "BOLD",
+      "companyName": "Boundless Bio, Inc.",
+      "reportingName": "TANG KEVIN",
+      "title": "",
+      "transactionDate": "2026-06-25",
+      "filingDatetime": "2026-06-29 19:56 ET",
+      "shares": 145880.0,
+      "price": 2.48,
+      "totalValue": 361782.4,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000008/form4-06292026_110657.xml"
+    },
     {
       "uid": "CGON|Liu Brian Guan-Chyun|2026-06-25|371085.0|66.87",
       "symbol": "CGON",
