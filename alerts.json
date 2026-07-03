@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-02 22:46 UTC",
+  "updated": "2026-07-03 00:02 UTC",
   "alerts": [
+    {
+      "uid": "BOLD|TANG KEVIN|2026-07-01|71612.0|2.49",
+      "symbol": "BOLD",
+      "companyName": "Boundless Bio, Inc.",
+      "reportingName": "TANG KEVIN",
+      "title": "",
+      "transactionDate": "2026-07-01",
+      "filingDatetime": "2026-07-02 19:45 ET",
+      "shares": 71612.0,
+      "price": 2.49,
+      "totalValue": 178313.88,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000009/form4-07022026_110743.xml"
+    },
     {
       "uid": "BOLD|TANG KEVIN|2026-06-29|63985.0|2.47",
       "symbol": "BOLD",
@@ -743,19 +756,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1552354/000155235426000004/wk-form4_1780620187.xml"
     },
     {
-      "uid": "DNUT|Hees Bernardo|2026-06-02|235875.0|3.39",
-      "symbol": "DNUT",
-      "companyName": "Krispy Kreme, Inc.",
-      "reportingName": "Hees Bernardo",
-      "title": "",
-      "transactionDate": "2026-06-02",
-      "filingDatetime": "2026-06-04 20:43 ET",
-      "shares": 235875.0,
-      "price": 3.39,
-      "totalValue": 799616.25,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1552354/000155235426000004/wk-form4_1780620187.xml"
-    },
-    {
       "uid": "LTC|BOITANO DAVID M|2026-06-04|5000.0|34.69",
       "symbol": "LTC",
       "companyName": "LTC PROPERTIES INC",
@@ -870,19 +870,6 @@
       "shares": 369153.0,
       "price": 13.9113,
       "totalValue": 5135398.13,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000015/ownership.xml"
-    },
-    {
-      "uid": "TXO|SIMPSON BOB R|2026-06-02|230847.0|13.4131",
-      "symbol": "TXO",
-      "companyName": "TXO Partners, L.P.",
-      "reportingName": "SIMPSON BOB R",
-      "title": "",
-      "transactionDate": "2026-06-02",
-      "filingDatetime": "2026-06-03 21:22 ET",
-      "shares": 230847.0,
-      "price": 13.4131,
-      "totalValue": 3096373.9,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000015/ownership.xml"
     },
     {
