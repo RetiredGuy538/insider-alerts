@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03 23:17 UTC",
+  "updated": "2026-07-04 01:06 UTC",
   "alerts": [
     {
       "uid": "BOLD|TANG KEVIN|2026-07-01|71612.0|2.49",
@@ -717,19 +717,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000075/form4.xml"
     },
     {
-      "uid": "BLND|Haveli Investments, L.P.|2026-06-03|240307.0|1.5649",
-      "symbol": "BLND",
-      "companyName": "Blend Labs, Inc.",
-      "reportingName": "Haveli Investments, L.P.",
-      "title": "",
-      "transactionDate": "2026-06-03",
-      "filingDatetime": "2026-06-05 19:41 ET",
-      "shares": 240307.0,
-      "price": 1.5649,
-      "totalValue": 376056.42,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526260213/ownership.xml"
-    },
-    {
       "uid": "DNUT|Hees Bernardo|2026-06-04|150000.0|3.2896",
       "symbol": "DNUT",
       "companyName": "Krispy Kreme, Inc.",
@@ -740,19 +727,6 @@
       "shares": 150000.0,
       "price": 3.2896,
       "totalValue": 493440.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1552354/000155235426000004/wk-form4_1780620187.xml"
-    },
-    {
-      "uid": "DNUT|Hees Bernardo|2026-06-03|170596.0|3.345",
-      "symbol": "DNUT",
-      "companyName": "Krispy Kreme, Inc.",
-      "reportingName": "Hees Bernardo",
-      "title": "",
-      "transactionDate": "2026-06-03",
-      "filingDatetime": "2026-06-04 20:43 ET",
-      "shares": 170596.0,
-      "price": 3.345,
-      "totalValue": 570643.62,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1552354/000155235426000004/wk-form4_1780620187.xml"
     },
     {
@@ -821,19 +795,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1729886/000119312526257841/ownership.xml"
     },
     {
-      "uid": "XMTR|Biewald Lukas Alexander|2026-06-03|47058.0|85.0",
-      "symbol": "XMTR",
-      "companyName": "Xometry, Inc.",
-      "reportingName": "Biewald Lukas Alexander",
-      "title": "",
-      "transactionDate": "2026-06-03",
-      "filingDatetime": "2026-06-04 16:48 ET",
-      "shares": 47058.0,
-      "price": 85.0,
-      "totalValue": 3999930.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1657573/000213472226000003/primarydocument.xml"
-    },
-    {
       "uid": "SMMT|Soni Manmeet Singh|2026-06-04|25000.0|14.46",
       "symbol": "SMMT",
       "companyName": "Summit Therapeutics Inc.",
@@ -858,32 +819,6 @@
       "price": 14.43,
       "totalValue": 360750.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1569769/000156976926000004/wk-form4_1780605646.xml"
-    },
-    {
-      "uid": "TXO|SIMPSON BOB R|2026-06-03|369153.0|13.9113",
-      "symbol": "TXO",
-      "companyName": "TXO Partners, L.P.",
-      "reportingName": "SIMPSON BOB R",
-      "title": "",
-      "transactionDate": "2026-06-03",
-      "filingDatetime": "2026-06-03 21:22 ET",
-      "shares": 369153.0,
-      "price": 13.9113,
-      "totalValue": 5135398.13,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000015/ownership.xml"
-    },
-    {
-      "uid": "HOOD|Malka Meyer|2026-06-03|181000.0|83.4467",
-      "symbol": "HOOD",
-      "companyName": "Robinhood Markets, Inc.",
-      "reportingName": "Malka Meyer",
-      "title": "",
-      "transactionDate": "2026-06-03",
-      "filingDatetime": "2026-06-03 18:50 ET",
-      "shares": 181000.0,
-      "price": 83.4467,
-      "totalValue": 15103852.7,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1571355/000110465926070232/tm2616819-1_4seq1.xml"
     }
   ]
 }
