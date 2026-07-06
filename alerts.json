@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04 01:06 UTC",
+  "updated": "2026-07-06 02:45 UTC",
   "alerts": [
     {
       "uid": "BOLD|TANG KEVIN|2026-07-01|71612.0|2.49",
@@ -548,19 +548,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1034495/000119312526268044/ownership.xml"
     },
     {
-      "uid": "AII|SOWELL JAMES E|2026-06-05|23231.0|16.92",
-      "symbol": "AII",
-      "companyName": "American Integrity Insurance Group, Inc.",
-      "reportingName": "SOWELL JAMES E",
-      "title": "",
-      "transactionDate": "2026-06-05",
-      "filingDatetime": "2026-06-11 18:33 ET",
-      "shares": 23231.0,
-      "price": 16.92,
-      "totalValue": 393068.52,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1034495/000119312526268044/ownership.xml"
-    },
-    {
       "uid": "STEP|McCabe Michael I|2026-06-11|96887.0|41.71",
       "symbol": "STEP",
       "companyName": "StepStone Group Inc.",
@@ -626,19 +613,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526266221/ownership.xml"
     },
     {
-      "uid": "IMNM|BIENAIME JEAN JACQUES|2026-06-05|6000.0|19.48",
-      "symbol": "IMNM",
-      "companyName": "Immunome Inc.",
-      "reportingName": "BIENAIME JEAN JACQUES",
-      "title": "",
-      "transactionDate": "2026-06-05",
-      "filingDatetime": "2026-06-09 17:40 ET",
-      "shares": 6000.0,
-      "price": 19.48,
-      "totalValue": 116880.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1221590/000122159026000015/form4-06092026_090607.xml"
-    },
-    {
       "uid": "KNSL|Tangard Christopher R.|2026-06-08|330.0|304.0",
       "symbol": "KNSL",
       "companyName": "Kinsale Capital Group, Inc.",
@@ -665,32 +639,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1299140/000162828026041887/wk-form4_1781035635.xml"
     },
     {
-      "uid": "HOOD|Malka Meyer|2026-06-05|250000.0|80.7368",
-      "symbol": "HOOD",
-      "companyName": "Robinhood Markets, Inc.",
-      "reportingName": "Malka Meyer",
-      "title": "",
-      "transactionDate": "2026-06-05",
-      "filingDatetime": "2026-06-09 16:05 ET",
-      "shares": 250000.0,
-      "price": 80.7368,
-      "totalValue": 20184200.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1571355/000110465926071829/tm2617364-1_4seq1.xml"
-    },
-    {
-      "uid": "INR|Quinn William J|2026-06-05|44000.0|13.1865",
-      "symbol": "INR",
-      "companyName": "INFINITY NATURAL RESOURCES, INC.",
-      "reportingName": "Quinn William J",
-      "title": "",
-      "transactionDate": "2026-06-05",
-      "filingDatetime": "2026-06-08 19:53 ET",
-      "shares": 44000.0,
-      "price": 13.1865,
-      "totalValue": 580206.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1377293/000119312526262545/ownership.xml"
-    },
-    {
       "uid": "GLP|Global GP LLC|2026-06-08|5000.0|49.29",
       "symbol": "GLP",
       "companyName": "GLOBAL PARTNERS LP",
@@ -702,123 +650,6 @@
       "price": 49.29,
       "totalValue": 246450.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000075/form4.xml"
-    },
-    {
-      "uid": "GLP|Global GP LLC|2026-06-04|5000.0|49.5",
-      "symbol": "GLP",
-      "companyName": "GLOBAL PARTNERS LP",
-      "reportingName": "Global GP LLC",
-      "title": "",
-      "transactionDate": "2026-06-04",
-      "filingDatetime": "2026-06-08 17:12 ET",
-      "shares": 5000.0,
-      "price": 49.5,
-      "totalValue": 247500.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000075/form4.xml"
-    },
-    {
-      "uid": "DNUT|Hees Bernardo|2026-06-04|150000.0|3.2896",
-      "symbol": "DNUT",
-      "companyName": "Krispy Kreme, Inc.",
-      "reportingName": "Hees Bernardo",
-      "title": "",
-      "transactionDate": "2026-06-04",
-      "filingDatetime": "2026-06-04 20:43 ET",
-      "shares": 150000.0,
-      "price": 3.2896,
-      "totalValue": 493440.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1552354/000155235426000004/wk-form4_1780620187.xml"
-    },
-    {
-      "uid": "LTC|BOITANO DAVID M|2026-06-04|5000.0|34.69",
-      "symbol": "LTC",
-      "companyName": "LTC PROPERTIES INC",
-      "reportingName": "BOITANO DAVID M",
-      "title": "EVP & CIO",
-      "transactionDate": "2026-06-04",
-      "filingDatetime": "2026-06-04 19:00 ET",
-      "shares": 5000.0,
-      "price": 34.69,
-      "totalValue": 173450.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/887905/000119567926000003/form4-06042026_110644.xml"
-    },
-    {
-      "uid": "LTC|BOITANO DAVID M|2026-06-04|5000.0|34.85",
-      "symbol": "LTC",
-      "companyName": "LTC PROPERTIES INC",
-      "reportingName": "BOITANO DAVID M",
-      "title": "EVP & CIO",
-      "transactionDate": "2026-06-04",
-      "filingDatetime": "2026-06-04 19:00 ET",
-      "shares": 5000.0,
-      "price": 34.85,
-      "totalValue": 174250.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/887905/000119567926000003/form4-06042026_110644.xml"
-    },
-    {
-      "uid": "AADX|Lynch Susan D|2026-06-04|8000.0|20.0",
-      "symbol": "AADX",
-      "companyName": "Applied Aerospace & Defense, Inc.",
-      "reportingName": "Lynch Susan D",
-      "title": "",
-      "transactionDate": "2026-06-04",
-      "filingDatetime": "2026-06-04 18:00 ET",
-      "shares": 8000.0,
-      "price": 20.0,
-      "totalValue": 160000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1784973/000119312526257860/ownership.xml"
-    },
-    {
-      "uid": "AADX|McRae Jeffrey L.|2026-06-04|25000.0|20.0",
-      "symbol": "AADX",
-      "companyName": "Applied Aerospace & Defense, Inc.",
-      "reportingName": "McRae Jeffrey L.",
-      "title": "Chief Financial Officer",
-      "transactionDate": "2026-06-04",
-      "filingDatetime": "2026-06-04 17:55 ET",
-      "shares": 25000.0,
-      "price": 20.0,
-      "totalValue": 500000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1599036/000119312526257845/ownership.xml"
-    },
-    {
-      "uid": "AADX|Katzman James C|2026-06-04|25000.0|20.0",
-      "symbol": "AADX",
-      "companyName": "Applied Aerospace & Defense, Inc.",
-      "reportingName": "Katzman James C",
-      "title": "",
-      "transactionDate": "2026-06-04",
-      "filingDatetime": "2026-06-04 17:53 ET",
-      "shares": 25000.0,
-      "price": 20.0,
-      "totalValue": 500000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1729886/000119312526257841/ownership.xml"
-    },
-    {
-      "uid": "SMMT|Soni Manmeet Singh|2026-06-04|25000.0|14.46",
-      "symbol": "SMMT",
-      "companyName": "Summit Therapeutics Inc.",
-      "reportingName": "Soni Manmeet Singh",
-      "title": "COO and CFO",
-      "transactionDate": "2026-06-04",
-      "filingDatetime": "2026-06-04 16:40 ET",
-      "shares": 25000.0,
-      "price": 14.46,
-      "totalValue": 361500.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1569769/000156976926000004/wk-form4_1780605646.xml"
-    },
-    {
-      "uid": "SMMT|Soni Manmeet Singh|2026-06-04|25000.0|14.43",
-      "symbol": "SMMT",
-      "companyName": "Summit Therapeutics Inc.",
-      "reportingName": "Soni Manmeet Singh",
-      "title": "COO and CFO",
-      "transactionDate": "2026-06-04",
-      "filingDatetime": "2026-06-04 16:40 ET",
-      "shares": 25000.0,
-      "price": 14.43,
-      "totalValue": 360750.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1569769/000156976926000004/wk-form4_1780605646.xml"
     }
   ]
 }
