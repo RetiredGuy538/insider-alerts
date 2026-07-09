@@ -1,6 +1,32 @@
 {
-  "updated": "2026-07-09 22:42 UTC",
+  "updated": "2026-07-09 23:49 UTC",
   "alerts": [
+    {
+      "uid": "WRAP|SHULMAN JOHN D|2026-07-08|100000.0|1.1",
+      "symbol": "WRAP",
+      "companyName": "WRAP TECHNOLOGIES, INC.",
+      "reportingName": "SHULMAN JOHN D",
+      "title": "",
+      "transactionDate": "2026-07-08",
+      "filingDatetime": "2026-07-09 19:04 ET",
+      "shares": 100000.0,
+      "price": 1.1,
+      "totalValue": 110000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1208886/000149315226032738/ownership.xml"
+    },
+    {
+      "uid": "UUUU|Bhappu Ross R.|2026-07-07|74000.0|13.08",
+      "symbol": "UUUU",
+      "companyName": "ENERGY FUELS INC",
+      "reportingName": "Bhappu Ross R.",
+      "title": "President and CEO",
+      "transactionDate": "2026-07-07",
+      "filingDatetime": "2026-07-09 19:00 ET",
+      "shares": 74000.0,
+      "price": 13.08,
+      "totalValue": 967920.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1385849/000091228226000955/form4.xml"
+    },
     {
       "uid": "AVO|Globalharvest Holdings Venture Ltd|2026-07-06|650415.0|12.73",
       "symbol": "AVO",
