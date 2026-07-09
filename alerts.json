@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-08 23:34 UTC",
+  "updated": "2026-07-09 05:12 UTC",
   "alerts": [
+    {
+      "uid": "AVO|Globalharvest Holdings Venture Ltd|2026-07-06|650415.0|12.73",
+      "symbol": "AVO",
+      "companyName": "Mission Produce, Inc.",
+      "reportingName": "Globalharvest Holdings Venture Ltd",
+      "title": "",
+      "transactionDate": "2026-07-06",
+      "filingDatetime": "2026-07-08 20:19 ET",
+      "shares": 650415.0,
+      "price": 12.73,
+      "totalValue": 8279782.95,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1802974/000089914026000702/form4.xml"
+    },
     {
       "uid": "BOLD|TANG KEVIN|2026-07-01|71612.0|2.49",
       "symbol": "BOLD",
@@ -535,19 +548,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1034495/000119312526268044/ownership.xml"
     },
     {
-      "uid": "AII|SOWELL JAMES E|2026-06-08|33628.0|16.91",
-      "symbol": "AII",
-      "companyName": "American Integrity Insurance Group, Inc.",
-      "reportingName": "SOWELL JAMES E",
-      "title": "",
-      "transactionDate": "2026-06-08",
-      "filingDatetime": "2026-06-11 18:33 ET",
-      "shares": 33628.0,
-      "price": 16.91,
-      "totalValue": 568649.48,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1034495/000119312526268044/ownership.xml"
-    },
-    {
       "uid": "STEP|McCabe Michael I|2026-06-11|96887.0|41.71",
       "symbol": "STEP",
       "companyName": "StepStone Group Inc.",
@@ -598,58 +598,6 @@
       "price": 1.7007,
       "totalValue": 303875.97,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526266221/ownership.xml"
-    },
-    {
-      "uid": "BLND|Haveli Investments, L.P.|2026-06-08|216798.0|1.6982",
-      "symbol": "BLND",
-      "companyName": "Blend Labs, Inc.",
-      "reportingName": "Haveli Investments, L.P.",
-      "title": "",
-      "transactionDate": "2026-06-08",
-      "filingDatetime": "2026-06-10 18:51 ET",
-      "shares": 216798.0,
-      "price": 1.6982,
-      "totalValue": 368166.36,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526266221/ownership.xml"
-    },
-    {
-      "uid": "KNSL|Tangard Christopher R.|2026-06-08|330.0|304.0",
-      "symbol": "KNSL",
-      "companyName": "Kinsale Capital Group, Inc.",
-      "reportingName": "Tangard Christopher R.",
-      "title": "SVP, Chief Accounting Officer",
-      "transactionDate": "2026-06-08",
-      "filingDatetime": "2026-06-09 16:07 ET",
-      "shares": 330.0,
-      "price": 304.0,
-      "totalValue": 100320.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1669162/000200620526000007/wk-form4_1781035640.xml"
-    },
-    {
-      "uid": "MBC|PETRATIS DAVID D|2026-06-08|11587.0|8.8237",
-      "symbol": "MBC",
-      "companyName": "MasterBrand, Inc.",
-      "reportingName": "PETRATIS DAVID D",
-      "title": "",
-      "transactionDate": "2026-06-08",
-      "filingDatetime": "2026-06-09 16:07 ET",
-      "shares": 11587.0,
-      "price": 8.8237,
-      "totalValue": 102240.21,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1299140/000162828026041887/wk-form4_1781035635.xml"
-    },
-    {
-      "uid": "GLP|Global GP LLC|2026-06-08|5000.0|49.29",
-      "symbol": "GLP",
-      "companyName": "GLOBAL PARTNERS LP",
-      "reportingName": "Global GP LLC",
-      "title": "",
-      "transactionDate": "2026-06-08",
-      "filingDatetime": "2026-06-08 17:12 ET",
-      "shares": 5000.0,
-      "price": 49.29,
-      "totalValue": 246450.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000075/form4.xml"
     }
   ]
 }
