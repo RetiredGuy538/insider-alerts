@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09 23:49 UTC",
+  "updated": "2026-07-10 02:35 UTC",
   "alerts": [
     {
       "uid": "WRAP|SHULMAN JOHN D|2026-07-08|100000.0|1.1",
@@ -548,32 +548,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1059244/000105924426000007/wk-form4_1781222887.xml"
     },
     {
-      "uid": "NUVB|Mashal Robert|2026-06-09|25000.0|4.73",
-      "symbol": "NUVB",
-      "companyName": "Nuvation Bio Inc.",
-      "reportingName": "Mashal Robert",
-      "title": "",
-      "transactionDate": "2026-06-09",
-      "filingDatetime": "2026-06-11 20:02 ET",
-      "shares": 25000.0,
-      "price": 4.73,
-      "totalValue": 118250.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1811063/000200710226000004/form4-06122026_120648.xml"
-    },
-    {
-      "uid": "AII|SOWELL JAMES E|2026-06-09|79497.0|16.85",
-      "symbol": "AII",
-      "companyName": "American Integrity Insurance Group, Inc.",
-      "reportingName": "SOWELL JAMES E",
-      "title": "",
-      "transactionDate": "2026-06-09",
-      "filingDatetime": "2026-06-11 18:33 ET",
-      "shares": 79497.0,
-      "price": 16.85,
-      "totalValue": 1339524.45,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1034495/000119312526268044/ownership.xml"
-    },
-    {
       "uid": "STEP|McCabe Michael I|2026-06-11|96887.0|41.71",
       "symbol": "STEP",
       "companyName": "StepStone Group Inc.",
@@ -610,19 +584,6 @@
       "shares": 723460.0,
       "price": 1.673,
       "totalValue": 1210348.58,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526266221/ownership.xml"
-    },
-    {
-      "uid": "BLND|Haveli Investments, L.P.|2026-06-09|178677.0|1.7007",
-      "symbol": "BLND",
-      "companyName": "Blend Labs, Inc.",
-      "reportingName": "Haveli Investments, L.P.",
-      "title": "",
-      "transactionDate": "2026-06-09",
-      "filingDatetime": "2026-06-10 18:51 ET",
-      "shares": 178677.0,
-      "price": 1.7007,
-      "totalValue": 303875.97,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526266221/ownership.xml"
     }
   ]
