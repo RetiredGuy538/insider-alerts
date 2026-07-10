@@ -1,6 +1,58 @@
 {
-  "updated": "2026-07-10 20:24 UTC",
+  "updated": "2026-07-10 21:33 UTC",
   "alerts": [
+    {
+      "uid": "AVO|Globalharvest Holdings Venture Ltd|2026-07-09|592957.0|13.28",
+      "symbol": "AVO",
+      "companyName": "Mission Produce, Inc.",
+      "reportingName": "Globalharvest Holdings Venture Ltd",
+      "title": "",
+      "transactionDate": "2026-07-09",
+      "filingDatetime": "2026-07-10 17:29 ET",
+      "shares": 592957.0,
+      "price": 13.28,
+      "totalValue": 7874468.96,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1802974/000089914026000713/form4.xml"
+    },
+    {
+      "uid": "GLOO|Green Derek Todd|2026-07-10|615384.0|3.25",
+      "symbol": "GLOO",
+      "companyName": "Gloo Holdings, Inc.",
+      "reportingName": "Green Derek Todd",
+      "title": "",
+      "transactionDate": "2026-07-10",
+      "filingDatetime": "2026-07-10 17:05 ET",
+      "shares": 615384.0,
+      "price": 3.25,
+      "totalValue": 1999998.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2069785/000209332626000002/form4-07102026_090701.xml"
+    },
+    {
+      "uid": "GLOO|GELSINGER PATRICK P|2026-07-10|153846.0|3.25",
+      "symbol": "GLOO",
+      "companyName": "Gloo Holdings, Inc.",
+      "reportingName": "GELSINGER PATRICK P",
+      "title": "See Remarks",
+      "transactionDate": "2026-07-10",
+      "filingDatetime": "2026-07-10 17:03 ET",
+      "shares": 153846.0,
+      "price": 3.25,
+      "totalValue": 499999.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1316331/000131633126000008/form4-07102026_090736.xml"
+    },
+    {
+      "uid": "GLOO|Beck Scott Arthur|2026-07-10|1076923.0|3.25",
+      "symbol": "GLOO",
+      "companyName": "Gloo Holdings, Inc.",
+      "reportingName": "Beck Scott Arthur",
+      "title": "President and CEO",
+      "transactionDate": "2026-07-10",
+      "filingDatetime": "2026-07-10 17:02 ET",
+      "shares": 1076923.0,
+      "price": 3.25,
+      "totalValue": 3499999.75,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2069785/000209331526000008/form4-07102026_090758.xml"
+    },
     {
       "uid": "WRAP|SHULMAN JOHN D|2026-07-08|100000.0|1.1",
       "symbol": "WRAP",
