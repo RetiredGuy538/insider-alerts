@@ -1,6 +1,32 @@
 {
-  "updated": "2026-07-10 23:37 UTC",
+  "updated": "2026-07-11 01:07 UTC",
   "alerts": [
+    {
+      "uid": "NTSK|ICONIQ Strategic Partners VIII Holdings, L.P.|2026-07-08|610091.0|11.824",
+      "symbol": "NTSK",
+      "companyName": "Netskope Inc",
+      "reportingName": "ICONIQ Strategic Partners VIII Holdings, L.P.",
+      "title": "",
+      "transactionDate": "2026-07-08",
+      "filingDatetime": "2026-07-10 19:39 ET",
+      "shares": 610091.0,
+      "price": 11.824,
+      "totalValue": 7213715.98,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1688143/000119312526301164/ownership.xml"
+    },
+    {
+      "uid": "NTSK|Griffith William J.G.|2026-07-08|610291.0|11.824",
+      "symbol": "NTSK",
+      "companyName": "Netskope Inc",
+      "reportingName": "Griffith William J.G.",
+      "title": "",
+      "transactionDate": "2026-07-08",
+      "filingDatetime": "2026-07-10 19:37 ET",
+      "shares": 610291.0,
+      "price": 11.824,
+      "totalValue": 7216080.78,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1688124/000119312526301161/ownership.xml"
+    },
     {
       "uid": "AVO|Globalharvest Holdings Venture Ltd|2026-07-09|592957.0|13.28",
       "symbol": "AVO",
@@ -574,19 +600,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1802974/000182587926000003/wk-form4_1781556342.xml"
     },
     {
-      "uid": "INR|Poole David P|2026-06-10|7500.0|13.995",
-      "symbol": "INR",
-      "companyName": "INFINITY NATURAL RESOURCES, INC.",
-      "reportingName": "Poole David P",
-      "title": "",
-      "transactionDate": "2026-06-10",
-      "filingDatetime": "2026-06-11 21:35 ET",
-      "shares": 7500.0,
-      "price": 13.995,
-      "totalValue": 104962.5,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1356213/000202911826000058/wk-form4_1781228121.xml"
-    },
-    {
       "uid": "BETR|FRATER HUGH R|2026-06-11|5150.0|24.34",
       "symbol": "BETR",
       "companyName": "Better Home & Finance Holding Co",
@@ -624,19 +637,6 @@
       "price": 42.44,
       "totalValue": 980915.72,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1796022/000182288026000004/wk-form4_1781217090.xml"
-    },
-    {
-      "uid": "BLND|Haveli Investments, L.P.|2026-06-10|723460.0|1.673",
-      "symbol": "BLND",
-      "companyName": "Blend Labs, Inc.",
-      "reportingName": "Haveli Investments, L.P.",
-      "title": "",
-      "transactionDate": "2026-06-10",
-      "filingDatetime": "2026-06-10 18:51 ET",
-      "shares": 723460.0,
-      "price": 1.673,
-      "totalValue": 1210348.58,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526266221/ownership.xml"
     }
   ]
 }
