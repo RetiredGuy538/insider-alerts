@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11 01:07 UTC",
+  "updated": "2026-07-13 02:23 UTC",
   "alerts": [
     {
       "uid": "NTSK|ICONIQ Strategic Partners VIII Holdings, L.P.|2026-07-08|610091.0|11.824",
@@ -431,71 +431,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1050002/000110465926075331/tm2618116-1_4seq1.xml"
     },
     {
-      "uid": "VRA|Bickley Ian|2026-06-12|28901.0|3.87",
-      "symbol": "VRA",
-      "companyName": "Vera Bradley, Inc.",
-      "reportingName": "Bickley Ian",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-06-12",
-      "filingDatetime": "2026-06-16 21:08 ET",
-      "shares": 28901.0,
-      "price": 3.87,
-      "totalValue": 111846.87,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1495320/000163246826000011/form4-06172026_010630.xml"
-    },
-    {
-      "uid": "AMR|Courtis Kenneth S.|2026-06-12|6136.0|200.49",
-      "symbol": "AMR",
-      "companyName": "Alpha Metallurgical Resources, Inc.",
-      "reportingName": "Courtis Kenneth S.",
-      "title": "",
-      "transactionDate": "2026-06-12",
-      "filingDatetime": "2026-06-16 20:41 ET",
-      "shares": 6136.0,
-      "price": 200.49,
-      "totalValue": 1230206.64,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000007/primary_doc.xml"
-    },
-    {
-      "uid": "AMR|Courtis Kenneth S.|2026-06-12|3864.0|201.11",
-      "symbol": "AMR",
-      "companyName": "Alpha Metallurgical Resources, Inc.",
-      "reportingName": "Courtis Kenneth S.",
-      "title": "",
-      "transactionDate": "2026-06-12",
-      "filingDatetime": "2026-06-16 20:41 ET",
-      "shares": 3864.0,
-      "price": 201.11,
-      "totalValue": 777089.04,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000007/primary_doc.xml"
-    },
-    {
-      "uid": "PBLS|RA CAPITAL MANAGEMENT, L.P.|2026-06-11|19728353.0|20.0",
-      "symbol": "PBLS",
-      "companyName": "Parabilis Medicines, Inc.",
-      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
-      "title": "",
-      "transactionDate": "2026-06-11",
-      "filingDatetime": "2026-06-15 18:57 ET",
-      "shares": 19728353.0,
-      "price": 20.0,
-      "totalValue": 394567060.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000638/form4-06152026_100639.xml"
-    },
-    {
-      "uid": "PBLS|RA CAPITAL MANAGEMENT, L.P.|2026-06-11|1460397.0|20.0",
-      "symbol": "PBLS",
-      "companyName": "Parabilis Medicines, Inc.",
-      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
-      "title": "",
-      "transactionDate": "2026-06-11",
-      "filingDatetime": "2026-06-15 18:57 ET",
-      "shares": 1460397.0,
-      "price": 20.0,
-      "totalValue": 29207940.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000638/form4-06152026_100639.xml"
-    },
-    {
       "uid": "ADSK|Moorjani Janesh|2026-06-15|2500.0|197.67",
       "symbol": "ADSK",
       "companyName": "Autodesk, Inc.",
@@ -509,19 +444,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/769397/000166273426000006/wk-form4_1781563272.xml"
     },
     {
-      "uid": "FDP|Abu-Ghazaleh Ahmad|2026-06-11|4000.0|29.405",
-      "symbol": "FDP",
-      "companyName": "DEL MONTE CORP",
-      "reportingName": "Abu-Ghazaleh Ahmad",
-      "title": "",
-      "transactionDate": "2026-06-11",
-      "filingDatetime": "2026-06-15 18:38 ET",
-      "shares": 4000.0,
-      "price": 29.405,
-      "totalValue": 117620.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1047340/000173953626000005/wk-form4_1781563095.xml"
-    },
-    {
       "uid": "BLND|Haveli Investments, L.P.|2026-06-15|650000.0|1.7232",
       "symbol": "BLND",
       "companyName": "Blend Labs, Inc.",
@@ -533,110 +455,6 @@
       "price": 1.7232,
       "totalValue": 1120080.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526271395/ownership.xml"
-    },
-    {
-      "uid": "BLND|Haveli Investments, L.P.|2026-06-12|256928.0|1.6976",
-      "symbol": "BLND",
-      "companyName": "Blend Labs, Inc.",
-      "reportingName": "Haveli Investments, L.P.",
-      "title": "",
-      "transactionDate": "2026-06-12",
-      "filingDatetime": "2026-06-15 18:17 ET",
-      "shares": 256928.0,
-      "price": 1.6976,
-      "totalValue": 436160.97,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526271395/ownership.xml"
-    },
-    {
-      "uid": "BLND|Haveli Investments, L.P.|2026-06-11|250000.0|1.7405",
-      "symbol": "BLND",
-      "companyName": "Blend Labs, Inc.",
-      "reportingName": "Haveli Investments, L.P.",
-      "title": "",
-      "transactionDate": "2026-06-11",
-      "filingDatetime": "2026-06-15 18:17 ET",
-      "shares": 250000.0,
-      "price": 1.7405,
-      "totalValue": 435125.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526271395/ownership.xml"
-    },
-    {
-      "uid": "EU|PELIZZA MARK S|2026-06-11|99182.0|1.37",
-      "symbol": "EU",
-      "companyName": "enCore Energy Corp.",
-      "reportingName": "PELIZZA MARK S",
-      "title": "",
-      "transactionDate": "2026-06-11",
-      "filingDatetime": "2026-06-15 18:15 ET",
-      "shares": 99182.0,
-      "price": 1.37,
-      "totalValue": 135879.34,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/926935/000119312526271394/ownership.xml"
-    },
-    {
-      "uid": "AVO|Pack Jay A|2026-06-11|25281.0|11.03",
-      "symbol": "AVO",
-      "companyName": "Mission Produce, Inc.",
-      "reportingName": "Pack Jay A",
-      "title": "",
-      "transactionDate": "2026-06-11",
-      "filingDatetime": "2026-06-15 16:45 ET",
-      "shares": 25281.0,
-      "price": 11.03,
-      "totalValue": 278849.43,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1802974/000182587926000003/wk-form4_1781556342.xml"
-    },
-    {
-      "uid": "AVO|Pack Jay A|2026-06-11|12169.0|11.04",
-      "symbol": "AVO",
-      "companyName": "Mission Produce, Inc.",
-      "reportingName": "Pack Jay A",
-      "title": "",
-      "transactionDate": "2026-06-11",
-      "filingDatetime": "2026-06-15 16:45 ET",
-      "shares": 12169.0,
-      "price": 11.04,
-      "totalValue": 134345.76,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1802974/000182587926000003/wk-form4_1781556342.xml"
-    },
-    {
-      "uid": "BETR|FRATER HUGH R|2026-06-11|5150.0|24.34",
-      "symbol": "BETR",
-      "companyName": "Better Home & Finance Holding Co",
-      "reportingName": "FRATER HUGH R",
-      "title": "",
-      "transactionDate": "2026-06-11",
-      "filingDatetime": "2026-06-11 20:08 ET",
-      "shares": 5150.0,
-      "price": 24.34,
-      "totalValue": 125351.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1059244/000105924426000007/wk-form4_1781222887.xml"
-    },
-    {
-      "uid": "STEP|McCabe Michael I|2026-06-11|96887.0|41.71",
-      "symbol": "STEP",
-      "companyName": "StepStone Group Inc.",
-      "reportingName": "McCabe Michael I",
-      "title": "Head of Strategy",
-      "transactionDate": "2026-06-11",
-      "filingDatetime": "2026-06-11 18:31 ET",
-      "shares": 96887.0,
-      "price": 41.71,
-      "totalValue": 4041156.77,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1796022/000182288026000004/wk-form4_1781217090.xml"
-    },
-    {
-      "uid": "STEP|McCabe Michael I|2026-06-11|23113.0|42.44",
-      "symbol": "STEP",
-      "companyName": "StepStone Group Inc.",
-      "reportingName": "McCabe Michael I",
-      "title": "Head of Strategy",
-      "transactionDate": "2026-06-11",
-      "filingDatetime": "2026-06-11 18:31 ET",
-      "shares": 23113.0,
-      "price": 42.44,
-      "totalValue": 980915.72,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1796022/000182288026000004/wk-form4_1781217090.xml"
     }
   ]
 }
