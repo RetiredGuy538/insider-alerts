@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-14 22:13 UTC",
+  "updated": "2026-07-14 23:11 UTC",
   "alerts": [
+    {
+      "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-10|15102.0|8.97",
+      "symbol": "ARTV",
+      "companyName": "Artiva Biotherapeutics, Inc.",
+      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
+      "title": "",
+      "transactionDate": "2026-07-10",
+      "filingDatetime": "2026-07-14 19:00 ET",
+      "shares": 15102.0,
+      "price": 8.97,
+      "totalValue": 135464.94,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000764/form4-07142026_110714.xml"
+    },
     {
       "uid": "NTSK|ICONIQ Strategic Partners VIII Holdings, L.P.|2026-07-13|64771.0|12.4214",
       "symbol": "NTSK",
