@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-13 23:34 UTC",
+  "updated": "2026-07-14 01:03 UTC",
   "alerts": [
+    {
+      "uid": "YEXT|Englander Daniel J|2026-07-13|76190.0|5.2226",
+      "symbol": "YEXT",
+      "companyName": "Yext, Inc.",
+      "reportingName": "Englander Daniel J",
+      "title": "",
+      "transactionDate": "2026-07-13",
+      "filingDatetime": "2026-07-13 20:33 ET",
+      "shares": 76190.0,
+      "price": 5.2226,
+      "totalValue": 397909.89,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1289438/000162828026048066/wk-form4_1783989216.xml"
+    },
     {
       "uid": "NTSK|ICONIQ Strategic Partners VIII Holdings, L.P.|2026-07-08|610091.0|11.824",
       "symbol": "NTSK",
