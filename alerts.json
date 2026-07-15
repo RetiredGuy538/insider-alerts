@@ -1,6 +1,45 @@
 {
-  "updated": "2026-07-15 22:56 UTC",
+  "updated": "2026-07-15 23:56 UTC",
   "alerts": [
+    {
+      "uid": "FULC|TANG KEVIN|2026-07-15|107377.0|3.56",
+      "symbol": "FULC",
+      "companyName": "Fulcrum Therapeutics, Inc.",
+      "reportingName": "TANG KEVIN",
+      "title": "",
+      "transactionDate": "2026-07-15",
+      "filingDatetime": "2026-07-15 19:50 ET",
+      "shares": 107377.0,
+      "price": 3.56,
+      "totalValue": 382262.12,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000014/form4-07152026_110717.xml"
+    },
+    {
+      "uid": "FULC|TANG KEVIN|2026-07-14|53651.0|3.56",
+      "symbol": "FULC",
+      "companyName": "Fulcrum Therapeutics, Inc.",
+      "reportingName": "TANG KEVIN",
+      "title": "",
+      "transactionDate": "2026-07-14",
+      "filingDatetime": "2026-07-15 19:50 ET",
+      "shares": 53651.0,
+      "price": 3.56,
+      "totalValue": 190997.56,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000014/form4-07152026_110717.xml"
+    },
+    {
+      "uid": "FULC|TANG KEVIN|2026-07-14|75952.0|3.58",
+      "symbol": "FULC",
+      "companyName": "Fulcrum Therapeutics, Inc.",
+      "reportingName": "TANG KEVIN",
+      "title": "",
+      "transactionDate": "2026-07-14",
+      "filingDatetime": "2026-07-15 19:50 ET",
+      "shares": 75952.0,
+      "price": 3.58,
+      "totalValue": 271908.16,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000014/form4-07152026_110717.xml"
+    },
     {
       "uid": "ENR|Aqua Capital, Ltd.|2026-07-14|20000.0|20.1261",
       "symbol": "ENR",
