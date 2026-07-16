@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 23:56 UTC",
+  "updated": "2026-07-16 02:34 UTC",
   "alerts": [
     {
       "uid": "FULC|TANG KEVIN|2026-07-15|107377.0|3.56",
@@ -572,45 +572,6 @@
       "price": 14.68,
       "totalValue": 440400.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1259062/000162828026044640/wk-form4_1782159417.xml"
-    },
-    {
-      "uid": "FBRT|ORTALE BUFORD H|2026-06-15|25900.0|8.44",
-      "symbol": "FBRT",
-      "companyName": "Franklin BSP Realty Trust, Inc.",
-      "reportingName": "ORTALE BUFORD H",
-      "title": "",
-      "transactionDate": "2026-06-15",
-      "filingDatetime": "2026-06-17 21:45 ET",
-      "shares": 25900.0,
-      "price": 8.44,
-      "totalValue": 218596.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1050002/000110465926075331/tm2618116-1_4seq1.xml"
-    },
-    {
-      "uid": "ADSK|Moorjani Janesh|2026-06-15|2500.0|197.67",
-      "symbol": "ADSK",
-      "companyName": "Autodesk, Inc.",
-      "reportingName": "Moorjani Janesh",
-      "title": "EVP, Chief Financial Officer",
-      "transactionDate": "2026-06-15",
-      "filingDatetime": "2026-06-15 18:41 ET",
-      "shares": 2500.0,
-      "price": 197.67,
-      "totalValue": 494175.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/769397/000166273426000006/wk-form4_1781563272.xml"
-    },
-    {
-      "uid": "BLND|Haveli Investments, L.P.|2026-06-15|650000.0|1.7232",
-      "symbol": "BLND",
-      "companyName": "Blend Labs, Inc.",
-      "reportingName": "Haveli Investments, L.P.",
-      "title": "",
-      "transactionDate": "2026-06-15",
-      "filingDatetime": "2026-06-15 18:17 ET",
-      "shares": 650000.0,
-      "price": 1.7232,
-      "totalValue": 1120080.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1782665/000119312526271395/ownership.xml"
     }
   ]
 }
