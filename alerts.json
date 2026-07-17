@@ -1,6 +1,32 @@
 {
-  "updated": "2026-07-17 17:29 UTC",
+  "updated": "2026-07-17 18:36 UTC",
   "alerts": [
+    {
+      "uid": "ELV|BOUDREAUX GAIL|2026-07-17|680.0|366.41",
+      "symbol": "ELV",
+      "companyName": "Elevance Health, Inc.",
+      "reportingName": "BOUDREAUX GAIL",
+      "title": "President and CEO",
+      "transactionDate": "2026-07-17",
+      "filingDatetime": "2026-07-17 13:50 ET",
+      "shares": 680.0,
+      "price": 366.41,
+      "totalValue": 249158.8,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1156039/000128792026000006/wk-form4_1784310641.xml"
+    },
+    {
+      "uid": "ELV|BOUDREAUX GAIL|2026-07-17|2045.0|368.25",
+      "symbol": "ELV",
+      "companyName": "Elevance Health, Inc.",
+      "reportingName": "BOUDREAUX GAIL",
+      "title": "President and CEO",
+      "transactionDate": "2026-07-17",
+      "filingDatetime": "2026-07-17 13:50 ET",
+      "shares": 2045.0,
+      "price": 368.25,
+      "totalValue": 753071.25,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1156039/000128792026000006/wk-form4_1784310641.xml"
+    },
     {
       "uid": "FULC|TANG KEVIN|2026-07-15|107377.0|3.56",
       "symbol": "FULC",
