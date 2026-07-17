@@ -1,6 +1,58 @@
 {
-  "updated": "2026-07-17 19:46 UTC",
+  "updated": "2026-07-17 20:49 UTC",
   "alerts": [
+    {
+      "uid": "ENR|Aqua Capital, Ltd.|2026-07-16|20000.0|20.8505",
+      "symbol": "ENR",
+      "companyName": "ENERGIZER HOLDINGS, INC.",
+      "reportingName": "Aqua Capital, Ltd.",
+      "title": "",
+      "transactionDate": "2026-07-16",
+      "filingDatetime": "2026-07-17 16:37 ET",
+      "shares": 20000.0,
+      "price": 20.8505,
+      "totalValue": 417010.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126028829/form4.xml"
+    },
+    {
+      "uid": "ENR|Aqua Capital, Ltd.|2026-07-16|20000.0|20.8574",
+      "symbol": "ENR",
+      "companyName": "ENERGIZER HOLDINGS, INC.",
+      "reportingName": "Aqua Capital, Ltd.",
+      "title": "",
+      "transactionDate": "2026-07-16",
+      "filingDatetime": "2026-07-17 16:37 ET",
+      "shares": 20000.0,
+      "price": 20.8574,
+      "totalValue": 417148.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126028829/form4.xml"
+    },
+    {
+      "uid": "ENR|Aqua Capital, Ltd.|2026-07-15|20000.0|20.5373",
+      "symbol": "ENR",
+      "companyName": "ENERGIZER HOLDINGS, INC.",
+      "reportingName": "Aqua Capital, Ltd.",
+      "title": "",
+      "transactionDate": "2026-07-15",
+      "filingDatetime": "2026-07-17 16:37 ET",
+      "shares": 20000.0,
+      "price": 20.5373,
+      "totalValue": 410746.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126028829/form4.xml"
+    },
+    {
+      "uid": "ENR|Aqua Capital, Ltd.|2026-07-15|20000.0|20.6426",
+      "symbol": "ENR",
+      "companyName": "ENERGIZER HOLDINGS, INC.",
+      "reportingName": "Aqua Capital, Ltd.",
+      "title": "",
+      "transactionDate": "2026-07-15",
+      "filingDatetime": "2026-07-17 16:37 ET",
+      "shares": 20000.0,
+      "price": 20.6426,
+      "totalValue": 412852.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126028829/form4.xml"
+    },
     {
       "uid": "ELV|BOUDREAUX GAIL|2026-07-17|680.0|366.41",
       "symbol": "ELV",
