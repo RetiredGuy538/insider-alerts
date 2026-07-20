@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 01:04 UTC",
+  "updated": "2026-07-20 02:34 UTC",
   "alerts": [
     {
       "uid": "ENR|Aqua Capital, Ltd.|2026-07-16|20000.0|20.8505",
@@ -522,45 +522,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/2052053/000121390026071225/ownership.xml"
     },
     {
-      "uid": "LILA|Nair Balan|2026-06-18|151759.0|4.9528",
-      "symbol": "LILA",
-      "companyName": "Liberty Latin America Ltd.",
-      "reportingName": "Nair Balan",
-      "title": "President and CEO",
-      "transactionDate": "2026-06-18",
-      "filingDatetime": "2026-06-23 17:08 ET",
-      "shares": 151759.0,
-      "price": 4.9528,
-      "totalValue": 751631.98,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1398905/000171218426000108/wk-form4_1782248880.xml"
-    },
-    {
-      "uid": "LILA|Nair Balan|2026-06-18|13155.0|18.954",
-      "symbol": "LILA",
-      "companyName": "Liberty Latin America Ltd.",
-      "reportingName": "Nair Balan",
-      "title": "President and CEO",
-      "transactionDate": "2026-06-18",
-      "filingDatetime": "2026-06-23 17:08 ET",
-      "shares": 13155.0,
-      "price": 18.954,
-      "totalValue": 249339.87,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1398905/000171218426000108/wk-form4_1782248880.xml"
-    },
-    {
-      "uid": "LILA|PADDICK BRENDAN J|2026-06-18|100000.0|4.882",
-      "symbol": "LILA",
-      "companyName": "Liberty Latin America Ltd.",
-      "reportingName": "PADDICK BRENDAN J",
-      "title": "",
-      "transactionDate": "2026-06-18",
-      "filingDatetime": "2026-06-23 17:07 ET",
-      "shares": 100000.0,
-      "price": 4.882,
-      "totalValue": 488200.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1712184/000171218426000107/wk-form4_1782248833.xml"
-    },
-    {
       "uid": "AVO|Taylor Bruce C.|2026-06-23|70283.0|11.25",
       "symbol": "AVO",
       "companyName": "Mission Produce, Inc.",
@@ -585,71 +546,6 @@
       "price": 11.36,
       "totalValue": 337585.12,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1459350/000145935026000006/wk-form4_1782248789.xml"
-    },
-    {
-      "uid": "FCBM|Robbins Charles Austin Jr|2026-06-18|14000.0|12.5",
-      "symbol": "FCBM",
-      "companyName": "First Carolina Financial Services, Inc.",
-      "reportingName": "Robbins Charles Austin Jr",
-      "title": "",
-      "transactionDate": "2026-06-18",
-      "filingDatetime": "2026-06-22 19:03 ET",
-      "shares": 14000.0,
-      "price": 12.5,
-      "totalValue": 175000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1531193/000119312526277888/ownership.xml"
-    },
-    {
-      "uid": "FCBM|LUCAS JAMES A JR|2026-06-18|16000.0|12.5",
-      "symbol": "FCBM",
-      "companyName": "First Carolina Financial Services, Inc.",
-      "reportingName": "LUCAS JAMES A JR",
-      "title": "",
-      "transactionDate": "2026-06-18",
-      "filingDatetime": "2026-06-22 19:03 ET",
-      "shares": 16000.0,
-      "price": 12.5,
-      "totalValue": 200000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1193392/000119312526277884/ownership.xml"
-    },
-    {
-      "uid": "FCBM|Gussenhoven John Walter|2026-06-18|16000.0|12.5",
-      "symbol": "FCBM",
-      "companyName": "First Carolina Financial Services, Inc.",
-      "reportingName": "Gussenhoven John Walter",
-      "title": "",
-      "transactionDate": "2026-06-18",
-      "filingDatetime": "2026-06-22 19:03 ET",
-      "shares": 16000.0,
-      "price": 12.5,
-      "totalValue": 200000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1531193/000119312526277881/ownership.xml"
-    },
-    {
-      "uid": "FCBM|Floyd Gregory Everette|2026-06-18|18750.0|12.5",
-      "symbol": "FCBM",
-      "companyName": "First Carolina Financial Services, Inc.",
-      "reportingName": "Floyd Gregory Everette",
-      "title": "",
-      "transactionDate": "2026-06-18",
-      "filingDatetime": "2026-06-22 19:03 ET",
-      "shares": 18750.0,
-      "price": 12.5,
-      "totalValue": 234375.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1531193/000119312526277880/ownership.xml"
-    },
-    {
-      "uid": "LOVE|HEYER ANDREW R|2026-06-18|30000.0|14.68",
-      "symbol": "LOVE",
-      "companyName": "Lovesac Co",
-      "reportingName": "HEYER ANDREW R",
-      "title": "",
-      "transactionDate": "2026-06-18",
-      "filingDatetime": "2026-06-22 16:17 ET",
-      "shares": 30000.0,
-      "price": 14.68,
-      "totalValue": 440400.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1259062/000162828026044640/wk-form4_1782159417.xml"
     }
   ]
 }
