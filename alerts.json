@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-20 21:32 UTC",
+  "updated": "2026-07-20 22:38 UTC",
   "alerts": [
+    {
+      "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-16|152472.0|8.93",
+      "symbol": "ARTV",
+      "companyName": "Artiva Biotherapeutics, Inc.",
+      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
+      "title": "",
+      "transactionDate": "2026-07-16",
+      "filingDatetime": "2026-07-20 18:08 ET",
+      "shares": 152472.0,
+      "price": 8.93,
+      "totalValue": 1361574.96,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000774/form4-07202026_100743.xml"
+    },
     {
       "uid": "ENR|Aqua Capital, Ltd.|2026-07-16|20000.0|20.8505",
       "symbol": "ENR",
