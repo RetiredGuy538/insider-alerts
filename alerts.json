@@ -1,6 +1,71 @@
 {
-  "updated": "2026-07-21 19:36 UTC",
+  "updated": "2026-07-21 20:47 UTC",
   "alerts": [
+    {
+      "uid": "ENR|Aqua Capital, Ltd.|2026-07-20|20000.0|20.0876",
+      "symbol": "ENR",
+      "companyName": "ENERGIZER HOLDINGS, INC.",
+      "reportingName": "Aqua Capital, Ltd.",
+      "title": "",
+      "transactionDate": "2026-07-20",
+      "filingDatetime": "2026-07-21 16:36 ET",
+      "shares": 20000.0,
+      "price": 20.0876,
+      "totalValue": 401752.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126029140/form4.xml"
+    },
+    {
+      "uid": "ENR|Aqua Capital, Ltd.|2026-07-20|20000.0|19.9389",
+      "symbol": "ENR",
+      "companyName": "ENERGIZER HOLDINGS, INC.",
+      "reportingName": "Aqua Capital, Ltd.",
+      "title": "",
+      "transactionDate": "2026-07-20",
+      "filingDatetime": "2026-07-21 16:36 ET",
+      "shares": 20000.0,
+      "price": 19.9389,
+      "totalValue": 398778.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126029140/form4.xml"
+    },
+    {
+      "uid": "ENR|Aqua Capital, Ltd.|2026-07-20|20000.0|20.047",
+      "symbol": "ENR",
+      "companyName": "ENERGIZER HOLDINGS, INC.",
+      "reportingName": "Aqua Capital, Ltd.",
+      "title": "",
+      "transactionDate": "2026-07-20",
+      "filingDatetime": "2026-07-21 16:36 ET",
+      "shares": 20000.0,
+      "price": 20.047,
+      "totalValue": 400940.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126029140/form4.xml"
+    },
+    {
+      "uid": "ENR|Aqua Capital, Ltd.|2026-07-17|20000.0|20.5084",
+      "symbol": "ENR",
+      "companyName": "ENERGIZER HOLDINGS, INC.",
+      "reportingName": "Aqua Capital, Ltd.",
+      "title": "",
+      "transactionDate": "2026-07-17",
+      "filingDatetime": "2026-07-21 16:36 ET",
+      "shares": 20000.0,
+      "price": 20.5084,
+      "totalValue": 410168.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126029140/form4.xml"
+    },
+    {
+      "uid": "ENR|Aqua Capital, Ltd.|2026-07-17|20000.0|20.4606",
+      "symbol": "ENR",
+      "companyName": "ENERGIZER HOLDINGS, INC.",
+      "reportingName": "Aqua Capital, Ltd.",
+      "title": "",
+      "transactionDate": "2026-07-17",
+      "filingDatetime": "2026-07-21 16:36 ET",
+      "shares": 20000.0,
+      "price": 20.4606,
+      "totalValue": 409212.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126029140/form4.xml"
+    },
     {
       "uid": "FULC|TANG KEVIN|2026-07-17|50945.0|3.52",
       "symbol": "FULC",
