@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-21 22:00 UTC",
+  "updated": "2026-07-21 23:10 UTC",
   "alerts": [
+    {
+      "uid": "CAG|Brase John P|2026-07-17|35000.0|14.5895",
+      "symbol": "CAG",
+      "companyName": "CONAGRA BRANDS INC.",
+      "reportingName": "Brase John P",
+      "title": "President and CEO",
+      "transactionDate": "2026-07-17",
+      "filingDatetime": "2026-07-21 18:01 ET",
+      "shares": 35000.0,
+      "price": 14.5895,
+      "totalValue": 510632.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/23217/000180764126000007/form4-07212026_100739.xml"
+    },
     {
       "uid": "ENR|Aqua Capital, Ltd.|2026-07-20|20000.0|20.0876",
       "symbol": "ENR",
