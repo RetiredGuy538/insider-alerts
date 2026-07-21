@@ -1,6 +1,32 @@
 {
-  "updated": "2026-07-21 01:07 UTC",
+  "updated": "2026-07-21 04:30 UTC",
   "alerts": [
+    {
+      "uid": "FULC|TANG KEVIN|2026-07-17|50945.0|3.52",
+      "symbol": "FULC",
+      "companyName": "Fulcrum Therapeutics, Inc.",
+      "reportingName": "TANG KEVIN",
+      "title": "",
+      "transactionDate": "2026-07-17",
+      "filingDatetime": "2026-07-20 21:10 ET",
+      "shares": 50945.0,
+      "price": 3.52,
+      "totalValue": 179326.4,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000016/form4-07212026_010750.xml"
+    },
+    {
+      "uid": "FULC|TANG KEVIN|2026-07-16|116671.0|3.56",
+      "symbol": "FULC",
+      "companyName": "Fulcrum Therapeutics, Inc.",
+      "reportingName": "TANG KEVIN",
+      "title": "",
+      "transactionDate": "2026-07-16",
+      "filingDatetime": "2026-07-20 21:10 ET",
+      "shares": 116671.0,
+      "price": 3.56,
+      "totalValue": 415348.76,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000016/form4-07212026_010750.xml"
+    },
     {
       "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-16|152472.0|8.93",
       "symbol": "ARTV",
