@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-23 21:44 UTC",
+  "updated": "2026-07-23 22:39 UTC",
   "alerts": [
+    {
+      "uid": "BYRN|Kennedy TJ|2026-07-22|29000.0|3.5271",
+      "symbol": "BYRN",
+      "companyName": "Byrna Technologies Inc.",
+      "reportingName": "Kennedy TJ",
+      "title": "",
+      "transactionDate": "2026-07-22",
+      "filingDatetime": "2026-07-23 18:25 ET",
+      "shares": 29000.0,
+      "price": 3.5271,
+      "totalValue": 102285.9,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1354866/000143774926024350/rdgdoc.xml"
+    },
     {
       "uid": "RBKB|Loughlin Suzanne|2026-07-22|12000.0|11.93",
       "symbol": "RBKB",
