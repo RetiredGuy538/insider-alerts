@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 23:39 UTC",
+  "updated": "2026-07-23 01:11 UTC",
   "alerts": [
     {
       "uid": "CAG|Brase John P|2026-07-17|35000.0|14.5895",
@@ -561,19 +561,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1726126/000110465926077619/tm2618978-1_4seq1.xml"
     },
     {
-      "uid": "KARD|HRTG GPE, LLC|2026-06-22|3125000.0|16.0",
-      "symbol": "KARD",
-      "companyName": "Kardigan, Inc.",
-      "reportingName": "HRTG GPE, LLC",
-      "title": "",
-      "transactionDate": "2026-06-22",
-      "filingDatetime": "2026-06-24 21:26 ET",
-      "shares": 3125000.0,
-      "price": 16.0,
-      "totalValue": 50000000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1537455/000119312526281553/ownership.xml"
-    },
-    {
       "uid": "OXY|Jackson Richard A.|2026-06-23|4770.0|52.38",
       "symbol": "OXY",
       "companyName": "OCCIDENTAL PETROLEUM CORP /DE/",
@@ -587,58 +574,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/797468/000162828026045313/wk-form4_1782342238.xml"
     },
     {
-      "uid": "ENR|Aqua Capital, Ltd.|2026-06-22|20000.0|21.101",
-      "symbol": "ENR",
-      "companyName": "ENERGIZER HOLDINGS, INC.",
-      "reportingName": "Aqua Capital, Ltd.",
-      "title": "",
-      "transactionDate": "2026-06-22",
-      "filingDatetime": "2026-06-23 18:40 ET",
-      "shares": 20000.0,
-      "price": 21.101,
-      "totalValue": 422020.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126026118/form4.xml"
-    },
-    {
-      "uid": "ENR|Aqua Capital, Ltd.|2026-06-22|20000.0|21.0906",
-      "symbol": "ENR",
-      "companyName": "ENERGIZER HOLDINGS, INC.",
-      "reportingName": "Aqua Capital, Ltd.",
-      "title": "",
-      "transactionDate": "2026-06-22",
-      "filingDatetime": "2026-06-23 18:40 ET",
-      "shares": 20000.0,
-      "price": 21.0906,
-      "totalValue": 421812.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126026118/form4.xml"
-    },
-    {
-      "uid": "PWRL|Dinsdale Mike John|2026-06-22|12727.0|15.473",
-      "symbol": "PWRL",
-      "companyName": "Powerlaw Corp.",
-      "reportingName": "Dinsdale Mike John",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-06-22",
-      "filingDatetime": "2026-06-23 18:38 ET",
-      "shares": 12727.0,
-      "price": 15.473,
-      "totalValue": 196924.87,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1847123/000121390026071226/ownership.xml"
-    },
-    {
-      "uid": "PWRL|Black Benjamin David|2026-06-22|6500.0|15.47",
-      "symbol": "PWRL",
-      "companyName": "Powerlaw Corp.",
-      "reportingName": "Black Benjamin David",
-      "title": "Chief Investment Officer",
-      "transactionDate": "2026-06-22",
-      "filingDatetime": "2026-06-23 18:37 ET",
-      "shares": 6500.0,
-      "price": 15.47,
-      "totalValue": 100555.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/2052053/000121390026071225/ownership.xml"
-    },
-    {
       "uid": "AVO|Taylor Bruce C.|2026-06-23|70283.0|11.25",
       "symbol": "AVO",
       "companyName": "Mission Produce, Inc.",
@@ -649,19 +584,6 @@
       "shares": 70283.0,
       "price": 11.25,
       "totalValue": 790683.75,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1459350/000145935026000006/wk-form4_1782248789.xml"
-    },
-    {
-      "uid": "AVO|Taylor Bruce C.|2026-06-22|29717.0|11.36",
-      "symbol": "AVO",
-      "companyName": "Mission Produce, Inc.",
-      "reportingName": "Taylor Bruce C.",
-      "title": "",
-      "transactionDate": "2026-06-22",
-      "filingDatetime": "2026-06-23 17:06 ET",
-      "shares": 29717.0,
-      "price": 11.36,
-      "totalValue": 337585.12,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1459350/000145935026000006/wk-form4_1782248789.xml"
     }
   ]
