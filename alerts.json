@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-24 19:34 UTC",
+  "updated": "2026-07-24 20:48 UTC",
   "alerts": [
+    {
+      "uid": "FSBC|Perry-Smith Robert Truxtun|2026-07-22|31363.0|44.0",
+      "symbol": "FSBC",
+      "companyName": "FIVE STAR BANCORP",
+      "reportingName": "Perry-Smith Robert Truxtun",
+      "title": "",
+      "transactionDate": "2026-07-22",
+      "filingDatetime": "2026-07-24 16:33 ET",
+      "shares": 31363.0,
+      "price": 44.0,
+      "totalValue": 1379972.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1275168/000162828026049621/wk-form4_1784925215.xml"
+    },
     {
       "uid": "PNFP|MCCABE ROBERT A JR|2026-07-24|10013.0|99.9",
       "symbol": "PNFP",
