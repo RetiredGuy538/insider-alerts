@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-24 14:50 UTC",
+  "updated": "2026-07-24 16:33 UTC",
   "alerts": [
+    {
+      "uid": "PNFP|MCCABE ROBERT A JR|2026-07-24|10013.0|99.9",
+      "symbol": "PNFP",
+      "companyName": "Pinnacle Financial Partners, Inc.",
+      "reportingName": "MCCABE ROBERT A JR",
+      "title": "Chief Banking Officer",
+      "transactionDate": "2026-07-24",
+      "filingDatetime": "2026-07-24 12:13 ET",
+      "shares": 10013.0,
+      "price": 99.9,
+      "totalValue": 1000298.7,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1079428/000107942826000004/wk-form4_1784909631.xml"
+    },
     {
       "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-23|59880.0|9.96",
       "symbol": "ARTV",
