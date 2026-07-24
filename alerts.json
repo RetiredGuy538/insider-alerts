@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 23:37 UTC",
+  "updated": "2026-07-24 01:07 UTC",
   "alerts": [
     {
       "uid": "BYRN|Kennedy TJ|2026-07-22|29000.0|3.5271",
@@ -949,32 +949,6 @@
       "price": 5.27,
       "totalValue": 114886.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1726126/000110465926077619/tm2618978-1_4seq1.xml"
-    },
-    {
-      "uid": "OXY|Jackson Richard A.|2026-06-23|4770.0|52.38",
-      "symbol": "OXY",
-      "companyName": "OCCIDENTAL PETROLEUM CORP /DE/",
-      "reportingName": "Jackson Richard A.",
-      "title": "President and CEO",
-      "transactionDate": "2026-06-23",
-      "filingDatetime": "2026-06-24 19:04 ET",
-      "shares": 4770.0,
-      "price": 52.38,
-      "totalValue": 249852.6,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/797468/000162828026045313/wk-form4_1782342238.xml"
-    },
-    {
-      "uid": "AVO|Taylor Bruce C.|2026-06-23|70283.0|11.25",
-      "symbol": "AVO",
-      "companyName": "Mission Produce, Inc.",
-      "reportingName": "Taylor Bruce C.",
-      "title": "",
-      "transactionDate": "2026-06-23",
-      "filingDatetime": "2026-06-23 17:06 ET",
-      "shares": 70283.0,
-      "price": 11.25,
-      "totalValue": 790683.75,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1459350/000145935026000006/wk-form4_1782248789.xml"
     }
   ]
 }
