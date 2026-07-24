@@ -1,6 +1,45 @@
 {
-  "updated": "2026-07-24 01:07 UTC",
+  "updated": "2026-07-24 04:30 UTC",
   "alerts": [
+    {
+      "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-23|59880.0|9.96",
+      "symbol": "ARTV",
+      "companyName": "Artiva Biotherapeutics, Inc.",
+      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
+      "title": "",
+      "transactionDate": "2026-07-23",
+      "filingDatetime": "2026-07-23 21:22 ET",
+      "shares": 59880.0,
+      "price": 9.96,
+      "totalValue": 596404.8,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000791/form4-07242026_010725.xml"
+    },
+    {
+      "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-22|84124.0|9.93",
+      "symbol": "ARTV",
+      "companyName": "Artiva Biotherapeutics, Inc.",
+      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
+      "title": "",
+      "transactionDate": "2026-07-22",
+      "filingDatetime": "2026-07-23 21:22 ET",
+      "shares": 84124.0,
+      "price": 9.93,
+      "totalValue": 835351.32,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000791/form4-07242026_010725.xml"
+    },
+    {
+      "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-21|120582.0|9.55",
+      "symbol": "ARTV",
+      "companyName": "Artiva Biotherapeutics, Inc.",
+      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
+      "title": "",
+      "transactionDate": "2026-07-21",
+      "filingDatetime": "2026-07-23 21:22 ET",
+      "shares": 120582.0,
+      "price": 9.55,
+      "totalValue": 1151558.1,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000791/form4-07242026_010725.xml"
+    },
     {
       "uid": "BYRN|Kennedy TJ|2026-07-22|29000.0|3.5271",
       "symbol": "BYRN",
