@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 23:14 UTC",
+  "updated": "2026-07-25 00:16 UTC",
   "alerts": [
     {
       "uid": "FSBC|Perry-Smith Robert Truxtun|2026-07-22|31363.0|44.0",
@@ -1001,19 +1001,6 @@
       "price": 8.88,
       "totalValue": 275280.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000711/form4-06292026_080626.xml"
-    },
-    {
-      "uid": "EPSN|Stabell Jason|2026-06-24|21800.0|5.27",
-      "symbol": "EPSN",
-      "companyName": "Epsilon Energy Ltd.",
-      "reportingName": "Stabell Jason",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-06-24",
-      "filingDatetime": "2026-06-25 11:19 ET",
-      "shares": 21800.0,
-      "price": 5.27,
-      "totalValue": 114886.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1726126/000110465926077619/tm2618978-1_4seq1.xml"
     }
   ]
 }
