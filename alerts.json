@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 00:16 UTC",
+  "updated": "2026-07-27 02:30 UTC",
   "alerts": [
     {
       "uid": "FSBC|Perry-Smith Robert Truxtun|2026-07-22|31363.0|44.0",
@@ -949,58 +949,6 @@
       "price": 2.47,
       "totalValue": 158042.95,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000008/form4-06292026_110657.xml"
-    },
-    {
-      "uid": "BOLD|TANG KEVIN|2026-06-26|75047.0|2.55",
-      "symbol": "BOLD",
-      "companyName": "Boundless Bio, Inc.",
-      "reportingName": "TANG KEVIN",
-      "title": "",
-      "transactionDate": "2026-06-26",
-      "filingDatetime": "2026-06-29 19:56 ET",
-      "shares": 75047.0,
-      "price": 2.55,
-      "totalValue": 191369.85,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000008/form4-06292026_110657.xml"
-    },
-    {
-      "uid": "BOLD|TANG KEVIN|2026-06-25|145880.0|2.48",
-      "symbol": "BOLD",
-      "companyName": "Boundless Bio, Inc.",
-      "reportingName": "TANG KEVIN",
-      "title": "",
-      "transactionDate": "2026-06-25",
-      "filingDatetime": "2026-06-29 19:56 ET",
-      "shares": 145880.0,
-      "price": 2.48,
-      "totalValue": 361782.4,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000008/form4-06292026_110657.xml"
-    },
-    {
-      "uid": "CGON|Liu Brian Guan-Chyun|2026-06-25|371085.0|66.87",
-      "symbol": "CGON",
-      "companyName": "CG Oncology, Inc.",
-      "reportingName": "Liu Brian Guan-Chyun",
-      "title": "",
-      "transactionDate": "2026-06-25",
-      "filingDatetime": "2026-06-29 17:26 ET",
-      "shares": 371085.0,
-      "price": 66.87,
-      "totalValue": 24814453.95,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1991792/000114036126026779/form4.xml"
-    },
-    {
-      "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-06-25|31000.0|8.88",
-      "symbol": "ARTV",
-      "companyName": "Artiva Biotherapeutics, Inc.",
-      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
-      "title": "",
-      "transactionDate": "2026-06-25",
-      "filingDatetime": "2026-06-29 16:20 ET",
-      "shares": 31000.0,
-      "price": 8.88,
-      "totalValue": 275280.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000711/form4-06292026_080626.xml"
     }
   ]
 }
