@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-28 23:28 UTC",
+  "updated": "2026-07-29 00:58 UTC",
   "alerts": [
+    {
+      "uid": "ACI|Moriarty Thomas M|2026-07-27|170500.0|11.509",
+      "symbol": "ACI",
+      "companyName": "Albertsons Companies, Inc.",
+      "reportingName": "Moriarty Thomas M",
+      "title": "EVP, M&A and Corporate Affairs",
+      "transactionDate": "2026-07-27",
+      "filingDatetime": "2026-07-28 19:29 ET",
+      "shares": 170500.0,
+      "price": 11.509,
+      "totalValue": 1962284.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1412221/000162828026050285/wk-form4_1785281386.xml"
+    },
     {
       "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-24|41319.0|9.99",
       "symbol": "ARTV",
