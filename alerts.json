@@ -1,6 +1,19 @@
 {
-  "updated": "2026-07-30 04:18 UTC",
+  "updated": "2026-07-30 15:06 UTC",
   "alerts": [
+    {
+      "uid": "NWFL|Shook James|2026-07-28|3100.0|34.55",
+      "symbol": "NWFL",
+      "companyName": "NORWOOD FINANCIAL CORP",
+      "reportingName": "Shook James",
+      "title": "",
+      "transactionDate": "2026-07-28",
+      "filingDatetime": "2026-07-30 10:36 ET",
+      "shares": 3100.0,
+      "price": 34.55,
+      "totalValue": 107105.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1013272/000119312526325161/ownership.xml"
+    },
     {
       "uid": "SCTX|AH Bio Fund II, L.P.|2026-07-27|333333.0|15.0",
       "symbol": "SCTX",
