@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-29 23:30 UTC",
+  "updated": "2026-07-30 01:01 UTC",
   "alerts": [
     {
       "uid": "SCTX|AH Bio Fund II, L.P.|2026-07-27|333333.0|15.0",
@@ -1079,19 +1079,6 @@
       "price": 2.49,
       "totalValue": 178313.88,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000009/form4-07022026_110743.xml"
-    },
-    {
-      "uid": "BOLD|TANG KEVIN|2026-06-29|63985.0|2.47",
-      "symbol": "BOLD",
-      "companyName": "Boundless Bio, Inc.",
-      "reportingName": "TANG KEVIN",
-      "title": "",
-      "transactionDate": "2026-06-29",
-      "filingDatetime": "2026-06-29 19:56 ET",
-      "shares": 63985.0,
-      "price": 2.47,
-      "totalValue": 158042.95,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000008/form4-06292026_110657.xml"
     }
   ]
 }
