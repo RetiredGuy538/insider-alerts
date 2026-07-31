@@ -1,6 +1,32 @@
 {
-  "updated": "2026-07-31 20:09 UTC",
+  "updated": "2026-07-31 21:19 UTC",
   "alerts": [
+    {
+      "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-31|24944.0|9.93",
+      "symbol": "ARTV",
+      "companyName": "Artiva Biotherapeutics, Inc.",
+      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
+      "title": "",
+      "transactionDate": "2026-07-31",
+      "filingDatetime": "2026-07-31 17:13 ET",
+      "shares": 24944.0,
+      "price": 9.93,
+      "totalValue": 247693.92,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000817/form4-07312026_090755.xml"
+    },
+    {
+      "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-29|20824.0|9.99",
+      "symbol": "ARTV",
+      "companyName": "Artiva Biotherapeutics, Inc.",
+      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
+      "title": "",
+      "transactionDate": "2026-07-29",
+      "filingDatetime": "2026-07-31 17:13 ET",
+      "shares": 20824.0,
+      "price": 9.99,
+      "totalValue": 208031.76,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000817/form4-07312026_090755.xml"
+    },
     {
       "uid": "NWFL|Shook James|2026-07-28|3100.0|34.55",
       "symbol": "NWFL",
