@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31 23:40 UTC",
+  "updated": "2026-08-01 01:13 UTC",
   "alerts": [
     {
       "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-31|24944.0|9.93",
@@ -1105,19 +1105,6 @@
       "price": 12.73,
       "totalValue": 8279782.95,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1802974/000089914026000702/form4.xml"
-    },
-    {
-      "uid": "BOLD|TANG KEVIN|2026-07-01|71612.0|2.49",
-      "symbol": "BOLD",
-      "companyName": "Boundless Bio, Inc.",
-      "reportingName": "TANG KEVIN",
-      "title": "",
-      "transactionDate": "2026-07-01",
-      "filingDatetime": "2026-07-02 19:45 ET",
-      "shares": 71612.0,
-      "price": 2.49,
-      "totalValue": 178313.88,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1178579/000117857926000009/form4-07022026_110743.xml"
     }
   ]
 }
