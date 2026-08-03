@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-03 21:47 UTC",
+  "updated": "2026-08-03 22:56 UTC",
   "alerts": [
+    {
+      "uid": "HNVR|O'Connor Kevin M|2026-07-30|10000.0|26.88",
+      "symbol": "HNVR",
+      "companyName": "Hanover Bancorp, Inc. /MD",
+      "reportingName": "O'Connor Kevin M",
+      "title": "President",
+      "transactionDate": "2026-07-30",
+      "filingDatetime": "2026-08-03 18:42 ET",
+      "shares": 10000.0,
+      "price": 26.88,
+      "totalValue": 268800.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1414859/000122520826006898/doc4.xml"
+    },
+    {
+      "uid": "GSHD|Lane Peter R.|2026-07-31|1600.0|63.14",
+      "symbol": "GSHD",
+      "companyName": "Goosehead Insurance, Inc.",
+      "reportingName": "Lane Peter R.",
+      "title": "",
+      "transactionDate": "2026-07-31",
+      "filingDatetime": "2026-08-03 18:12 ET",
+      "shares": 1600.0,
+      "price": 63.14,
+      "totalValue": 101024.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1570186/000157018626000005/wk-form4_1785795128.xml"
+    },
     {
       "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-31|24944.0|9.93",
       "symbol": "ARTV",
