@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-05 22:42 UTC",
+  "updated": "2026-08-05 23:38 UTC",
   "alerts": [
+    {
+      "uid": "IR|Satpathy Aurobind|2026-08-03|11538.0|86.678",
+      "symbol": "IR",
+      "companyName": "Ingersoll Rand Inc.",
+      "reportingName": "Satpathy Aurobind",
+      "title": "",
+      "transactionDate": "2026-08-03",
+      "filingDatetime": "2026-08-05 19:00 ET",
+      "shares": 11538.0,
+      "price": 86.678,
+      "totalValue": 1000090.76,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1699150/000114036126031457/form4.xml"
+    },
     {
       "uid": "GBFH|Herbst Timothy P|2026-08-04|10000.0|21.4971",
       "symbol": "GBFH",
