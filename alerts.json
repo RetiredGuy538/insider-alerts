@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05 23:38 UTC",
+  "updated": "2026-08-06 01:04 UTC",
   "alerts": [
     {
       "uid": "IR|Satpathy Aurobind|2026-08-03|11538.0|86.678",
@@ -1157,19 +1157,6 @@
       "price": 13.08,
       "totalValue": 967920.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1385849/000091228226000955/form4.xml"
-    },
-    {
-      "uid": "AVO|Globalharvest Holdings Venture Ltd|2026-07-06|650415.0|12.73",
-      "symbol": "AVO",
-      "companyName": "Mission Produce, Inc.",
-      "reportingName": "Globalharvest Holdings Venture Ltd",
-      "title": "",
-      "transactionDate": "2026-07-06",
-      "filingDatetime": "2026-07-08 20:19 ET",
-      "shares": 650415.0,
-      "price": 12.73,
-      "totalValue": 8279782.95,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1802974/000089914026000702/form4.xml"
     }
   ]
 }
