@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-07 20:50 UTC",
+  "updated": "2026-08-07 21:34 UTC",
   "alerts": [
+    {
+      "uid": "BRVE|Forbion Growth Opportunities Fund III Cooperatief U.A.|2026-08-07|1920000.0|18.0",
+      "symbol": "BRVE",
+      "companyName": "Braveheart Bio, Inc.",
+      "reportingName": "Forbion Growth Opportunities Fund III Cooperatief U.A.",
+      "title": "",
+      "transactionDate": "2026-08-07",
+      "filingDatetime": "2026-08-07 17:25 ET",
+      "shares": 1920000.0,
+      "price": 18.0,
+      "totalValue": 34560000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2050893/000119312526340528/ownership.xml"
+    },
+    {
+      "uid": "BRVE|Forbion Growth Opportunities Fund III Cooperatief U.A.|2026-08-07|1680000.0|18.0",
+      "symbol": "BRVE",
+      "companyName": "Braveheart Bio, Inc.",
+      "reportingName": "Forbion Growth Opportunities Fund III Cooperatief U.A.",
+      "title": "",
+      "transactionDate": "2026-08-07",
+      "filingDatetime": "2026-08-07 17:25 ET",
+      "shares": 1680000.0,
+      "price": 18.0,
+      "totalValue": 30240000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2050893/000119312526340528/ownership.xml"
+    },
     {
       "uid": "BRVE|Rickey James Paul|2026-08-07|27777.0|18.0",
       "symbol": "BRVE",
