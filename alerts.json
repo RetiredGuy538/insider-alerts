@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-07 23:03 UTC",
+  "updated": "2026-08-07 23:47 UTC",
   "alerts": [
+    {
+      "uid": "CCB|Sprink Eric M|2026-08-06|10000.0|44.45",
+      "symbol": "CCB",
+      "companyName": "COASTAL FINANCIAL CORP",
+      "reportingName": "Sprink Eric M",
+      "title": "CEO",
+      "transactionDate": "2026-08-06",
+      "filingDatetime": "2026-08-07 19:35 ET",
+      "shares": 10000.0,
+      "price": 44.45,
+      "totalValue": 444500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1299647/000129964726000020/wk-form4_1786145732.xml"
+    },
     {
       "uid": "BRVE|Forbion Growth Opportunities Fund III Cooperatief U.A.|2026-08-07|1920000.0|18.0",
       "symbol": "BRVE",
