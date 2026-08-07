@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06 15:09 UTC",
+  "updated": "2026-08-07 00:30 UTC",
   "alerts": [
     {
       "uid": "IR|Satpathy Aurobind|2026-08-03|11538.0|86.678",
@@ -1144,19 +1144,6 @@
       "price": 1.1,
       "totalValue": 110000.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1208886/000149315226032738/ownership.xml"
-    },
-    {
-      "uid": "UUUU|Bhappu Ross R.|2026-07-07|74000.0|13.08",
-      "symbol": "UUUU",
-      "companyName": "ENERGY FUELS INC",
-      "reportingName": "Bhappu Ross R.",
-      "title": "President and CEO",
-      "transactionDate": "2026-07-07",
-      "filingDatetime": "2026-07-09 19:00 ET",
-      "shares": 74000.0,
-      "price": 13.08,
-      "totalValue": 967920.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1385849/000091228226000955/form4.xml"
     }
   ]
 }
