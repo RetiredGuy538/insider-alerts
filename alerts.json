@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-07 20:00 UTC",
+  "updated": "2026-08-07 20:50 UTC",
   "alerts": [
+    {
+      "uid": "BRVE|Rickey James Paul|2026-08-07|27777.0|18.0",
+      "symbol": "BRVE",
+      "companyName": "Braveheart Bio, Inc.",
+      "reportingName": "Rickey James Paul",
+      "title": "Chief Financial Officer",
+      "transactionDate": "2026-08-07",
+      "filingDatetime": "2026-08-07 16:41 ET",
+      "shares": 27777.0,
+      "price": 18.0,
+      "totalValue": 499986.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1606243/000147083126000804/wk-form4_1786135298.xml"
+    },
     {
       "uid": "SITE|BLACK DOUG|2026-08-04|4000.0|101.94",
       "symbol": "SITE",
