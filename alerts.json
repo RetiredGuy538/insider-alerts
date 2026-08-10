@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-10 21:56 UTC",
+  "updated": "2026-08-10 22:35 UTC",
   "alerts": [
+    {
+      "uid": "HUBS|Dischler Gerald|2026-08-10|925.0|215.93",
+      "symbol": "HUBS",
+      "companyName": "HUBSPOT INC",
+      "reportingName": "Dischler Gerald",
+      "title": "",
+      "transactionDate": "2026-08-10",
+      "filingDatetime": "2026-08-10 18:07 ET",
+      "shares": 925.0,
+      "price": 215.93,
+      "totalValue": 199735.25,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526342825/ownership.xml"
+    },
+    {
+      "uid": "ET|Perry James Richard|2026-08-07|12359.372|20.2276",
+      "symbol": "ET",
+      "companyName": "Energy Transfer LP",
+      "reportingName": "Perry James Richard",
+      "title": "",
+      "transactionDate": "2026-08-07",
+      "filingDatetime": "2026-08-10 18:00 ET",
+      "shares": 12359.372,
+      "price": 20.2276,
+      "totalValue": 250000.43,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526342811/ownership.xml"
+    },
     {
       "uid": "LINE|LeMasters Robb A.|2026-08-07|20000.0|41.3319",
       "symbol": "LINE",
