@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-10 18:11 UTC",
+  "updated": "2026-08-10 19:15 UTC",
   "alerts": [
+    {
+      "uid": "MATW|SCHAWK DAVID A|2026-08-10|5000.0|23.6",
+      "symbol": "MATW",
+      "companyName": "MATTHEWS INTERNATIONAL CORP",
+      "reportingName": "SCHAWK DAVID A",
+      "title": "",
+      "transactionDate": "2026-08-10",
+      "filingDatetime": "2026-08-10 15:06 ET",
+      "shares": 5000.0,
+      "price": 23.6,
+      "totalValue": 118000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000078/wk-form4_1786388816.xml"
+    },
     {
       "uid": "SON|Coker R. Howard|2026-08-07|4345.0|57.4099",
       "symbol": "SON",
