@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-10 15:30 UTC",
+  "updated": "2026-08-10 16:24 UTC",
   "alerts": [
+    {
+      "uid": "SON|Coker R. Howard|2026-08-07|4345.0|57.4099",
+      "symbol": "SON",
+      "companyName": "SONOCO PRODUCTS CO",
+      "reportingName": "Coker R. Howard",
+      "title": "President & CEO",
+      "transactionDate": "2026-08-07",
+      "filingDatetime": "2026-08-10 12:23 ET",
+      "shares": 4345.0,
+      "price": 57.4099,
+      "totalValue": 249446.02,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/91767/000122520826007040/doc4.xml"
+    },
     {
       "uid": "CCB|Sprink Eric M|2026-08-06|10000.0|44.45",
       "symbol": "CCB",
