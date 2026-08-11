@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-11 19:32 UTC",
+  "updated": "2026-08-11 20:23 UTC",
   "alerts": [
+    {
+      "uid": "SMRT|Pinczuk Ana G.|2026-08-11|107000.0|1.4264",
+      "symbol": "SMRT",
+      "companyName": "SmartRent, Inc.",
+      "reportingName": "Pinczuk Ana G.",
+      "title": "",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-11 16:21 ET",
+      "shares": 107000.0,
+      "price": 1.4264,
+      "totalValue": 152624.8,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1689411/000119312526344740/ownership.xml"
+    },
+    {
+      "uid": "HOG|Starrs Artie|2026-08-10|10000.0|25.8941",
+      "symbol": "HOG",
+      "companyName": "HARLEY-DAVIDSON, INC.",
+      "reportingName": "Starrs Artie",
+      "title": "President & CEO",
+      "transactionDate": "2026-08-10",
+      "filingDatetime": "2026-08-11 16:20 ET",
+      "shares": 10000.0,
+      "price": 25.8941,
+      "totalValue": 258941.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/793952/000173210526000006/wk-form4_1786479603.xml"
+    },
     {
       "uid": "AHCO|SAMET KENNETH A|2026-08-06|23500.0|6.38",
       "symbol": "AHCO",
