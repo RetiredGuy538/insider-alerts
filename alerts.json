@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-11 23:01 UTC",
+  "updated": "2026-08-11 23:58 UTC",
   "alerts": [
+    {
+      "uid": "AMRC|Cox Brian C|2026-08-10|39700.0|25.07",
+      "symbol": "AMRC",
+      "companyName": "Ameresco, Inc.",
+      "reportingName": "Cox Brian C",
+      "title": "",
+      "transactionDate": "2026-08-10",
+      "filingDatetime": "2026-08-11 19:22 ET",
+      "shares": 39700.0,
+      "price": 25.07,
+      "totalValue": 995279.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1488139/000162828026055890/wk-form4_1786490555.xml"
+    },
     {
       "uid": "HPP|BORTZ JON E|2026-08-11|25000.0|13.4",
       "symbol": "HPP",
