@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-11 22:05 UTC",
+  "updated": "2026-08-11 23:01 UTC",
   "alerts": [
+    {
+      "uid": "HPP|BORTZ JON E|2026-08-11|25000.0|13.4",
+      "symbol": "HPP",
+      "companyName": "Hudson Pacific Properties, Inc.",
+      "reportingName": "BORTZ JON E",
+      "title": "",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-11 18:42 ET",
+      "shares": 25000.0,
+      "price": 13.4,
+      "totalValue": 335000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1229310/000122931026000012/wk-form4_1786488151.xml"
+    },
     {
       "uid": "KMPR|LADERMAN GERALD|2026-08-11|4000.0|26.49",
       "symbol": "KMPR",
