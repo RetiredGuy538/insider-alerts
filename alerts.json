@@ -1,6 +1,58 @@
 {
-  "updated": "2026-08-12 21:12 UTC",
+  "updated": "2026-08-12 22:02 UTC",
   "alerts": [
+    {
+      "uid": "ACDC|Wilks Matthew|2026-08-11|22481.0|5.4431",
+      "symbol": "ACDC",
+      "companyName": "ProFrac Holding Corp.",
+      "reportingName": "Wilks Matthew",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-12 18:00 ET",
+      "shares": 22481.0,
+      "price": 5.4431,
+      "totalValue": 122366.33,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1696102/000169610226000008/form4-08122026_060801.xml"
+    },
+    {
+      "uid": "ACDC|Wilks Matthew|2026-08-10|57519.0|4.859",
+      "symbol": "ACDC",
+      "companyName": "ProFrac Holding Corp.",
+      "reportingName": "Wilks Matthew",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-08-10",
+      "filingDatetime": "2026-08-12 18:00 ET",
+      "shares": 57519.0,
+      "price": 4.859,
+      "totalValue": 279484.82,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1696102/000169610226000008/form4-08122026_060801.xml"
+    },
+    {
+      "uid": "BDSX|SCHULER JACK W|2026-08-11|13700.0|24.0081",
+      "symbol": "BDSX",
+      "companyName": "BIODESIX INC",
+      "reportingName": "SCHULER JACK W",
+      "title": "",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-12 17:55 ET",
+      "shares": 13700.0,
+      "price": 24.0081,
+      "totalValue": 328910.97,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1021412/000090514826003599/form4.xml"
+    },
+    {
+      "uid": "BDSX|SCHULER JACK W|2026-08-10|13900.0|24.2467",
+      "symbol": "BDSX",
+      "companyName": "BIODESIX INC",
+      "reportingName": "SCHULER JACK W",
+      "title": "",
+      "transactionDate": "2026-08-10",
+      "filingDatetime": "2026-08-12 17:55 ET",
+      "shares": 13900.0,
+      "price": 24.2467,
+      "totalValue": 337029.13,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1021412/000090514826003599/form4.xml"
+    },
     {
       "uid": "WES|Forthuber Frederick A.|2026-08-12|5140.0|48.62",
       "symbol": "WES",
