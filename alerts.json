@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-12 19:35 UTC",
+  "updated": "2026-08-12 20:22 UTC",
   "alerts": [
+    {
+      "uid": "WES|Forthuber Frederick A.|2026-08-12|5140.0|48.62",
+      "symbol": "WES",
+      "companyName": "Western Midstream Partners, LP",
+      "reportingName": "Forthuber Frederick A.",
+      "title": "",
+      "transactionDate": "2026-08-12",
+      "filingDatetime": "2026-08-12 16:13 ET",
+      "shares": 5140.0,
+      "price": 48.62,
+      "totalValue": 249906.8,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1423902/000142390226000095/wk-form4_1786565634.xml"
+    },
     {
       "uid": "MTDR|Foran Joseph Wm|2026-08-10|3130.0|51.04",
       "symbol": "MTDR",
