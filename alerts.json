@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-12 22:02 UTC",
+  "updated": "2026-08-12 22:59 UTC",
   "alerts": [
+    {
+      "uid": "VIA|Peres Nechemia Jacob|2026-08-11|10080.0|24.7391",
+      "symbol": "VIA",
+      "companyName": "Via Transportation, Inc.",
+      "reportingName": "Peres Nechemia Jacob",
+      "title": "",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-12 18:27 ET",
+      "shares": 10080.0,
+      "price": 24.7391,
+      "totalValue": 249370.13,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1603015/000162828026056412/wk-form4_1786573644.xml"
+    },
+    {
+      "uid": "ALTO|NATHAN GILBERT E|2026-08-11|50000.0|4.15",
+      "symbol": "ALTO",
+      "companyName": "Alto Ingredients, Inc.",
+      "reportingName": "NATHAN GILBERT E",
+      "title": "",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-12 18:17 ET",
+      "shares": 50000.0,
+      "price": 4.15,
+      "totalValue": 207500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/778164/000121390026088530/ownership.xml"
+    },
     {
       "uid": "ACDC|Wilks Matthew|2026-08-11|22481.0|5.4431",
       "symbol": "ACDC",
