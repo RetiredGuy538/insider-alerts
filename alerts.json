@@ -1,6 +1,45 @@
 {
-  "updated": "2026-08-12 02:08 UTC",
+  "updated": "2026-08-12 14:18 UTC",
   "alerts": [
+    {
+      "uid": "MTDR|Foran Joseph Wm|2026-08-10|3130.0|51.04",
+      "symbol": "MTDR",
+      "companyName": "Matador Resources Co",
+      "reportingName": "Foran Joseph Wm",
+      "title": "Chairman and CEO",
+      "transactionDate": "2026-08-10",
+      "filingDatetime": "2026-08-12 07:23 ET",
+      "shares": 3130.0,
+      "price": 51.04,
+      "totalValue": 159755.2,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1520006/000154065526000015/wk-form4_1786533819.xml"
+    },
+    {
+      "uid": "XRN|Decker Mark Okey Jr|2026-08-10|8000.0|35.88",
+      "symbol": "XRN",
+      "companyName": "Chiron Real Estate Inc.",
+      "reportingName": "Decker Mark Okey Jr",
+      "title": "CEO and President",
+      "transactionDate": "2026-08-10",
+      "filingDatetime": "2026-08-12 07:00 ET",
+      "shares": 8000.0,
+      "price": 35.88,
+      "totalValue": 287040.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1533615/000110465926094437/tm2622918-2_4seq1.xml"
+    },
+    {
+      "uid": "XRN|Fitzgerald Charles|2026-08-10|27600.0|35.94",
+      "symbol": "XRN",
+      "companyName": "Chiron Real Estate Inc.",
+      "reportingName": "Fitzgerald Charles",
+      "title": "",
+      "transactionDate": "2026-08-10",
+      "filingDatetime": "2026-08-12 07:00 ET",
+      "shares": 27600.0,
+      "price": 35.94,
+      "totalValue": 991944.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1337373/000110465926094434/tm2622918-1_4seq1.xml"
+    },
     {
       "uid": "AMRC|Cox Brian C|2026-08-10|39700.0|25.07",
       "symbol": "AMRC",
