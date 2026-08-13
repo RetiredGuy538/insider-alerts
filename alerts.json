@@ -1,6 +1,58 @@
 {
-  "updated": "2026-08-13 20:19 UTC",
+  "updated": "2026-08-13 21:12 UTC",
   "alerts": [
+    {
+      "uid": "MTCH|Schiffman Glenn|2026-08-11|3000.0|36.63",
+      "symbol": "MTCH",
+      "companyName": "Match Group, Inc.",
+      "reportingName": "Schiffman Glenn",
+      "title": "",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-13 17:07 ET",
+      "shares": 3000.0,
+      "price": 36.63,
+      "totalValue": 109890.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/891103/000089110326000131/wk-form4_1786655267.xml"
+    },
+    {
+      "uid": "MBGL|PEEK MARK S|2026-08-13|15000.0|19.8714",
+      "symbol": "MBGL",
+      "companyName": "Mobility Global Inc.",
+      "reportingName": "PEEK MARK S",
+      "title": "",
+      "transactionDate": "2026-08-13",
+      "filingDatetime": "2026-08-13 16:59 ET",
+      "shares": 15000.0,
+      "price": 19.8714,
+      "totalValue": 298071.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1184754/000118475426000010/wk-form4_1786654758.xml"
+    },
+    {
+      "uid": "MBGL|PEEK MARK S|2026-08-12|25000.0|19.4998",
+      "symbol": "MBGL",
+      "companyName": "Mobility Global Inc.",
+      "reportingName": "PEEK MARK S",
+      "title": "",
+      "transactionDate": "2026-08-12",
+      "filingDatetime": "2026-08-13 16:59 ET",
+      "shares": 25000.0,
+      "price": 19.4998,
+      "totalValue": 487495.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1184754/000118475426000010/wk-form4_1786654758.xml"
+    },
+    {
+      "uid": "MBGL|PEEK MARK S|2026-08-11|10000.0|19.5",
+      "symbol": "MBGL",
+      "companyName": "Mobility Global Inc.",
+      "reportingName": "PEEK MARK S",
+      "title": "",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-13 16:59 ET",
+      "shares": 10000.0,
+      "price": 19.5,
+      "totalValue": 195000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1184754/000118475426000010/wk-form4_1786654758.xml"
+    },
     {
       "uid": "EMBC|Kurdikar Devdatt|2026-08-12|30000.0|4.6979",
       "symbol": "EMBC",
