@@ -1,6 +1,45 @@
 {
-  "updated": "2026-08-12 23:50 UTC",
+  "updated": "2026-08-13 01:29 UTC",
   "alerts": [
+    {
+      "uid": "UA|Taleghani Reza|2026-08-11|18656.0|5.3699",
+      "symbol": "UA",
+      "companyName": "Under Armour, Inc.",
+      "reportingName": "Taleghani Reza",
+      "title": "Chief Financial Officer",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-12 21:03 ET",
+      "shares": 18656.0,
+      "price": 5.3699,
+      "totalValue": 100180.85,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1336917/000133691726000113/wk-form4_1786583035.xml"
+    },
+    {
+      "uid": "OPFI|Schwartz Todd G.|2026-08-12|60000.0|7.0498",
+      "symbol": "OPFI",
+      "companyName": "OppFi Inc.",
+      "reportingName": "Schwartz Todd G.",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-08-12",
+      "filingDatetime": "2026-08-12 20:34 ET",
+      "shares": 60000.0,
+      "price": 7.0498,
+      "totalValue": 422988.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1818502/000090514826003613/form4.xml"
+    },
+    {
+      "uid": "UTI|DEVINCENZI ROBERT THOMAS|2026-08-10|8000.0|28.2095",
+      "symbol": "UTI",
+      "companyName": "UNIVERSAL TECHNICAL INSTITUTE INC",
+      "reportingName": "DEVINCENZI ROBERT THOMAS",
+      "title": "",
+      "transactionDate": "2026-08-10",
+      "filingDatetime": "2026-08-12 20:00 ET",
+      "shares": 8000.0,
+      "price": 28.2095,
+      "totalValue": 225676.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1226186/000119312526347428/ownership.xml"
+    },
     {
       "uid": "VISN|Gilstrap Charles A|2026-08-10|10000.0|10.75",
       "symbol": "VISN",
@@ -1560,58 +1599,6 @@
       "price": 20.4165,
       "totalValue": 408330.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126028523/form4.xml"
-    },
-    {
-      "uid": "ENR|Aqua Capital, Ltd.|2026-07-13|20000.0|20.1823",
-      "symbol": "ENR",
-      "companyName": "ENERGIZER HOLDINGS, INC.",
-      "reportingName": "Aqua Capital, Ltd.",
-      "title": "",
-      "transactionDate": "2026-07-13",
-      "filingDatetime": "2026-07-15 14:50 ET",
-      "shares": 20000.0,
-      "price": 20.1823,
-      "totalValue": 403646.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126028523/form4.xml"
-    },
-    {
-      "uid": "ENR|Aqua Capital, Ltd.|2026-07-13|20000.0|20.2495",
-      "symbol": "ENR",
-      "companyName": "ENERGIZER HOLDINGS, INC.",
-      "reportingName": "Aqua Capital, Ltd.",
-      "title": "",
-      "transactionDate": "2026-07-13",
-      "filingDatetime": "2026-07-15 14:50 ET",
-      "shares": 20000.0,
-      "price": 20.2495,
-      "totalValue": 404990.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126028523/form4.xml"
-    },
-    {
-      "uid": "NTSK|ICONIQ Strategic Partners VIII Holdings, L.P.|2026-07-13|64771.0|12.4214",
-      "symbol": "NTSK",
-      "companyName": "Netskope Inc",
-      "reportingName": "ICONIQ Strategic Partners VIII Holdings, L.P.",
-      "title": "",
-      "transactionDate": "2026-07-13",
-      "filingDatetime": "2026-07-14 17:10 ET",
-      "shares": 64771.0,
-      "price": 12.4214,
-      "totalValue": 804546.5,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1688143/000119312526303375/ownership.xml"
-    },
-    {
-      "uid": "YEXT|Englander Daniel J|2026-07-13|76190.0|5.2226",
-      "symbol": "YEXT",
-      "companyName": "Yext, Inc.",
-      "reportingName": "Englander Daniel J",
-      "title": "",
-      "transactionDate": "2026-07-13",
-      "filingDatetime": "2026-07-13 20:33 ET",
-      "shares": 76190.0,
-      "price": 5.2226,
-      "totalValue": 397909.89,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1289438/000162828026048066/wk-form4_1783989216.xml"
     }
   ]
 }
