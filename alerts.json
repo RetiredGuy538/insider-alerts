@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-13 21:12 UTC",
+  "updated": "2026-08-13 22:02 UTC",
   "alerts": [
+    {
+      "uid": "CEG|CRANDALL ROGER W|2026-08-11|1500.0|278.6206",
+      "symbol": "CEG",
+      "companyName": "Constellation Energy Corp",
+      "reportingName": "CRANDALL ROGER W",
+      "title": "",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-13 17:23 ET",
+      "shares": 1500.0,
+      "price": 278.6206,
+      "totalValue": 417930.9,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1194961/000090514826003642/form4.xml"
+    },
+    {
+      "uid": "BDSX|SCHULER JACK W|2026-08-12|15000.0|24.4661",
+      "symbol": "BDSX",
+      "companyName": "BIODESIX INC",
+      "reportingName": "SCHULER JACK W",
+      "title": "",
+      "transactionDate": "2026-08-12",
+      "filingDatetime": "2026-08-13 17:22 ET",
+      "shares": 15000.0,
+      "price": 24.4661,
+      "totalValue": 366991.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1021412/000090514826003641/form4.xml"
+    },
     {
       "uid": "MTCH|Schiffman Glenn|2026-08-11|3000.0|36.63",
       "symbol": "MTCH",
