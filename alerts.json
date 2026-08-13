@@ -1,6 +1,71 @@
 {
-  "updated": "2026-08-13 22:02 UTC",
+  "updated": "2026-08-13 23:00 UTC",
   "alerts": [
+    {
+      "uid": "DFH|BECKWITT RICHARD|2026-08-13|12000.0|14.8",
+      "symbol": "DFH",
+      "companyName": "Dream Finders Homes, Inc.",
+      "reportingName": "BECKWITT RICHARD",
+      "title": "",
+      "transactionDate": "2026-08-13",
+      "filingDatetime": "2026-08-13 18:48 ET",
+      "shares": 12000.0,
+      "price": 14.8,
+      "totalValue": 177600.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1197193/000089706926001671/form4.xml"
+    },
+    {
+      "uid": "DFH|BECKWITT RICHARD|2026-08-12|8000.0|13.83",
+      "symbol": "DFH",
+      "companyName": "Dream Finders Homes, Inc.",
+      "reportingName": "BECKWITT RICHARD",
+      "title": "",
+      "transactionDate": "2026-08-12",
+      "filingDatetime": "2026-08-13 18:48 ET",
+      "shares": 8000.0,
+      "price": 13.83,
+      "totalValue": 110640.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1197193/000089706926001671/form4.xml"
+    },
+    {
+      "uid": "DFH|BECKWITT RICHARD|2026-08-11|70000.0|13.95",
+      "symbol": "DFH",
+      "companyName": "Dream Finders Homes, Inc.",
+      "reportingName": "BECKWITT RICHARD",
+      "title": "",
+      "transactionDate": "2026-08-11",
+      "filingDatetime": "2026-08-13 18:48 ET",
+      "shares": 70000.0,
+      "price": 13.95,
+      "totalValue": 976500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1197193/000089706926001671/form4.xml"
+    },
+    {
+      "uid": "CODI|Keller Stephen|2026-08-12|10000.0|12.0143",
+      "symbol": "CODI",
+      "companyName": "Compass Diversified Holdings",
+      "reportingName": "Keller Stephen",
+      "title": "",
+      "transactionDate": "2026-08-12",
+      "filingDatetime": "2026-08-13 18:32 ET",
+      "shares": 10000.0,
+      "price": 12.0143,
+      "totalValue": 120143.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1345126/000119312526349764/ownership.xml"
+    },
+    {
+      "uid": "CODI|Sawtelle Zachary T.|2026-08-12|25000.0|11.9863",
+      "symbol": "CODI",
+      "companyName": "Compass Diversified Holdings",
+      "reportingName": "Sawtelle Zachary T.",
+      "title": "",
+      "transactionDate": "2026-08-12",
+      "filingDatetime": "2026-08-13 18:31 ET",
+      "shares": 25000.0,
+      "price": 11.9863,
+      "totalValue": 299657.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1345126/000119312526349762/ownership.xml"
+    },
     {
       "uid": "CEG|CRANDALL ROGER W|2026-08-11|1500.0|278.6206",
       "symbol": "CEG",
