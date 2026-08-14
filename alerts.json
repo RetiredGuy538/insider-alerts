@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-14 22:17 UTC",
+  "updated": "2026-08-14 22:47 UTC",
   "alerts": [
+    {
+      "uid": "BROS|Penegor Todd Allan|2026-08-13|2000.0|51.56",
+      "symbol": "BROS",
+      "companyName": "Dutch Bros Inc.",
+      "reportingName": "Penegor Todd Allan",
+      "title": "",
+      "transactionDate": "2026-08-13",
+      "filingDatetime": "2026-08-14 18:23 ET",
+      "shares": 2000.0,
+      "price": 51.56,
+      "totalValue": 103120.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1578490/000186658126000137/wk-form4_1786746203.xml"
+    },
     {
       "uid": "ANGX|Sarowitz Steven I|2026-08-13|107662.0|4.1173",
       "symbol": "ANGX",
