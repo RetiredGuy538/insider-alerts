@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-14 21:48 UTC",
+  "updated": "2026-08-14 22:17 UTC",
   "alerts": [
+    {
+      "uid": "ANGX|Sarowitz Steven I|2026-08-13|107662.0|4.1173",
+      "symbol": "ANGX",
+      "companyName": "Angel Studios, Inc.",
+      "reportingName": "Sarowitz Steven I",
+      "title": "",
+      "transactionDate": "2026-08-13",
+      "filingDatetime": "2026-08-14 18:05 ET",
+      "shares": 107662.0,
+      "price": 4.1173,
+      "totalValue": 443276.75,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1597870/000186520026000075/form4.xml"
+    },
+    {
+      "uid": "ANGX|Sarowitz Steven I|2026-08-12|246153.0|3.7063",
+      "symbol": "ANGX",
+      "companyName": "Angel Studios, Inc.",
+      "reportingName": "Sarowitz Steven I",
+      "title": "",
+      "transactionDate": "2026-08-12",
+      "filingDatetime": "2026-08-14 18:05 ET",
+      "shares": 246153.0,
+      "price": 3.7063,
+      "totalValue": 912316.86,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1597870/000186520026000075/form4.xml"
+    },
     {
       "uid": "ANGX|Harmon Neal|2026-08-13|29035.659|4.3053",
       "symbol": "ANGX",
