@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-14 19:55 UTC",
+  "updated": "2026-08-14 20:27 UTC",
   "alerts": [
+    {
+      "uid": "ANGX|Harmon Neal|2026-08-13|29035.659|4.3053",
+      "symbol": "ANGX",
+      "companyName": "Angel Studios, Inc.",
+      "reportingName": "Harmon Neal",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-08-13",
+      "filingDatetime": "2026-08-14 16:18 ET",
+      "shares": 29035.659,
+      "price": 4.3053,
+      "totalValue": 125007.22,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1865200/000186520026000074/form4.xml"
+    },
     {
       "uid": "BPRN|TUCHMAN MARTIN|2026-08-12|10534.0|42.978",
       "symbol": "BPRN",
