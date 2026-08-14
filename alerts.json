@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-14 17:09 UTC",
+  "updated": "2026-08-14 18:05 UTC",
   "alerts": [
+    {
+      "uid": "KEEL|Gagnon Benjamin|2026-08-13|58888.0|3.33",
+      "symbol": "KEEL",
+      "companyName": "Keel Infrastructure Corp.",
+      "reportingName": "Gagnon Benjamin",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-08-13",
+      "filingDatetime": "2026-08-14 13:44 ET",
+      "shares": 58888.0,
+      "price": 3.33,
+      "totalValue": 196097.04,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1812477/000181247726000025/wk-form4_1786729462.xml"
+    },
     {
       "uid": "OPFI|Schwartz Todd G.|2026-08-13|60000.0|7.128",
       "symbol": "OPFI",
