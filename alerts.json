@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-14 18:05 UTC",
+  "updated": "2026-08-14 19:12 UTC",
   "alerts": [
+    {
+      "uid": "BPRN|TUCHMAN MARTIN|2026-08-12|10534.0|42.978",
+      "symbol": "BPRN",
+      "companyName": "Princeton Bancorp, Inc.",
+      "reportingName": "TUCHMAN MARTIN",
+      "title": "",
+      "transactionDate": "2026-08-12",
+      "filingDatetime": "2026-08-14 14:01 ET",
+      "shares": 10534.0,
+      "price": 42.978,
+      "totalValue": 452730.25,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/939713/000119312526351775/ownership.xml"
+    },
     {
       "uid": "KEEL|Gagnon Benjamin|2026-08-13|58888.0|3.33",
       "symbol": "KEEL",
