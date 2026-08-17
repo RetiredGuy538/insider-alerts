@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-17 15:02 UTC",
+  "updated": "2026-08-17 15:37 UTC",
   "alerts": [
+    {
+      "uid": "MLAB|Tripeny R Tony|2026-08-13|900.0|113.69",
+      "symbol": "MLAB",
+      "companyName": "MESA LABORATORIES INC /CO/",
+      "reportingName": "Tripeny R Tony",
+      "title": "",
+      "transactionDate": "2026-08-13",
+      "filingDatetime": "2026-08-17 11:27 ET",
+      "shares": 900.0,
+      "price": 113.69,
+      "totalValue": 102321.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/724004/000072400426000083/primary_doc.xml"
+    },
     {
       "uid": "NRGV|Hixon Dylan|2026-08-14|26845.0|3.733",
       "symbol": "NRGV",
