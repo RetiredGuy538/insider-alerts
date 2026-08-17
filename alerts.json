@@ -1,6 +1,45 @@
 {
-  "updated": "2026-08-17 13:35 UTC",
+  "updated": "2026-08-17 14:04 UTC",
   "alerts": [
+    {
+      "uid": "NRGV|Hixon Dylan|2026-08-14|26845.0|3.733",
+      "symbol": "NRGV",
+      "companyName": "Energy Vault Holdings, Inc.",
+      "reportingName": "Hixon Dylan",
+      "title": "",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 09:57 ET",
+      "shares": 26845.0,
+      "price": 3.733,
+      "totalValue": 100212.39,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000103/wk-form4_1786975039.xml"
+    },
+    {
+      "uid": "NRGV|Hixon Dylan|2026-08-14|26809.0|3.733",
+      "symbol": "NRGV",
+      "companyName": "Energy Vault Holdings, Inc.",
+      "reportingName": "Hixon Dylan",
+      "title": "",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 09:57 ET",
+      "shares": 26809.0,
+      "price": 3.733,
+      "totalValue": 100078.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000103/wk-form4_1786975039.xml"
+    },
+    {
+      "uid": "NRGV|Hixon Dylan|2026-08-14|31864.0|3.75",
+      "symbol": "NRGV",
+      "companyName": "Energy Vault Holdings, Inc.",
+      "reportingName": "Hixon Dylan",
+      "title": "",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 09:57 ET",
+      "shares": 31864.0,
+      "price": 3.75,
+      "totalValue": 119490.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000103/wk-form4_1786975039.xml"
+    },
     {
       "uid": "PAL|Lal Rohit|2026-08-13|40000.0|5.43",
       "symbol": "PAL",
