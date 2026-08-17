@@ -1,6 +1,71 @@
 {
-  "updated": "2026-08-17 20:52 UTC",
+  "updated": "2026-08-17 21:20 UTC",
   "alerts": [
+    {
+      "uid": "ANGX|Harmon Neal|2026-08-14|29193.1|4.282",
+      "symbol": "ANGX",
+      "companyName": "Angel Studios, Inc.",
+      "reportingName": "Harmon Neal",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 17:10 ET",
+      "shares": 29193.1,
+      "price": 4.282,
+      "totalValue": 125004.85,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1865200/000186520026000081/form4.xml"
+    },
+    {
+      "uid": "ANGX|Harmon Jeffrey|2026-08-14|51380.0|4.2646",
+      "symbol": "ANGX",
+      "companyName": "Angel Studios, Inc.",
+      "reportingName": "Harmon Jeffrey",
+      "title": "Chief Content Officer",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 17:08 ET",
+      "shares": 51380.0,
+      "price": 4.2646,
+      "totalValue": 219115.15,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1865200/000186520026000080/form4.xml"
+    },
+    {
+      "uid": "ANGX|Harmon Jeffrey|2026-08-13|178700.0|4.0828",
+      "symbol": "ANGX",
+      "companyName": "Angel Studios, Inc.",
+      "reportingName": "Harmon Jeffrey",
+      "title": "Chief Content Officer",
+      "transactionDate": "2026-08-13",
+      "filingDatetime": "2026-08-17 17:08 ET",
+      "shares": 178700.0,
+      "price": 4.0828,
+      "totalValue": 729596.36,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1865200/000186520026000080/form4.xml"
+    },
+    {
+      "uid": "ANGX|Sarowitz Steven I|2026-08-14|57922.0|4.261",
+      "symbol": "ANGX",
+      "companyName": "Angel Studios, Inc.",
+      "reportingName": "Sarowitz Steven I",
+      "title": "",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 17:06 ET",
+      "shares": 57922.0,
+      "price": 4.261,
+      "totalValue": 246805.64,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1597870/000186520026000079/form4.xml"
+    },
+    {
+      "uid": "KEEL|WILSON LIAM DANIEL|2026-08-17|26472.0|3.78",
+      "symbol": "KEEL",
+      "companyName": "Keel Infrastructure Corp.",
+      "reportingName": "WILSON LIAM DANIEL",
+      "title": "Chief Operating Officer",
+      "transactionDate": "2026-08-17",
+      "filingDatetime": "2026-08-17 17:04 ET",
+      "shares": 26472.0,
+      "price": 3.78,
+      "totalValue": 100064.16,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1812477/000181247726000027/wk-form4_1787000696.xml"
+    },
     {
       "uid": "CHCT|Dupuy David H.|2026-08-14|10000.0|15.13",
       "symbol": "CHCT",
