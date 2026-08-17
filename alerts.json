@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17 15:58 UTC",
+  "updated": "2026-08-17 16:31 UTC",
   "alerts": [
     {
       "uid": "MLAB|Kadia Siddhartha|2026-08-13|7093.0|112.8",
@@ -65,6 +65,19 @@
       "price": 3.75,
       "totalValue": 119490.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1828536/000182853626000103/wk-form4_1786975039.xml"
+    },
+    {
+      "uid": "REZI|SURRAN THOMAS A|2026-08-14|15000.0|20.46",
+      "symbol": "REZI",
+      "companyName": "RESIDEO TECHNOLOGIES, INC.",
+      "reportingName": "SURRAN THOMAS A",
+      "title": "President and CEO",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 07:21 ET",
+      "shares": 15000.0,
+      "price": 20.46,
+      "totalValue": 306900.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1578060/000110465926097540/tm2623374-1_4seq1.xml"
     },
     {
       "uid": "PAL|Lal Rohit|2026-08-13|40000.0|5.43",
