@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-17 15:37 UTC",
+  "updated": "2026-08-17 15:58 UTC",
   "alerts": [
+    {
+      "uid": "MLAB|Kadia Siddhartha|2026-08-13|7093.0|112.8",
+      "symbol": "MLAB",
+      "companyName": "MESA LABORATORIES INC /CO/",
+      "reportingName": "Kadia Siddhartha",
+      "title": "President and CEO",
+      "transactionDate": "2026-08-13",
+      "filingDatetime": "2026-08-17 11:49 ET",
+      "shares": 7093.0,
+      "price": 112.8,
+      "totalValue": 800090.4,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/724004/000072400426000084/primary_doc.xml"
+    },
     {
       "uid": "MLAB|Tripeny R Tony|2026-08-13|900.0|113.69",
       "symbol": "MLAB",
