@@ -1,6 +1,71 @@
 {
-  "updated": "2026-08-17 21:20 UTC",
+  "updated": "2026-08-17 21:49 UTC",
   "alerts": [
+    {
+      "uid": "CDNL|Lee Richard Melvin Jr.|2026-08-14|27000.0|36.59",
+      "symbol": "CDNL",
+      "companyName": "Cardinal Infrastructure Group Inc.",
+      "reportingName": "Lee Richard Melvin Jr.",
+      "title": "",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 17:40 ET",
+      "shares": 27000.0,
+      "price": 36.59,
+      "totalValue": 987930.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2079999/000121390026090858/ownership.xml"
+    },
+    {
+      "uid": "CDNL|Lee Richard Melvin Jr.|2026-08-14|7000.0|37.73",
+      "symbol": "CDNL",
+      "companyName": "Cardinal Infrastructure Group Inc.",
+      "reportingName": "Lee Richard Melvin Jr.",
+      "title": "",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 17:40 ET",
+      "shares": 7000.0,
+      "price": 37.73,
+      "totalValue": 264110.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2079999/000121390026090858/ownership.xml"
+    },
+    {
+      "uid": "CDNL|Rowe Michael Bruce Jr.|2026-08-14|7000.0|36.53",
+      "symbol": "CDNL",
+      "companyName": "Cardinal Infrastructure Group Inc.",
+      "reportingName": "Rowe Michael Bruce Jr.",
+      "title": "Chief Financial Officer",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 17:39 ET",
+      "shares": 7000.0,
+      "price": 36.53,
+      "totalValue": 255710.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2079999/000121390026090856/ownership.xml"
+    },
+    {
+      "uid": "CDNL|Wood Anthony Leon Jr.|2026-08-14|34019.0|39.16",
+      "symbol": "CDNL",
+      "companyName": "Cardinal Infrastructure Group Inc.",
+      "reportingName": "Wood Anthony Leon Jr.",
+      "title": "",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 17:39 ET",
+      "shares": 34019.0,
+      "price": 39.16,
+      "totalValue": 1332184.04,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2079999/000121390026090855/ownership.xml"
+    },
+    {
+      "uid": "CDNL|Wood Anthony Leon Jr.|2026-08-14|17381.0|39.75",
+      "symbol": "CDNL",
+      "companyName": "Cardinal Infrastructure Group Inc.",
+      "reportingName": "Wood Anthony Leon Jr.",
+      "title": "",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 17:39 ET",
+      "shares": 17381.0,
+      "price": 39.75,
+      "totalValue": 690894.75,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2079999/000121390026090855/ownership.xml"
+    },
     {
       "uid": "ANGX|Harmon Neal|2026-08-14|29193.1|4.282",
       "symbol": "ANGX",
