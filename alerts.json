@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-17 19:50 UTC",
+  "updated": "2026-08-17 20:20 UTC",
   "alerts": [
+    {
+      "uid": "CHCT|Dupuy David H.|2026-08-14|10000.0|15.13",
+      "symbol": "CHCT",
+      "companyName": "Community Healthcare Trust Inc",
+      "reportingName": "Dupuy David H.",
+      "title": "CEO and President",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-17 16:15 ET",
+      "shares": 10000.0,
+      "price": 15.13,
+      "totalValue": 151300.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1631569/000162828026057376/wk-form4_1786997710.xml"
+    },
     {
       "uid": "MLAB|Kadia Siddhartha|2026-08-13|7093.0|112.8",
       "symbol": "MLAB",
