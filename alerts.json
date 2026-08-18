@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-18 13:38 UTC",
+  "updated": "2026-08-18 14:15 UTC",
   "alerts": [
+    {
+      "uid": "ECG|SPARBY DAVID M|2026-08-17|1000.0|144.95",
+      "symbol": "ECG",
+      "companyName": "Everus Construction Group, Inc.",
+      "reportingName": "SPARBY DAVID M",
+      "title": "",
+      "transactionDate": "2026-08-17",
+      "filingDatetime": "2026-08-18 10:13 ET",
+      "shares": 1000.0,
+      "price": 144.95,
+      "totalValue": 144950.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1159192/000122520826007147/doc4.xml"
+    },
     {
       "uid": "ENHA|Apeiron Investment Group Ltd.|2026-08-17|200000.0|1.6521",
       "symbol": "ENHA",
