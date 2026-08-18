@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-18 21:46 UTC",
+  "updated": "2026-08-18 22:17 UTC",
   "alerts": [
+    {
+      "uid": "AUGO|Sousa Mauad Bruno|2026-08-17|11000.0|78.93",
+      "symbol": "AUGO",
+      "companyName": "Aura Minerals Inc.",
+      "reportingName": "Sousa Mauad Bruno",
+      "title": "",
+      "transactionDate": "2026-08-17",
+      "filingDatetime": "2026-08-18 17:51 ET",
+      "shares": 11000.0,
+      "price": 78.93,
+      "totalValue": 868230.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1468642/000211790526000018/primary_doc.xml"
+    },
     {
       "uid": "FRPH|BAKER JOHN D II|2026-08-18|8189.0|21.97",
       "symbol": "FRPH",
