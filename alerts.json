@@ -1,6 +1,45 @@
 {
-  "updated": "2026-08-18 01:49 UTC",
+  "updated": "2026-08-18 13:38 UTC",
   "alerts": [
+    {
+      "uid": "ENHA|Apeiron Investment Group Ltd.|2026-08-17|200000.0|1.6521",
+      "symbol": "ENHA",
+      "companyName": "Enhanced Group Inc.",
+      "reportingName": "Apeiron Investment Group Ltd.",
+      "title": "",
+      "transactionDate": "2026-08-17",
+      "filingDatetime": "2026-08-18 08:55 ET",
+      "shares": 200000.0,
+      "price": 1.6521,
+      "totalValue": 330420.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526354788/ownership.xml"
+    },
+    {
+      "uid": "ASST|Rochard Pierre|2026-08-14|15900.0|12.54",
+      "symbol": "ASST",
+      "companyName": "Strive, Inc.",
+      "reportingName": "Rochard Pierre",
+      "title": "",
+      "transactionDate": "2026-08-14",
+      "filingDatetime": "2026-08-18 07:59 ET",
+      "shares": 15900.0,
+      "price": 12.54,
+      "totalValue": 199386.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1920406/000162828026057539/wk-form4_1787054375.xml"
+    },
+    {
+      "uid": "REZI|Mehta Amit Ashvin|2026-08-17|10928.4|20.68",
+      "symbol": "REZI",
+      "companyName": "RESIDEO TECHNOLOGIES, INC.",
+      "reportingName": "Mehta Amit Ashvin",
+      "title": "SVP, Strategy & Business Ops",
+      "transactionDate": "2026-08-17",
+      "filingDatetime": "2026-08-18 07:33 ET",
+      "shares": 10928.4,
+      "price": 20.68,
+      "totalValue": 225999.31,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1740332/000214858026000003/wk-form4_1787052821.xml"
+    },
     {
       "uid": "CDNL|Lee Richard Melvin Jr.|2026-08-14|27000.0|36.59",
       "symbol": "CDNL",
