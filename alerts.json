@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-18 21:18 UTC",
+  "updated": "2026-08-18 21:46 UTC",
   "alerts": [
+    {
+      "uid": "FRPH|BAKER JOHN D II|2026-08-18|8189.0|21.97",
+      "symbol": "FRPH",
+      "companyName": "FRP HOLDINGS, INC.",
+      "reportingName": "BAKER JOHN D II",
+      "title": "",
+      "transactionDate": "2026-08-18",
+      "filingDatetime": "2026-08-18 17:38 ET",
+      "shares": 8189.0,
+      "price": 21.97,
+      "totalValue": 179912.33,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/844059/000089706926001700/form4.xml"
+    },
     {
       "uid": "ECG|SPARBY DAVID M|2026-08-17|1000.0|144.95",
       "symbol": "ECG",
