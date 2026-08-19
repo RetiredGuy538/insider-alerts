@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-19 19:58 UTC",
+  "updated": "2026-08-19 20:31 UTC",
   "alerts": [
+    {
+      "uid": "GLPI|SHANKS EARL C|2026-08-18|10000.0|42.24",
+      "symbol": "GLPI",
+      "companyName": "Gaming & Leisure Properties, Inc.",
+      "reportingName": "SHANKS EARL C",
+      "title": "",
+      "transactionDate": "2026-08-18",
+      "filingDatetime": "2026-08-19 16:18 ET",
+      "shares": 10000.0,
+      "price": 42.24,
+      "totalValue": 422400.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1228408/000157596526000065/primary_01.xml"
+    },
+    {
+      "uid": "SGRY|DeLuca Teresa|2026-08-18|10000.0|14.35",
+      "symbol": "SGRY",
+      "companyName": "Surgery Partners, Inc.",
+      "reportingName": "DeLuca Teresa",
+      "title": "",
+      "transactionDate": "2026-08-18",
+      "filingDatetime": "2026-08-19 16:17 ET",
+      "shares": 10000.0,
+      "price": 14.35,
+      "totalValue": 143500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1638833/000163883326000079/wk-form4_1787170661.xml"
+    },
     {
       "uid": "BKKT|ALFRED MICHAEL|2026-08-18|296567.0|7.12",
       "symbol": "BKKT",
