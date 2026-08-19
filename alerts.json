@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-19 21:01 UTC",
+  "updated": "2026-08-19 21:38 UTC",
   "alerts": [
+    {
+      "uid": "REFI|Mazarakis John|2026-08-17|25000.0|10.253",
+      "symbol": "REFI",
+      "companyName": "Chicago Atlantic Real Estate Finance, Inc.",
+      "reportingName": "Mazarakis John",
+      "title": "Executive Chairman",
+      "transactionDate": "2026-08-17",
+      "filingDatetime": "2026-08-19 17:23 ET",
+      "shares": 25000.0,
+      "price": 10.253,
+      "totalValue": 256325.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1867660/000121390026091788/ownership.xml"
+    },
+    {
+      "uid": "REFI|Cappell Anthony|2026-08-17|45000.0|10.405",
+      "symbol": "REFI",
+      "companyName": "Chicago Atlantic Real Estate Finance, Inc.",
+      "reportingName": "Cappell Anthony",
+      "title": "Co-Chief Executive Officer",
+      "transactionDate": "2026-08-17",
+      "filingDatetime": "2026-08-19 17:22 ET",
+      "shares": 45000.0,
+      "price": 10.405,
+      "totalValue": 468225.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1867949/000121390026091787/ownership.xml"
+    },
     {
       "uid": "GLPI|SHANKS EARL C|2026-08-18|10000.0|42.24",
       "symbol": "GLPI",
