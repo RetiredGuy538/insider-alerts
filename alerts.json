@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-19 17:49 UTC",
+  "updated": "2026-08-19 18:27 UTC",
   "alerts": [
+    {
+      "uid": "BKKT|ALFRED MICHAEL|2026-08-18|296567.0|7.12",
+      "symbol": "BKKT",
+      "companyName": "Bakkt, Inc.",
+      "reportingName": "ALFRED MICHAEL",
+      "title": "",
+      "transactionDate": "2026-08-18",
+      "filingDatetime": "2026-08-19 14:22 ET",
+      "shares": 296567.0,
+      "price": 7.12,
+      "totalValue": 2111557.04,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1816739/000162828026057900/wk-form4_1787163725.xml"
+    },
     {
       "uid": "AUGO|Sousa Mauad Bruno|2026-08-17|11000.0|78.93",
       "symbol": "AUGO",
