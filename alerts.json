@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-19 22:31 UTC",
+  "updated": "2026-08-19 22:59 UTC",
   "alerts": [
+    {
+      "uid": "MFP|Nerbonne Robert A|2026-08-17|10900.0|45.05",
+      "symbol": "MFP",
+      "companyName": "Midera Food Processing, Inc.",
+      "reportingName": "Nerbonne Robert A",
+      "title": "",
+      "transactionDate": "2026-08-17",
+      "filingDatetime": "2026-08-19 18:34 ET",
+      "shares": 10900.0,
+      "price": 45.05,
+      "totalValue": 491045.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1785033/000119312526357255/ownership.xml"
+    },
     {
       "uid": "REFI|Mazarakis John|2026-08-17|25000.0|10.253",
       "symbol": "REFI",
