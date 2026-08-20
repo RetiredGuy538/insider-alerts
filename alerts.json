@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-20 22:01 UTC",
+  "updated": "2026-08-20 22:43 UTC",
   "alerts": [
+    {
+      "uid": "IAUX|Young Richard Scott|2026-08-18|1000000.0|1.62",
+      "symbol": "IAUX",
+      "companyName": "i-80 Gold Corp.",
+      "reportingName": "Young Richard Scott",
+      "title": "President and CEO",
+      "transactionDate": "2026-08-18",
+      "filingDatetime": "2026-08-20 18:30 ET",
+      "shares": 1000000.0,
+      "price": 1.62,
+      "totalValue": 1620000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1853962/000091228226001136/form4.xml"
+    },
+    {
+      "uid": "SENS|ROEDER DOUGLAS A|2026-08-19|13953.2843|8.98",
+      "symbol": "SENS",
+      "companyName": "Senseonics Holdings, Inc.",
+      "reportingName": "ROEDER DOUGLAS A",
+      "title": "",
+      "transactionDate": "2026-08-19",
+      "filingDatetime": "2026-08-20 18:25 ET",
+      "shares": 13953.2843,
+      "price": 8.98,
+      "totalValue": 125300.49,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1270735/000127073526000014/form4-08202026_100815.xml"
+    },
     {
       "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-08-20|189300.0|7.63",
       "symbol": "SUJA",
