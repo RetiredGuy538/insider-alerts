@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-20 21:11 UTC",
+  "updated": "2026-08-20 21:43 UTC",
   "alerts": [
+    {
+      "uid": "ET|WARREN KELCY L|2026-08-19|647968.0|21.26",
+      "symbol": "ET",
+      "companyName": "Energy Transfer LP",
+      "reportingName": "WARREN KELCY L",
+      "title": "",
+      "transactionDate": "2026-08-19",
+      "filingDatetime": "2026-08-20 17:14 ET",
+      "shares": 647968.0,
+      "price": 21.26,
+      "totalValue": 13775799.68,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526359388/ownership.xml"
+    },
+    {
+      "uid": "ET|WARREN KELCY L|2026-08-18|352032.0|21.27",
+      "symbol": "ET",
+      "companyName": "Energy Transfer LP",
+      "reportingName": "WARREN KELCY L",
+      "title": "",
+      "transactionDate": "2026-08-18",
+      "filingDatetime": "2026-08-20 17:14 ET",
+      "shares": 352032.0,
+      "price": 21.27,
+      "totalValue": 7487720.64,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526359388/ownership.xml"
+    },
     {
       "uid": "BWA|Kalathur Rajesh|2026-08-19|7407.0|67.5934",
       "symbol": "BWA",
