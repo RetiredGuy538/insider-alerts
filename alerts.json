@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-20 02:17 UTC",
+  "updated": "2026-08-20 13:41 UTC",
   "alerts": [
+    {
+      "uid": "PSUS|POLSKY LISA|2026-08-18|6177.0|39.45",
+      "symbol": "PSUS",
+      "companyName": "Pershing Square USA, Ltd.",
+      "reportingName": "POLSKY LISA",
+      "title": "",
+      "transactionDate": "2026-08-18",
+      "filingDatetime": "2026-08-20 08:16 ET",
+      "shares": 6177.0,
+      "price": 39.45,
+      "totalValue": 243682.65,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1390950/000119312526358101/ownership.xml"
+    },
     {
       "uid": "LIEN|Mazarakis John|2026-08-17|60000.0|9.44",
       "symbol": "LIEN",
