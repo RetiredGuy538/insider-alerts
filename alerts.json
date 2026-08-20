@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-20 20:44 UTC",
+  "updated": "2026-08-20 21:11 UTC",
   "alerts": [
+    {
+      "uid": "BWA|Kalathur Rajesh|2026-08-19|7407.0|67.5934",
+      "symbol": "BWA",
+      "companyName": "BORGWARNER INC",
+      "reportingName": "Kalathur Rajesh",
+      "title": "",
+      "transactionDate": "2026-08-19",
+      "filingDatetime": "2026-08-20 17:07 ET",
+      "shares": 7407.0,
+      "price": 67.5934,
+      "totalValue": 500664.31,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/908255/000122520826007231/doc4.xml"
+    },
     {
       "uid": "FFIN|Denny Michael B.|2026-08-18|3000.0|34.66",
       "symbol": "FFIN",
