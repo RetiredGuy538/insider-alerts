@@ -1,6 +1,45 @@
 {
-  "updated": "2026-08-20 21:43 UTC",
+  "updated": "2026-08-20 22:01 UTC",
   "alerts": [
+    {
+      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-08-20|189300.0|7.63",
+      "symbol": "SUJA",
+      "companyName": "SUJA LIFE, INC.",
+      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+      "title": "",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-20 17:59 ET",
+      "shares": 189300.0,
+      "price": 7.63,
+      "totalValue": 1444359.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126033922/form4.xml"
+    },
+    {
+      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-08-19|189300.0|7.11",
+      "symbol": "SUJA",
+      "companyName": "SUJA LIFE, INC.",
+      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+      "title": "",
+      "transactionDate": "2026-08-19",
+      "filingDatetime": "2026-08-20 17:59 ET",
+      "shares": 189300.0,
+      "price": 7.11,
+      "totalValue": 1345923.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126033922/form4.xml"
+    },
+    {
+      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-08-18|189300.0|6.73",
+      "symbol": "SUJA",
+      "companyName": "SUJA LIFE, INC.",
+      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+      "title": "",
+      "transactionDate": "2026-08-18",
+      "filingDatetime": "2026-08-20 17:59 ET",
+      "shares": 189300.0,
+      "price": 6.73,
+      "totalValue": 1273989.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126033922/form4.xml"
+    },
     {
       "uid": "ET|WARREN KELCY L|2026-08-19|647968.0|21.26",
       "symbol": "ET",
