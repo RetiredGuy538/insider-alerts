@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-21 19:46 UTC",
+  "updated": "2026-08-21 20:20 UTC",
   "alerts": [
+    {
+      "uid": "ELAN|Kurzius Lawrence Erik|2026-08-20|40000.0|23.398",
+      "symbol": "ELAN",
+      "companyName": "Elanco Animal Health Inc",
+      "reportingName": "Kurzius Lawrence Erik",
+      "title": "",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-21 16:16 ET",
+      "shares": 40000.0,
+      "price": 23.398,
+      "totalValue": 935920.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1352090/000135209026000006/form4-08212026_080841.xml"
+    },
     {
       "uid": "MED|Kiai Parsa|2026-08-20|41975.0|11.6037",
       "symbol": "MED",
