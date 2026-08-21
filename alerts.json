@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-21 22:48 UTC",
+  "updated": "2026-08-21 23:18 UTC",
   "alerts": [
+    {
+      "uid": "GWRS|Cohn Andrew M.|2026-08-20|139343.0|8.85",
+      "symbol": "GWRS",
+      "companyName": "Global Water Resources, Inc.",
+      "reportingName": "Cohn Andrew M.",
+      "title": "",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-21 19:14 ET",
+      "shares": 139343.0,
+      "price": 8.85,
+      "totalValue": 1233185.55,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1434728/000162828026058496/wk-form4_1787354084.xml"
+    },
     {
       "uid": "ALK|MINICUCCI BENITO|2026-08-20|25000.0|40.0604",
       "symbol": "ALK",
