@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-21 17:01 UTC",
+  "updated": "2026-08-21 17:43 UTC",
   "alerts": [
+    {
+      "uid": "MED|Kiai Parsa|2026-08-20|41975.0|11.6037",
+      "symbol": "MED",
+      "companyName": "MEDIFAST INC",
+      "reportingName": "Kiai Parsa",
+      "title": "",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-21 12:35 ET",
+      "shares": 41975.0,
+      "price": 11.6037,
+      "totalValue": 487065.31,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/910329/000121390026092479/ownership.xml"
+    },
+    {
+      "uid": "MED|Kiai Parsa|2026-08-19|28538.0|11.6576",
+      "symbol": "MED",
+      "companyName": "MEDIFAST INC",
+      "reportingName": "Kiai Parsa",
+      "title": "",
+      "transactionDate": "2026-08-19",
+      "filingDatetime": "2026-08-21 12:35 ET",
+      "shares": 28538.0,
+      "price": 11.6576,
+      "totalValue": 332684.59,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/910329/000121390026092479/ownership.xml"
+    },
     {
       "uid": "INV|Otworth Michael|2026-08-20|231000.0|1.5121",
       "symbol": "INV",
