@@ -1,6 +1,84 @@
 {
-  "updated": "2026-08-20 23:58 UTC",
+  "updated": "2026-08-21 01:37 UTC",
   "alerts": [
+    {
+      "uid": "MOBI|Tansey Casey M|2026-08-18|16441.0|12.0749",
+      "symbol": "MOBI",
+      "companyName": "Mobia Medical, Inc.",
+      "reportingName": "Tansey Casey M",
+      "title": "",
+      "transactionDate": "2026-08-18",
+      "filingDatetime": "2026-08-20 21:05 ET",
+      "shares": 16441.0,
+      "price": 12.0749,
+      "totalValue": 198523.43,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1474322/000119312526359683/ownership.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-08-20|943.0|190.77",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-20 20:43 ET",
+      "shares": 943.0,
+      "price": 190.77,
+      "totalValue": 179896.11,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000008/primary_doc.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-08-20|1151.0|192.09",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-20 20:43 ET",
+      "shares": 1151.0,
+      "price": 192.09,
+      "totalValue": 221095.59,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000008/primary_doc.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-08-20|1234.0|192.8",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-20 20:43 ET",
+      "shares": 1234.0,
+      "price": 192.8,
+      "totalValue": 237915.2,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000008/primary_doc.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-08-20|5976.0|193.68",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-20 20:43 ET",
+      "shares": 5976.0,
+      "price": 193.68,
+      "totalValue": 1157431.68,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000008/primary_doc.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-08-20|5363.0|194.48",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-20 20:43 ET",
+      "shares": 5363.0,
+      "price": 194.48,
+      "totalValue": 1042996.24,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000008/primary_doc.xml"
+    },
     {
       "uid": "IAUX|Young Richard Scott|2026-08-18|1000000.0|1.62",
       "symbol": "IAUX",
@@ -1848,19 +1926,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000791/form4-07242026_010725.xml"
     },
     {
-      "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-21|120582.0|9.55",
-      "symbol": "ARTV",
-      "companyName": "Artiva Biotherapeutics, Inc.",
-      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
-      "title": "",
-      "transactionDate": "2026-07-21",
-      "filingDatetime": "2026-07-23 21:22 ET",
-      "shares": 120582.0,
-      "price": 9.55,
-      "totalValue": 1151558.1,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000791/form4-07242026_010725.xml"
-    },
-    {
       "uid": "BYRN|Kennedy TJ|2026-07-22|29000.0|3.5271",
       "symbol": "BYRN",
       "companyName": "Byrna Technologies Inc.",
@@ -1949,45 +2014,6 @@
       "shares": 20000.0,
       "price": 20.6709,
       "totalValue": 413418.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126029425/form4.xml"
-    },
-    {
-      "uid": "ENR|Aqua Capital, Ltd.|2026-07-21|20000.0|19.7719",
-      "symbol": "ENR",
-      "companyName": "ENERGIZER HOLDINGS, INC.",
-      "reportingName": "Aqua Capital, Ltd.",
-      "title": "",
-      "transactionDate": "2026-07-21",
-      "filingDatetime": "2026-07-23 16:16 ET",
-      "shares": 20000.0,
-      "price": 19.7719,
-      "totalValue": 395438.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126029425/form4.xml"
-    },
-    {
-      "uid": "ENR|Aqua Capital, Ltd.|2026-07-21|20000.0|19.8431",
-      "symbol": "ENR",
-      "companyName": "ENERGIZER HOLDINGS, INC.",
-      "reportingName": "Aqua Capital, Ltd.",
-      "title": "",
-      "transactionDate": "2026-07-21",
-      "filingDatetime": "2026-07-23 16:16 ET",
-      "shares": 20000.0,
-      "price": 19.8431,
-      "totalValue": 396862.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126029425/form4.xml"
-    },
-    {
-      "uid": "ENR|Aqua Capital, Ltd.|2026-07-21|20000.0|19.6689",
-      "symbol": "ENR",
-      "companyName": "ENERGIZER HOLDINGS, INC.",
-      "reportingName": "Aqua Capital, Ltd.",
-      "title": "",
-      "transactionDate": "2026-07-21",
-      "filingDatetime": "2026-07-23 16:16 ET",
-      "shares": 20000.0,
-      "price": 19.6689,
-      "totalValue": 393378.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1632790/000114036126029425/form4.xml"
     }
   ]
