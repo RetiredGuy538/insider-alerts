@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-21 20:48 UTC",
+  "updated": "2026-08-21 21:18 UTC",
   "alerts": [
+    {
+      "uid": "ALK|MINICUCCI BENITO|2026-08-20|25000.0|40.0604",
+      "symbol": "ALK",
+      "companyName": "ALASKA AIR GROUP, INC.",
+      "reportingName": "MINICUCCI BENITO",
+      "title": "CEO AND PRESIDENT",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-21 16:59 ET",
+      "shares": 25000.0,
+      "price": 40.0604,
+      "totalValue": 1001510.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/766421/000145145526000011/wk-form4_1787345970.xml"
+    },
     {
       "uid": "KEEL|Gagnon Benjamin|2026-08-21|38888.0|3.33",
       "symbol": "KEEL",
