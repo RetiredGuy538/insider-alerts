@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-21 02:48 UTC",
+  "updated": "2026-08-21 13:40 UTC",
   "alerts": [
+    {
+      "uid": "INV|Otworth Michael|2026-08-20|231000.0|1.5121",
+      "symbol": "INV",
+      "companyName": "Innventure, Inc.",
+      "reportingName": "Otworth Michael",
+      "title": "Executive Chairman",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-21 09:17 ET",
+      "shares": 231000.0,
+      "price": 1.5121,
+      "totalValue": 349295.1,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1847082/000162828026058332/wk-form4_1787318256.xml"
+    },
+    {
+      "uid": "INV|Donnally James O|2026-08-20|225000.0|1.5",
+      "symbol": "INV",
+      "companyName": "Innventure, Inc.",
+      "reportingName": "Donnally James O",
+      "title": "",
+      "transactionDate": "2026-08-20",
+      "filingDatetime": "2026-08-21 09:17 ET",
+      "shares": 225000.0,
+      "price": 1.5,
+      "totalValue": 337500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2001557/000162828026058331/wk-form4_1787318246.xml"
+    },
     {
       "uid": "MOBI|Tansey Casey M|2026-08-18|16441.0|12.0749",
       "symbol": "MOBI",
