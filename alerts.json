@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-24 19:16 UTC",
+  "updated": "2026-08-24 19:53 UTC",
   "alerts": [
+    {
+      "uid": "TTMI|Geveden Rex D|2026-08-24|5000.0|104.9",
+      "symbol": "TTMI",
+      "companyName": "TTM TECHNOLOGIES INC",
+      "reportingName": "Geveden Rex D",
+      "title": "",
+      "transactionDate": "2026-08-24",
+      "filingDatetime": "2026-08-24 15:44 ET",
+      "shares": 5000.0,
+      "price": 104.9,
+      "totalValue": 524500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526363525/ownership.xml"
+    },
     {
       "uid": "PODD|McEvoy Ashley|2026-08-21|1100.0|147.47",
       "symbol": "PODD",
