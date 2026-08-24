@@ -1,6 +1,45 @@
 {
-  "updated": "2026-08-24 19:53 UTC",
+  "updated": "2026-08-24 20:24 UTC",
   "alerts": [
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-08-21|3241.0|209.03",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-08-21",
+      "filingDatetime": "2026-08-24 16:17 ET",
+      "shares": 3241.0,
+      "price": 209.03,
+      "totalValue": 677466.23,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000009/primary_doc.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-08-21|1824.0|209.97",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-08-21",
+      "filingDatetime": "2026-08-24 16:17 ET",
+      "shares": 1824.0,
+      "price": 209.97,
+      "totalValue": 382985.28,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000009/primary_doc.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-08-21|9935.0|211.09",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-08-21",
+      "filingDatetime": "2026-08-24 16:17 ET",
+      "shares": 9935.0,
+      "price": 211.09,
+      "totalValue": 2097179.15,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000009/primary_doc.xml"
+    },
     {
       "uid": "TTMI|Geveden Rex D|2026-08-24|5000.0|104.9",
       "symbol": "TTMI",
