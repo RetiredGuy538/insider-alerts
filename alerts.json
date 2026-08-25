@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-25 15:22 UTC",
+  "updated": "2026-08-25 16:07 UTC",
   "alerts": [
+    {
+      "uid": "NGL|RAYMOND JOHN T|2026-08-24|25500.0|16.2237",
+      "symbol": "NGL",
+      "companyName": "NGL Energy Partners LP",
+      "reportingName": "RAYMOND JOHN T",
+      "title": "",
+      "transactionDate": "2026-08-24",
+      "filingDatetime": "2026-08-25 11:55 ET",
+      "shares": 25500.0,
+      "price": 16.2237,
+      "totalValue": 413704.35,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1186173/000118617326000001/wk-form4_1787673343.xml"
+    },
     {
       "uid": "TISI|Roeder Clinton William|2026-08-21|8000.0|22.9",
       "symbol": "TISI",
