@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-25 14:28 UTC",
+  "updated": "2026-08-25 15:22 UTC",
   "alerts": [
+    {
+      "uid": "TISI|Roeder Clinton William|2026-08-21|8000.0|22.9",
+      "symbol": "TISI",
+      "companyName": "TEAM INC",
+      "reportingName": "Roeder Clinton William",
+      "title": "Chief Financial Officer",
+      "transactionDate": "2026-08-21",
+      "filingDatetime": "2026-08-25 10:59 ET",
+      "shares": 8000.0,
+      "price": 22.9,
+      "totalValue": 183200.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/318833/000214186626000004/wk-form4_1787669975.xml"
+    },
     {
       "uid": "EPSN|Stabell Jason|2026-08-24|21413.0|5.626",
       "symbol": "EPSN",
