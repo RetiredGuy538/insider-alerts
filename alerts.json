@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-26 19:03 UTC",
+  "updated": "2026-08-26 21:50 UTC",
   "alerts": [
+    {
+      "uid": "BRTMU|B&R Technology Sponsor LLC (Cayman)|2026-08-25|52500.0|10.0",
+      "symbol": "BRTMU",
+      "companyName": "B&R Technology Merger Corp.",
+      "reportingName": "B&R Technology Sponsor LLC (Cayman)",
+      "title": "",
+      "transactionDate": "2026-08-25",
+      "filingDatetime": "2026-08-26 16:15 ET",
+      "shares": 52500.0,
+      "price": 10.0,
+      "totalValue": 525000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1181223/000119312526368535/ownership.xml"
+    },
     {
       "uid": "MAIR|La Force Andrew Hudson III|2026-08-25|20000.0|27.84",
       "symbol": "MAIR",
