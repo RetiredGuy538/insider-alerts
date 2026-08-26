@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-26 16:04 UTC",
+  "updated": "2026-08-26 16:58 UTC",
   "alerts": [
+    {
+      "uid": "MAIR|La Force Andrew Hudson III|2026-08-25|20000.0|27.84",
+      "symbol": "MAIR",
+      "companyName": "Madison Air Solutions Corp",
+      "reportingName": "La Force Andrew Hudson III",
+      "title": "",
+      "transactionDate": "2026-08-25",
+      "filingDatetime": "2026-08-26 12:17 ET",
+      "shares": 20000.0,
+      "price": 27.84,
+      "totalValue": 556800.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1431218/000162828026059013/wk-form4_1787761059.xml"
+    },
     {
       "uid": "TTMI|Roks Edwin|2026-08-25|10000.0|111.77",
       "symbol": "TTMI",
