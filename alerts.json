@@ -1,6 +1,32 @@
 {
-  "updated": "2026-08-27 02:50 UTC",
+  "updated": "2026-08-27 22:44 UTC",
   "alerts": [
+    {
+      "uid": "SGI|THOMPSON SCOTT L|2026-08-27|30000.0|62.8438",
+      "symbol": "SGI",
+      "companyName": "SOMNIGROUP INTERNATIONAL INC.",
+      "reportingName": "THOMPSON SCOTT L",
+      "title": "CEO & PRESIDENT",
+      "transactionDate": "2026-08-27",
+      "filingDatetime": "2026-08-27 18:06 ET",
+      "shares": 30000.0,
+      "price": 62.8438,
+      "totalValue": 1885314.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1206264/000120639926000007/wk-form4_1787868378.xml"
+    },
+    {
+      "uid": "KDP|Alt Aaron E|2026-08-25|7862.0|31.83",
+      "symbol": "KDP",
+      "companyName": "Keurig Dr Pepper Inc.",
+      "reportingName": "Alt Aaron E",
+      "title": "",
+      "transactionDate": "2026-08-25",
+      "filingDatetime": "2026-08-27 18:00 ET",
+      "shares": 7862.0,
+      "price": 31.83,
+      "totalValue": 250247.46,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1418135/000174157626000008/wk-form4_1787868046.xml"
+    },
     {
       "uid": "BRTMU|B&R Technology Sponsor LLC (Cayman)|2026-08-25|52500.0|10.0",
       "symbol": "BRTMU",
