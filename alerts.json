@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26 21:50 UTC",
+  "updated": "2026-08-27 02:50 UTC",
   "alerts": [
     {
       "uid": "BRTMU|B&R Technology Sponsor LLC (Cayman)|2026-08-25|52500.0|10.0",
@@ -2067,58 +2067,6 @@
       "price": 34.55,
       "totalValue": 107105.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1013272/000119312526325161/ownership.xml"
-    },
-    {
-      "uid": "SCTX|AH Bio Fund II, L.P.|2026-07-27|333333.0|15.0",
-      "symbol": "SCTX",
-      "companyName": "Scribe Therapeutics, Inc.",
-      "reportingName": "AH Bio Fund II, L.P.",
-      "title": "",
-      "transactionDate": "2026-07-27",
-      "filingDatetime": "2026-07-29 19:09 ET",
-      "shares": 333333.0,
-      "price": 15.0,
-      "totalValue": 4999995.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1160077/000123191926000813/form4-07292026_110744.xml"
-    },
-    {
-      "uid": "SCTX|GORDON CARL L|2026-07-27|1000000.0|15.0",
-      "symbol": "SCTX",
-      "companyName": "Scribe Therapeutics, Inc.",
-      "reportingName": "GORDON CARL L",
-      "title": "",
-      "transactionDate": "2026-07-27",
-      "filingDatetime": "2026-07-29 18:50 ET",
-      "shares": 1000000.0,
-      "price": 15.0,
-      "totalValue": 15000000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1282930/000094787126000734/ownership.xml"
-    },
-    {
-      "uid": "SCTX|ORBIMED ADVISORS LLC|2026-07-27|1000000.0|15.0",
-      "symbol": "SCTX",
-      "companyName": "Scribe Therapeutics, Inc.",
-      "reportingName": "ORBIMED ADVISORS LLC",
-      "title": "",
-      "transactionDate": "2026-07-27",
-      "filingDatetime": "2026-07-29 18:47 ET",
-      "shares": 1000000.0,
-      "price": 15.0,
-      "totalValue": 15000000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1055951/000094787126000733/ownership.xml"
-    },
-    {
-      "uid": "ACI|Moriarty Thomas M|2026-07-27|170500.0|11.509",
-      "symbol": "ACI",
-      "companyName": "Albertsons Companies, Inc.",
-      "reportingName": "Moriarty Thomas M",
-      "title": "EVP, M&A and Corporate Affairs",
-      "transactionDate": "2026-07-27",
-      "filingDatetime": "2026-07-28 19:29 ET",
-      "shares": 170500.0,
-      "price": 11.509,
-      "totalValue": 1962284.5,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1412221/000162828026050285/wk-form4_1785281386.xml"
     }
   ]
 }
