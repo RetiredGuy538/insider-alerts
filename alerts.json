@@ -1,6 +1,19 @@
 {
-  "updated": "2026-08-31 03:12 UTC",
+  "updated": "2026-08-31 19:22 UTC",
   "alerts": [
+    {
+      "uid": "CVBF|Maddox Mike|2026-08-31|10000.0|22.03",
+      "symbol": "CVBF",
+      "companyName": "CVB FINANCIAL CORP",
+      "reportingName": "Maddox Mike",
+      "title": "",
+      "transactionDate": "2026-08-31",
+      "filingDatetime": "2026-08-31 15:19 ET",
+      "shares": 10000.0,
+      "price": 22.03,
+      "totalValue": 220300.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/354647/000035464726000116/form4.xml"
+    },
     {
       "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-08-28|185000.0|9.33",
       "symbol": "SUJA",
