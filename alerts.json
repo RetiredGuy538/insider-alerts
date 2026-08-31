@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-29 03:59 UTC",
+  "updated": "2026-08-31 03:12 UTC",
   "alerts": [
     {
       "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-08-28|185000.0|9.33",
@@ -2054,58 +2054,6 @@
       "price": 21.4971,
       "totalValue": 214971.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526335498/ownership.xml"
-    },
-    {
-      "uid": "ORN|LEDFORD ROBERT|2026-07-31|20000.0|9.6215",
-      "symbol": "ORN",
-      "companyName": "Orion Group Holdings Inc",
-      "reportingName": "LEDFORD ROBERT",
-      "title": "",
-      "transactionDate": "2026-07-31",
-      "filingDatetime": "2026-08-04 16:20 ET",
-      "shares": 20000.0,
-      "price": 9.6215,
-      "totalValue": 192430.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1402829/000209943326000003/form4-08042026_080824.xml"
-    },
-    {
-      "uid": "HNVR|O'Connor Kevin M|2026-07-30|10000.0|26.88",
-      "symbol": "HNVR",
-      "companyName": "Hanover Bancorp, Inc. /MD",
-      "reportingName": "O'Connor Kevin M",
-      "title": "President",
-      "transactionDate": "2026-07-30",
-      "filingDatetime": "2026-08-03 18:42 ET",
-      "shares": 10000.0,
-      "price": 26.88,
-      "totalValue": 268800.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1414859/000122520826006898/doc4.xml"
-    },
-    {
-      "uid": "GSHD|Lane Peter R.|2026-07-31|1600.0|63.14",
-      "symbol": "GSHD",
-      "companyName": "Goosehead Insurance, Inc.",
-      "reportingName": "Lane Peter R.",
-      "title": "",
-      "transactionDate": "2026-07-31",
-      "filingDatetime": "2026-08-03 18:12 ET",
-      "shares": 1600.0,
-      "price": 63.14,
-      "totalValue": 101024.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1570186/000157018626000005/wk-form4_1785795128.xml"
-    },
-    {
-      "uid": "ARTV|RA CAPITAL MANAGEMENT, L.P.|2026-07-31|24944.0|9.93",
-      "symbol": "ARTV",
-      "companyName": "Artiva Biotherapeutics, Inc.",
-      "reportingName": "RA CAPITAL MANAGEMENT, L.P.",
-      "title": "",
-      "transactionDate": "2026-07-31",
-      "filingDatetime": "2026-07-31 17:13 ET",
-      "shares": 24944.0,
-      "price": 9.93,
-      "totalValue": 247693.92,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1315082/000123191926000817/form4-07312026_090755.xml"
     }
   ]
 }
