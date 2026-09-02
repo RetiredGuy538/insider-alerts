@@ -1,6 +1,58 @@
 {
-  "updated": "2026-09-01 22:21 UTC",
+  "updated": "2026-09-02 00:22 UTC",
   "alerts": [
+    {
+      "uid": "AUGO|Sousa Mauad Bruno|2026-08-28|26018.0|82.5743",
+      "symbol": "AUGO",
+      "companyName": "Aura Minerals Inc.",
+      "reportingName": "Sousa Mauad Bruno",
+      "title": "",
+      "transactionDate": "2026-08-28",
+      "filingDatetime": "2026-09-01 19:50 ET",
+      "shares": 26018.0,
+      "price": 82.5743,
+      "totalValue": 2148418.14,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1468642/000211790526000026/primary_doc.xml"
+    },
+    {
+      "uid": "AUGO|Sousa Mauad Bruno|2026-08-28|61552.0|83.5822",
+      "symbol": "AUGO",
+      "companyName": "Aura Minerals Inc.",
+      "reportingName": "Sousa Mauad Bruno",
+      "title": "",
+      "transactionDate": "2026-08-28",
+      "filingDatetime": "2026-09-01 19:50 ET",
+      "shares": 61552.0,
+      "price": 83.5822,
+      "totalValue": 5144651.57,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1468642/000211790526000026/primary_doc.xml"
+    },
+    {
+      "uid": "AUGO|Sousa Mauad Bruno|2026-08-28|38430.0|84.3175",
+      "symbol": "AUGO",
+      "companyName": "Aura Minerals Inc.",
+      "reportingName": "Sousa Mauad Bruno",
+      "title": "",
+      "transactionDate": "2026-08-28",
+      "filingDatetime": "2026-09-01 19:50 ET",
+      "shares": 38430.0,
+      "price": 84.3175,
+      "totalValue": 3240321.52,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1468642/000211790526000026/primary_doc.xml"
+    },
+    {
+      "uid": "AUGO|Sousa Mauad Bruno|2026-08-28|126000.0|89.36",
+      "symbol": "AUGO",
+      "companyName": "Aura Minerals Inc.",
+      "reportingName": "Sousa Mauad Bruno",
+      "title": "",
+      "transactionDate": "2026-08-28",
+      "filingDatetime": "2026-09-01 19:50 ET",
+      "shares": 126000.0,
+      "price": 89.36,
+      "totalValue": 11259360.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1468642/000211790526000026/primary_doc.xml"
+    },
     {
       "uid": "GO|Jaros Carey F.|2026-08-27|15000.0|11.7",
       "symbol": "GO",
