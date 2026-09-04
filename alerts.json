@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-03 23:45 UTC",
+  "updated": "2026-09-04 01:24 UTC",
   "alerts": [
     {
       "uid": "AUGO|Sousa Mauad Bruno|2026-08-28|26018.0|82.5743",
@@ -2080,45 +2080,6 @@
       "price": 18.0,
       "totalValue": 499986.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1606243/000147083126000804/wk-form4_1786135298.xml"
-    },
-    {
-      "uid": "SITE|BLACK DOUG|2026-08-04|4000.0|101.94",
-      "symbol": "SITE",
-      "companyName": "SiteOne Landscape Supply, Inc.",
-      "reportingName": "BLACK DOUG",
-      "title": "CEO",
-      "transactionDate": "2026-08-04",
-      "filingDatetime": "2026-08-06 17:41 ET",
-      "shares": 4000.0,
-      "price": 101.94,
-      "totalValue": 407760.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1650729/000110465926092153/tm2622496-1_4seq1.xml"
-    },
-    {
-      "uid": "SITE|BLACK DOUG|2026-08-04|4000.0|102.13",
-      "symbol": "SITE",
-      "companyName": "SiteOne Landscape Supply, Inc.",
-      "reportingName": "BLACK DOUG",
-      "title": "CEO",
-      "transactionDate": "2026-08-04",
-      "filingDatetime": "2026-08-06 17:41 ET",
-      "shares": 4000.0,
-      "price": 102.13,
-      "totalValue": 408520.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1650729/000110465926092153/tm2622496-1_4seq1.xml"
-    },
-    {
-      "uid": "GBFH|Herbst Timothy P|2026-08-04|10000.0|21.4971",
-      "symbol": "GBFH",
-      "companyName": "GBank Financial Holdings Inc.",
-      "reportingName": "Herbst Timothy P",
-      "title": "",
-      "transactionDate": "2026-08-04",
-      "filingDatetime": "2026-08-05 17:16 ET",
-      "shares": 10000.0,
-      "price": 21.4971,
-      "totalValue": 214971.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1791145/000119312526335498/ownership.xml"
     }
   ]
 }
