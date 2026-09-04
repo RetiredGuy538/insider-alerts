@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-04 21:27 UTC",
+  "updated": "2026-09-04 23:10 UTC",
   "alerts": [
+    {
+      "uid": "ATRA|Cherry Brian N|2026-09-04|104166.0|9.6",
+      "symbol": "ATRA",
+      "companyName": "Atara Biotherapeutics, Inc.",
+      "reportingName": "Cherry Brian N",
+      "title": "",
+      "transactionDate": "2026-09-04",
+      "filingDatetime": "2026-09-04 18:20 ET",
+      "shares": 104166.0,
+      "price": 9.6,
+      "totalValue": 999993.6,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1290922/000090514826004085/form4.xml"
+    },
     {
       "uid": "AUGO|Sousa Mauad Bruno|2026-08-28|26018.0|82.5743",
       "symbol": "AUGO",
