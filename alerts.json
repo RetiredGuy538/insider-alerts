@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-05 00:56 UTC",
+  "updated": "2026-09-07 02:34 UTC",
   "alerts": [
+    {
+      "uid": "ENOV|McDonald Damien|2026-09-04|13035.0|19.15",
+      "symbol": "ENOV",
+      "companyName": "Enovis CORP",
+      "reportingName": "McDonald Damien",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-09-04",
+      "filingDatetime": "2026-09-04 21:00 ET",
+      "shares": 13035.0,
+      "price": 19.15,
+      "totalValue": 249620.25,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1420800/000119312526384027/ownership.xml"
+    },
+    {
+      "uid": "ENOV|Engert Oliver|2026-09-03|5140.0|19.46",
+      "symbol": "ENOV",
+      "companyName": "Enovis CORP",
+      "reportingName": "Engert Oliver",
+      "title": "Chief Administrative Officer",
+      "transactionDate": "2026-09-03",
+      "filingDatetime": "2026-09-04 21:00 ET",
+      "shares": 5140.0,
+      "price": 19.46,
+      "totalValue": 100024.4,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1420800/000119312526384028/ownership.xml"
+    },
     {
       "uid": "ATRA|Cherry Brian N|2026-09-04|104166.0|9.6",
       "symbol": "ATRA",
@@ -1796,19 +1822,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/860748/000120850026000004/wk-form4_1786485214.xml"
     },
     {
-      "uid": "BRVE|AH Bio Fund IV, L.P.|2026-08-07|1100000.0|18.0",
-      "symbol": "BRVE",
-      "companyName": "Braveheart Bio, Inc.",
-      "reportingName": "AH Bio Fund IV, L.P.",
-      "title": "",
-      "transactionDate": "2026-08-07",
-      "filingDatetime": "2026-08-11 17:53 ET",
-      "shares": 1100000.0,
-      "price": 18.0,
-      "totalValue": 19800000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1160077/000123191926000859/form4-08112026_090855.xml"
-    },
-    {
       "uid": "DINO|MYERS FRANKLIN|2026-08-11|15000.0|85.3",
       "symbol": "DINO",
       "companyName": "HF Sinclair Corp",
@@ -1861,19 +1874,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000017/ownership.xml"
     },
     {
-      "uid": "TXO|SIMPSON BOB R|2026-08-07|100000.0|13.5189",
-      "symbol": "TXO",
-      "companyName": "TXO Partners, L.P.",
-      "reportingName": "SIMPSON BOB R",
-      "title": "",
-      "transactionDate": "2026-08-07",
-      "filingDatetime": "2026-08-11 17:08 ET",
-      "shares": 100000.0,
-      "price": 13.5189,
-      "totalValue": 1351890.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1182684/000118268426000017/ownership.xml"
-    },
-    {
       "uid": "SMRT|Pinczuk Ana G.|2026-08-11|107000.0|1.4264",
       "symbol": "SMRT",
       "companyName": "SmartRent, Inc.",
@@ -1898,45 +1898,6 @@
       "price": 25.8941,
       "totalValue": 258941.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/793952/000173210526000006/wk-form4_1786479603.xml"
-    },
-    {
-      "uid": "AHCO|SAMET KENNETH A|2026-08-06|23500.0|6.38",
-      "symbol": "AHCO",
-      "companyName": "AdaptHealth Corp.",
-      "reportingName": "SAMET KENNETH A",
-      "title": "",
-      "transactionDate": "2026-08-06",
-      "filingDatetime": "2026-08-10 20:03 ET",
-      "shares": 23500.0,
-      "price": 6.38,
-      "totalValue": 149930.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1359252/000110465926093576/tm2622716-2_4seq1.xml"
-    },
-    {
-      "uid": "AHCO|WOLF DALE B|2026-08-07|20000.0|5.86",
-      "symbol": "AHCO",
-      "companyName": "AdaptHealth Corp.",
-      "reportingName": "WOLF DALE B",
-      "title": "",
-      "transactionDate": "2026-08-07",
-      "filingDatetime": "2026-08-10 20:02 ET",
-      "shares": 20000.0,
-      "price": 5.86,
-      "totalValue": 117200.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1228861/000110465926093575/tm2622716-1_4seq1.xml"
-    },
-    {
-      "uid": "AHCO|WOLF DALE B|2026-08-06|20000.0|6.37",
-      "symbol": "AHCO",
-      "companyName": "AdaptHealth Corp.",
-      "reportingName": "WOLF DALE B",
-      "title": "",
-      "transactionDate": "2026-08-06",
-      "filingDatetime": "2026-08-10 20:02 ET",
-      "shares": 20000.0,
-      "price": 6.37,
-      "totalValue": 127400.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1228861/000110465926093575/tm2622716-1_4seq1.xml"
     },
     {
       "uid": "LTGO|Tananbaum James B.|2026-08-10|140000.0|18.0",
@@ -1965,45 +1926,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1404655/000119312526342825/ownership.xml"
     },
     {
-      "uid": "ET|Perry James Richard|2026-08-07|12359.372|20.2276",
-      "symbol": "ET",
-      "companyName": "Energy Transfer LP",
-      "reportingName": "Perry James Richard",
-      "title": "",
-      "transactionDate": "2026-08-07",
-      "filingDatetime": "2026-08-10 18:00 ET",
-      "shares": 12359.372,
-      "price": 20.2276,
-      "totalValue": 250000.43,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526342811/ownership.xml"
-    },
-    {
-      "uid": "LINE|LeMasters Robb A.|2026-08-07|20000.0|41.3319",
-      "symbol": "LINE",
-      "companyName": "Lineage, Inc.",
-      "reportingName": "LeMasters Robb A.",
-      "title": "Chief Financial Officer",
-      "transactionDate": "2026-08-07",
-      "filingDatetime": "2026-08-10 17:07 ET",
-      "shares": 20000.0,
-      "price": 41.3319,
-      "totalValue": 826638.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1645808/000164580826000002/wk-form4_1786396063.xml"
-    },
-    {
-      "uid": "DTM|Pickle Elaine M|2026-08-07|1500.0|132.61",
-      "symbol": "DTM",
-      "companyName": "DT Midstream, Inc.",
-      "reportingName": "Pickle Elaine M",
-      "title": "",
-      "transactionDate": "2026-08-07",
-      "filingDatetime": "2026-08-10 16:05 ET",
-      "shares": 1500.0,
-      "price": 132.61,
-      "totalValue": 198915.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1842022/000114036126032016/form4.xml"
-    },
-    {
       "uid": "CW|Lyash Jeffrey J.|2026-08-10|209.3801|711.62",
       "symbol": "CW",
       "companyName": "CURTISS WRIGHT CORP",
@@ -2028,71 +1950,6 @@
       "price": 23.6,
       "totalValue": 118000.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/63296/000006329626000078/wk-form4_1786388816.xml"
-    },
-    {
-      "uid": "SON|Coker R. Howard|2026-08-07|4345.0|57.4099",
-      "symbol": "SON",
-      "companyName": "SONOCO PRODUCTS CO",
-      "reportingName": "Coker R. Howard",
-      "title": "President & CEO",
-      "transactionDate": "2026-08-07",
-      "filingDatetime": "2026-08-10 12:23 ET",
-      "shares": 4345.0,
-      "price": 57.4099,
-      "totalValue": 249446.02,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/91767/000122520826007040/doc4.xml"
-    },
-    {
-      "uid": "CCB|Sprink Eric M|2026-08-06|10000.0|44.45",
-      "symbol": "CCB",
-      "companyName": "COASTAL FINANCIAL CORP",
-      "reportingName": "Sprink Eric M",
-      "title": "CEO",
-      "transactionDate": "2026-08-06",
-      "filingDatetime": "2026-08-07 19:35 ET",
-      "shares": 10000.0,
-      "price": 44.45,
-      "totalValue": 444500.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1299647/000129964726000020/wk-form4_1786145732.xml"
-    },
-    {
-      "uid": "BRVE|Forbion Growth Opportunities Fund III Cooperatief U.A.|2026-08-07|1920000.0|18.0",
-      "symbol": "BRVE",
-      "companyName": "Braveheart Bio, Inc.",
-      "reportingName": "Forbion Growth Opportunities Fund III Cooperatief U.A.",
-      "title": "",
-      "transactionDate": "2026-08-07",
-      "filingDatetime": "2026-08-07 17:25 ET",
-      "shares": 1920000.0,
-      "price": 18.0,
-      "totalValue": 34560000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/2050893/000119312526340528/ownership.xml"
-    },
-    {
-      "uid": "BRVE|Forbion Growth Opportunities Fund III Cooperatief U.A.|2026-08-07|1680000.0|18.0",
-      "symbol": "BRVE",
-      "companyName": "Braveheart Bio, Inc.",
-      "reportingName": "Forbion Growth Opportunities Fund III Cooperatief U.A.",
-      "title": "",
-      "transactionDate": "2026-08-07",
-      "filingDatetime": "2026-08-07 17:25 ET",
-      "shares": 1680000.0,
-      "price": 18.0,
-      "totalValue": 30240000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/2050893/000119312526340528/ownership.xml"
-    },
-    {
-      "uid": "BRVE|Rickey James Paul|2026-08-07|27777.0|18.0",
-      "symbol": "BRVE",
-      "companyName": "Braveheart Bio, Inc.",
-      "reportingName": "Rickey James Paul",
-      "title": "Chief Financial Officer",
-      "transactionDate": "2026-08-07",
-      "filingDatetime": "2026-08-07 16:41 ET",
-      "shares": 27777.0,
-      "price": 18.0,
-      "totalValue": 499986.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1606243/000147083126000804/wk-form4_1786135298.xml"
     }
   ]
 }
