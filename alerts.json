@@ -1,6 +1,45 @@
 {
-  "updated": "2026-09-08 17:02 UTC",
+  "updated": "2026-09-08 19:53 UTC",
   "alerts": [
+    {
+      "uid": "TSN|Schomburger Jeffrey K|2026-09-04|19450.0|51.497",
+      "symbol": "TSN",
+      "companyName": "TYSON FOODS, INC.",
+      "reportingName": "Schomburger Jeffrey K",
+      "title": "President & CEO Elect",
+      "transactionDate": "2026-09-04",
+      "filingDatetime": "2026-09-08 15:51 ET",
+      "shares": 19450.0,
+      "price": 51.497,
+      "totalValue": 1001616.65,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/100493/000162828026060888/wk-form4_1788897113.xml"
+    },
+    {
+      "uid": "KMT|HARSHMAN RICHARD J|2026-09-04|5000.0|30.21",
+      "symbol": "KMT",
+      "companyName": "KENNAMETAL INC",
+      "reportingName": "HARSHMAN RICHARD J",
+      "title": "",
+      "transactionDate": "2026-09-04",
+      "filingDatetime": "2026-09-08 15:40 ET",
+      "shares": 5000.0,
+      "price": 30.21,
+      "totalValue": 151050.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/55242/000120024426000006/primary_doc.xml"
+    },
+    {
+      "uid": "TISI|Roeder Clinton William|2026-09-03|8000.0|27.59",
+      "symbol": "TISI",
+      "companyName": "TEAM INC",
+      "reportingName": "Roeder Clinton William",
+      "title": "Chief Financial Officer",
+      "transactionDate": "2026-09-03",
+      "filingDatetime": "2026-09-08 14:39 ET",
+      "shares": 8000.0,
+      "price": 27.59,
+      "totalValue": 220720.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/318833/000214186626000006/wk-form4_1788892758.xml"
+    },
     {
       "uid": "ENOV|McDonald Damien|2026-09-04|13035.0|19.15",
       "symbol": "ENOV",
