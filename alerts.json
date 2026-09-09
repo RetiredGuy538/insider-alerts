@@ -1,6 +1,58 @@
 {
-  "updated": "2026-09-09 00:25 UTC",
+  "updated": "2026-09-09 04:57 UTC",
   "alerts": [
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-09-08|1847.0|223.85",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-09-08",
+      "filingDatetime": "2026-09-08 20:36 ET",
+      "shares": 1847.0,
+      "price": 223.85,
+      "totalValue": 413450.95,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000012/primary_doc.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-09-08|2109.0|225.21",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-09-08",
+      "filingDatetime": "2026-09-08 20:36 ET",
+      "shares": 2109.0,
+      "price": 225.21,
+      "totalValue": 474967.89,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000012/primary_doc.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-09-08|2749.0|226.13",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-09-08",
+      "filingDatetime": "2026-09-08 20:36 ET",
+      "shares": 2749.0,
+      "price": 226.13,
+      "totalValue": 621631.37,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000012/primary_doc.xml"
+    },
+    {
+      "uid": "AMR|Courtis Kenneth S.|2026-09-08|2891.0|226.92",
+      "symbol": "AMR",
+      "companyName": "Alpha Metallurgical Resources, Inc.",
+      "reportingName": "Courtis Kenneth S.",
+      "title": "",
+      "transactionDate": "2026-09-08",
+      "filingDatetime": "2026-09-08 20:36 ET",
+      "shares": 2891.0,
+      "price": 226.92,
+      "totalValue": 656025.72,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000012/primary_doc.xml"
+    },
     {
       "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-09-08|50000.0|9.9",
       "symbol": "SUJA",
