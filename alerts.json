@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-09 21:57 UTC",
+  "updated": "2026-09-09 23:51 UTC",
   "alerts": [
+    {
+      "uid": "ENHA|Apeiron Investment Group Ltd.|2026-09-09|99342.0|1.6043",
+      "symbol": "ENHA",
+      "companyName": "Enhanced Group Inc.",
+      "reportingName": "Apeiron Investment Group Ltd.",
+      "title": "",
+      "transactionDate": "2026-09-09",
+      "filingDatetime": "2026-09-09 19:08 ET",
+      "shares": 99342.0,
+      "price": 1.6043,
+      "totalValue": 159374.37,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526386771/ownership.xml"
+    },
     {
       "uid": "SEI|TEAGUE AJ|2026-09-08|3900.0|64.21",
       "symbol": "SEI",
