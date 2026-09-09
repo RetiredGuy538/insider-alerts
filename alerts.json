@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-09 16:59 UTC",
+  "updated": "2026-09-09 19:39 UTC",
   "alerts": [
+    {
+      "uid": "SEI|TEAGUE AJ|2026-09-08|3900.0|64.21",
+      "symbol": "SEI",
+      "companyName": "Solaris Energy Infrastructure, Inc.",
+      "reportingName": "TEAGUE AJ",
+      "title": "",
+      "transactionDate": "2026-09-08",
+      "filingDatetime": "2026-09-09 14:55 ET",
+      "shares": 3900.0,
+      "price": 64.21,
+      "totalValue": 250419.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1183251/000162828026061096/wk-form4_1788980103.xml"
+    },
+    {
+      "uid": "SEI|TEAGUE AJ|2026-09-08|3900.0|64.25",
+      "symbol": "SEI",
+      "companyName": "Solaris Energy Infrastructure, Inc.",
+      "reportingName": "TEAGUE AJ",
+      "title": "",
+      "transactionDate": "2026-09-08",
+      "filingDatetime": "2026-09-09 14:55 ET",
+      "shares": 3900.0,
+      "price": 64.25,
+      "totalValue": 250575.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1183251/000162828026061096/wk-form4_1788980103.xml"
+    },
     {
       "uid": "AMR|Courtis Kenneth S.|2026-09-08|1847.0|223.85",
       "symbol": "AMR",
