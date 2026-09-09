@@ -1,6 +1,45 @@
 {
-  "updated": "2026-09-08 22:19 UTC",
+  "updated": "2026-09-09 00:25 UTC",
   "alerts": [
+    {
+      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-09-08|50000.0|9.9",
+      "symbol": "SUJA",
+      "companyName": "SUJA LIFE, INC.",
+      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+      "title": "",
+      "transactionDate": "2026-09-08",
+      "filingDatetime": "2026-09-08 19:03 ET",
+      "shares": 50000.0,
+      "price": 9.9,
+      "totalValue": 495000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126035951/form4.xml"
+    },
+    {
+      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-09-04|125000.0|10.48",
+      "symbol": "SUJA",
+      "companyName": "SUJA LIFE, INC.",
+      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+      "title": "",
+      "transactionDate": "2026-09-04",
+      "filingDatetime": "2026-09-08 19:03 ET",
+      "shares": 125000.0,
+      "price": 10.48,
+      "totalValue": 1310000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126035951/form4.xml"
+    },
+    {
+      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-09-03|125000.0|10.57",
+      "symbol": "SUJA",
+      "companyName": "SUJA LIFE, INC.",
+      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
+      "title": "",
+      "transactionDate": "2026-09-03",
+      "filingDatetime": "2026-09-08 19:03 ET",
+      "shares": 125000.0,
+      "price": 10.57,
+      "totalValue": 1321250.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126035951/form4.xml"
+    },
     {
       "uid": "GME|Cheng Lawrence|2026-09-08|55000.0|18.7992",
       "symbol": "GME",
