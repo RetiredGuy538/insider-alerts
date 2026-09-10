@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-10 21:44 UTC",
+  "updated": "2026-09-10 23:25 UTC",
   "alerts": [
+    {
+      "uid": "UPST|Gu Paul|2026-09-10|50000.0|25.55",
+      "symbol": "UPST",
+      "companyName": "Upstart Holdings, Inc.",
+      "reportingName": "Gu Paul",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-09-10",
+      "filingDatetime": "2026-09-10 19:13 ET",
+      "shares": 50000.0,
+      "price": 25.55,
+      "totalValue": 1277500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1647639/000183281226000010/wk-form4_1789082008.xml"
+    },
     {
       "uid": "UBER|KHOSROWSHAHI DARA|2026-09-10|141000.0|70.9642",
       "symbol": "UBER",
