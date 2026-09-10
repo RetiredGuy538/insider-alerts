@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-10 02:49 UTC",
+  "updated": "2026-09-10 16:51 UTC",
   "alerts": [
+    {
+      "uid": "UBER|KHOSROWSHAHI DARA|2026-09-10|141000.0|70.9642",
+      "symbol": "UBER",
+      "companyName": "Uber Technologies, Inc",
+      "reportingName": "KHOSROWSHAHI DARA",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-09-10",
+      "filingDatetime": "2026-09-10 12:40 ET",
+      "shares": 141000.0,
+      "price": 70.9642,
+      "totalValue": 10005952.2,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1184237/000118423726000008/primarydocument.xml"
+    },
     {
       "uid": "ALMS|AKKARAJU SRINIVAS|2026-09-08|273291.0|10.6271",
       "symbol": "ALMS",
