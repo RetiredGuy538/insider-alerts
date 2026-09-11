@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-11 19:24 UTC",
+  "updated": "2026-09-11 21:49 UTC",
   "alerts": [
+    {
+      "uid": "GLOO|GELSINGER PATRICK P|2026-09-11|50000.0|3.3375",
+      "symbol": "GLOO",
+      "companyName": "Gloo Holdings, Inc.",
+      "reportingName": "GELSINGER PATRICK P",
+      "title": "See Remarks",
+      "transactionDate": "2026-09-11",
+      "filingDatetime": "2026-09-11 17:14 ET",
+      "shares": 50000.0,
+      "price": 3.3375,
+      "totalValue": 166875.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1316331/000131633126000012/form4-09112026_090957.xml"
+    },
     {
       "uid": "ATEC|Miles Patrick|2026-09-10|115000.0|8.81",
       "symbol": "ATEC",
