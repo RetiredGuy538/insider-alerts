@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-11 01:18 UTC",
+  "updated": "2026-09-11 06:20 UTC",
   "alerts": [
     {
       "uid": "ATEC|Miles Patrick|2026-09-10|115000.0|8.81",
@@ -13,6 +13,32 @@
       "price": 8.81,
       "totalValue": 1013150.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1289409/000128940926000008/form4-09112026_120939.xml"
+    },
+    {
+      "uid": "PRTS|Huffaker Michael|2026-09-10|13250.0|10.06",
+      "symbol": "PRTS",
+      "companyName": "CarParts.com, Inc.",
+      "reportingName": "Huffaker Michael",
+      "title": "COO",
+      "transactionDate": "2026-09-10",
+      "filingDatetime": "2026-09-10 20:01 ET",
+      "shares": 13250.0,
+      "price": 10.06,
+      "totalValue": 133295.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1378950/000114036126036239/form4.xml"
+    },
+    {
+      "uid": "PRTS|Meniane David|2026-09-10|13250.0|10.06",
+      "symbol": "PRTS",
+      "companyName": "CarParts.com, Inc.",
+      "reportingName": "Meniane David",
+      "title": "CEO",
+      "transactionDate": "2026-09-10",
+      "filingDatetime": "2026-09-10 19:57 ET",
+      "shares": 13250.0,
+      "price": 10.06,
+      "totalValue": 133295.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1378950/000114036126036237/form4.xml"
     },
     {
       "uid": "UPST|Gu Paul|2026-09-10|50000.0|25.55",
