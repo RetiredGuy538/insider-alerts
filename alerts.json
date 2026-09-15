@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-15 05:07 UTC",
+  "updated": "2026-09-15 17:26 UTC",
   "alerts": [
+    {
+      "uid": "RWT|Carillo Brooke|2026-09-15|26065.0|3.8457",
+      "symbol": "RWT",
+      "companyName": "REDWOOD TRUST INC",
+      "reportingName": "Carillo Brooke",
+      "title": "Chief Financial Officer",
+      "transactionDate": "2026-09-15",
+      "filingDatetime": "2026-09-15 13:16 ET",
+      "shares": 26065.0,
+      "price": 3.8457,
+      "totalValue": 100238.17,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/930236/000186273926000004/edgardoc.xml"
+    },
     {
       "uid": "PMTS|Riley H Sanford|2026-09-14|13953.0|21.5",
       "symbol": "PMTS",
