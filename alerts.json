@@ -1,6 +1,45 @@
 {
-  "updated": "2026-09-14 21:56 UTC",
+  "updated": "2026-09-15 00:18 UTC",
   "alerts": [
+    {
+      "uid": "PMTS|Riley H Sanford|2026-09-14|13953.0|21.5",
+      "symbol": "PMTS",
+      "companyName": "CPI Card Group Inc.",
+      "reportingName": "Riley H Sanford",
+      "title": "",
+      "transactionDate": "2026-09-14",
+      "filingDatetime": "2026-09-14 19:45 ET",
+      "shares": 13953.0,
+      "price": 21.5,
+      "totalValue": 299989.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1317406/000131740626000006/wk-form4_1789429555.xml"
+    },
+    {
+      "uid": "PMTS|Peters Nicholas|2026-09-14|11628.0|21.5",
+      "symbol": "PMTS",
+      "companyName": "CPI Card Group Inc.",
+      "reportingName": "Peters Nicholas",
+      "title": "",
+      "transactionDate": "2026-09-14",
+      "filingDatetime": "2026-09-14 19:42 ET",
+      "shares": 11628.0,
+      "price": 21.5,
+      "totalValue": 250002.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1641614/000165477026000004/wk-form4_1789429346.xml"
+    },
+    {
+      "uid": "DVN|Gaspar Clay M|2026-09-14|3913.0|51.08",
+      "symbol": "DVN",
+      "companyName": "DEVON ENERGY CORP/DE",
+      "reportingName": "Gaspar Clay M",
+      "title": "PRESIDENT AND CEO",
+      "transactionDate": "2026-09-14",
+      "filingDatetime": "2026-09-14 19:33 ET",
+      "shares": 3913.0,
+      "price": 51.08,
+      "totalValue": 199876.04,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1090012/000109001226000124/form4.xml"
+    },
     {
       "uid": "PVH|Larsson Stefan|2026-09-11|14179.102|70.5264",
       "symbol": "PVH",
