@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-16 01:24 UTC",
+  "updated": "2026-09-16 06:21 UTC",
   "alerts": [
+    {
+      "uid": "FTK|Wilks Matthew|2026-09-11|1319493.0|26.01",
+      "symbol": "FTK",
+      "companyName": "FLOTEK INDUSTRIES INC/CN/",
+      "reportingName": "Wilks Matthew",
+      "title": "",
+      "transactionDate": "2026-09-11",
+      "filingDatetime": "2026-09-15 21:30 ET",
+      "shares": 1319493.0,
+      "price": 26.01,
+      "totalValue": 34320012.93,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/928054/000110465926108024/tm2625501-2_4seq1.xml"
+    },
     {
       "uid": "NTHI|Heshmatpour Amir F|2026-09-15|35000.0|3.297",
       "symbol": "NTHI",
