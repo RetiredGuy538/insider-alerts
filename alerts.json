@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-16 20:19 UTC",
+  "updated": "2026-09-16 23:07 UTC",
   "alerts": [
+    {
+      "uid": "FOX|MURDOCH LACHLAN K|2026-09-15|149934.0|68.53",
+      "symbol": "FOX",
+      "companyName": "Fox Corp",
+      "reportingName": "MURDOCH LACHLAN K",
+      "title": "Executive Chair, CEO",
+      "transactionDate": "2026-09-15",
+      "filingDatetime": "2026-09-16 18:02 ET",
+      "shares": 149934.0,
+      "price": 68.53,
+      "totalValue": 10274977.02,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1242818/000162828026062330/wk-form4_1789596176.xml"
+    },
     {
       "uid": "FTK|Wilks Matthew|2026-09-11|1319493.0|26.01",
       "symbol": "FTK",
