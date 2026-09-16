@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-15 23:01 UTC",
+  "updated": "2026-09-16 01:24 UTC",
   "alerts": [
+    {
+      "uid": "NTHI|Heshmatpour Amir F|2026-09-15|35000.0|3.297",
+      "symbol": "NTHI",
+      "companyName": "NEONC TECHNOLOGIES HOLDINGS, INC.",
+      "reportingName": "Heshmatpour Amir F",
+      "title": "CEO, President",
+      "transactionDate": "2026-09-15",
+      "filingDatetime": "2026-09-15 20:47 ET",
+      "shares": 35000.0,
+      "price": 3.297,
+      "totalValue": 115395.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1443035/000121390026100269/marketforms-73992.xml"
+    },
     {
       "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-09-11|171144.0|34.6095",
       "symbol": "CRBG",
