@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16 23:07 UTC",
+  "updated": "2026-09-17 01:23 UTC",
   "alerts": [
     {
       "uid": "FOX|MURDOCH LACHLAN K|2026-09-15|149934.0|68.53",
@@ -1172,58 +1172,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526357979/ownership.xml"
     },
     {
-      "uid": "LIEN|Mazarakis John|2026-08-17|60000.0|9.44",
-      "symbol": "LIEN",
-      "companyName": "Chicago Atlantic BDC, Inc.",
-      "reportingName": "Mazarakis John",
-      "title": "",
-      "transactionDate": "2026-08-17",
-      "filingDatetime": "2026-08-19 21:56 ET",
-      "shares": 60000.0,
-      "price": 9.44,
-      "totalValue": 566400.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1843162/000119312526357420/ownership.xml"
-    },
-    {
-      "uid": "MFP|Nerbonne Robert A|2026-08-17|10900.0|45.05",
-      "symbol": "MFP",
-      "companyName": "Midera Food Processing, Inc.",
-      "reportingName": "Nerbonne Robert A",
-      "title": "",
-      "transactionDate": "2026-08-17",
-      "filingDatetime": "2026-08-19 18:34 ET",
-      "shares": 10900.0,
-      "price": 45.05,
-      "totalValue": 491045.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1785033/000119312526357255/ownership.xml"
-    },
-    {
-      "uid": "REFI|Mazarakis John|2026-08-17|25000.0|10.253",
-      "symbol": "REFI",
-      "companyName": "Chicago Atlantic Real Estate Finance, Inc.",
-      "reportingName": "Mazarakis John",
-      "title": "Executive Chairman",
-      "transactionDate": "2026-08-17",
-      "filingDatetime": "2026-08-19 17:23 ET",
-      "shares": 25000.0,
-      "price": 10.253,
-      "totalValue": 256325.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1867660/000121390026091788/ownership.xml"
-    },
-    {
-      "uid": "REFI|Cappell Anthony|2026-08-17|45000.0|10.405",
-      "symbol": "REFI",
-      "companyName": "Chicago Atlantic Real Estate Finance, Inc.",
-      "reportingName": "Cappell Anthony",
-      "title": "Co-Chief Executive Officer",
-      "transactionDate": "2026-08-17",
-      "filingDatetime": "2026-08-19 17:22 ET",
-      "shares": 45000.0,
-      "price": 10.405,
-      "totalValue": 468225.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1867949/000121390026091787/ownership.xml"
-    },
-    {
       "uid": "GLPI|SHANKS EARL C|2026-08-18|10000.0|42.24",
       "symbol": "GLPI",
       "companyName": "Gaming & Leisure Properties, Inc.",
@@ -1263,19 +1211,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1816739/000162828026057900/wk-form4_1787163725.xml"
     },
     {
-      "uid": "AUGO|Sousa Mauad Bruno|2026-08-17|11000.0|78.93",
-      "symbol": "AUGO",
-      "companyName": "Aura Minerals Inc.",
-      "reportingName": "Sousa Mauad Bruno",
-      "title": "",
-      "transactionDate": "2026-08-17",
-      "filingDatetime": "2026-08-18 17:51 ET",
-      "shares": 11000.0,
-      "price": 78.93,
-      "totalValue": 868230.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1468642/000211790526000018/primary_doc.xml"
-    },
-    {
       "uid": "FRPH|BAKER JOHN D II|2026-08-18|8189.0|21.97",
       "symbol": "FRPH",
       "companyName": "FRP HOLDINGS, INC.",
@@ -1287,58 +1222,6 @@
       "price": 21.97,
       "totalValue": 179912.33,
       "secLink": "https://www.sec.gov/Archives/edgar/data/844059/000089706926001700/form4.xml"
-    },
-    {
-      "uid": "ECG|SPARBY DAVID M|2026-08-17|1000.0|144.95",
-      "symbol": "ECG",
-      "companyName": "Everus Construction Group, Inc.",
-      "reportingName": "SPARBY DAVID M",
-      "title": "",
-      "transactionDate": "2026-08-17",
-      "filingDatetime": "2026-08-18 10:13 ET",
-      "shares": 1000.0,
-      "price": 144.95,
-      "totalValue": 144950.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1159192/000122520826007147/doc4.xml"
-    },
-    {
-      "uid": "ENHA|Apeiron Investment Group Ltd.|2026-08-17|200000.0|1.6521",
-      "symbol": "ENHA",
-      "companyName": "Enhanced Group Inc.",
-      "reportingName": "Apeiron Investment Group Ltd.",
-      "title": "",
-      "transactionDate": "2026-08-17",
-      "filingDatetime": "2026-08-18 08:55 ET",
-      "shares": 200000.0,
-      "price": 1.6521,
-      "totalValue": 330420.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526354788/ownership.xml"
-    },
-    {
-      "uid": "REZI|Mehta Amit Ashvin|2026-08-17|10928.4|20.68",
-      "symbol": "REZI",
-      "companyName": "RESIDEO TECHNOLOGIES, INC.",
-      "reportingName": "Mehta Amit Ashvin",
-      "title": "SVP, Strategy & Business Ops",
-      "transactionDate": "2026-08-17",
-      "filingDatetime": "2026-08-18 07:33 ET",
-      "shares": 10928.4,
-      "price": 20.68,
-      "totalValue": 225999.31,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1740332/000214858026000003/wk-form4_1787052821.xml"
-    },
-    {
-      "uid": "KEEL|WILSON LIAM DANIEL|2026-08-17|26472.0|3.78",
-      "symbol": "KEEL",
-      "companyName": "Keel Infrastructure Corp.",
-      "reportingName": "WILSON LIAM DANIEL",
-      "title": "Chief Operating Officer",
-      "transactionDate": "2026-08-17",
-      "filingDatetime": "2026-08-17 17:04 ET",
-      "shares": 26472.0,
-      "price": 3.78,
-      "totalValue": 100064.16,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1812477/000181247726000027/wk-form4_1787000696.xml"
     }
   ]
 }
