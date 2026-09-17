@@ -1,6 +1,32 @@
 {
-  "updated": "2026-09-17 06:23 UTC",
+  "updated": "2026-09-17 17:26 UTC",
   "alerts": [
+    {
+      "uid": "ADC|RAKOLTA JOHN JR|2026-09-16|20000.0|68.78",
+      "symbol": "ADC",
+      "companyName": "AGREE REALTY CORP",
+      "reportingName": "RAKOLTA JOHN JR",
+      "title": "",
+      "transactionDate": "2026-09-16",
+      "filingDatetime": "2026-09-17 07:00 ET",
+      "shares": 20000.0,
+      "price": 68.78,
+      "totalValue": 1375600.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/917251/000152815326000015/wk-form4_1789642839.xml"
+    },
+    {
+      "uid": "ADC|Agree Joey|2026-09-16|7360.0|68.06",
+      "symbol": "ADC",
+      "companyName": "AGREE REALTY CORP",
+      "reportingName": "Agree Joey",
+      "title": "PRESIDENT & CEO",
+      "transactionDate": "2026-09-16",
+      "filingDatetime": "2026-09-17 07:00 ET",
+      "shares": 7360.0,
+      "price": 68.06,
+      "totalValue": 500921.6,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/917251/000134849026000006/wk-form4_1789642821.xml"
+    },
     {
       "uid": "FOX|MURDOCH LACHLAN K|2026-09-15|149934.0|68.53",
       "symbol": "FOX",
