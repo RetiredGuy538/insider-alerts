@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-17 22:59 UTC",
+  "updated": "2026-09-18 01:10 UTC",
   "alerts": [
     {
       "uid": "ADC|RAKOLTA JOHN JR|2026-09-16|20000.0|68.78",
@@ -964,19 +964,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/2001557/000162828026058331/wk-form4_1787318246.xml"
     },
     {
-      "uid": "MOBI|Tansey Casey M|2026-08-18|16441.0|12.0749",
-      "symbol": "MOBI",
-      "companyName": "Mobia Medical, Inc.",
-      "reportingName": "Tansey Casey M",
-      "title": "",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-20 21:05 ET",
-      "shares": 16441.0,
-      "price": 12.0749,
-      "totalValue": 198523.43,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1474322/000119312526359683/ownership.xml"
-    },
-    {
       "uid": "AMR|Courtis Kenneth S.|2026-08-20|943.0|190.77",
       "symbol": "AMR",
       "companyName": "Alpha Metallurgical Resources, Inc.",
@@ -1042,19 +1029,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000008/primary_doc.xml"
     },
     {
-      "uid": "IAUX|Young Richard Scott|2026-08-18|1000000.0|1.62",
-      "symbol": "IAUX",
-      "companyName": "i-80 Gold Corp.",
-      "reportingName": "Young Richard Scott",
-      "title": "President and CEO",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-20 18:30 ET",
-      "shares": 1000000.0,
-      "price": 1.62,
-      "totalValue": 1620000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1853962/000091228226001136/form4.xml"
-    },
-    {
       "uid": "SENS|ROEDER DOUGLAS A|2026-08-19|13953.2843|8.98",
       "symbol": "SENS",
       "companyName": "Senseonics Holdings, Inc.",
@@ -1094,19 +1068,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126033922/form4.xml"
     },
     {
-      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-08-18|189300.0|6.73",
-      "symbol": "SUJA",
-      "companyName": "SUJA LIFE, INC.",
-      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-      "title": "",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-20 17:59 ET",
-      "shares": 189300.0,
-      "price": 6.73,
-      "totalValue": 1273989.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126033922/form4.xml"
-    },
-    {
       "uid": "ET|WARREN KELCY L|2026-08-19|647968.0|21.26",
       "symbol": "ET",
       "companyName": "Energy Transfer LP",
@@ -1117,19 +1078,6 @@
       "shares": 647968.0,
       "price": 21.26,
       "totalValue": 13775799.68,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526359388/ownership.xml"
-    },
-    {
-      "uid": "ET|WARREN KELCY L|2026-08-18|352032.0|21.27",
-      "symbol": "ET",
-      "companyName": "Energy Transfer LP",
-      "reportingName": "WARREN KELCY L",
-      "title": "",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-20 17:14 ET",
-      "shares": 352032.0,
-      "price": 21.27,
-      "totalValue": 7487720.64,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1276187/000119312526359388/ownership.xml"
     },
     {
@@ -1146,32 +1094,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/908255/000122520826007231/doc4.xml"
     },
     {
-      "uid": "FFIN|Denny Michael B.|2026-08-18|3000.0|34.66",
-      "symbol": "FFIN",
-      "companyName": "FIRST FINANCIAL BANKSHARES INC",
-      "reportingName": "Denny Michael B.",
-      "title": "",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-20 11:09 ET",
-      "shares": 3000.0,
-      "price": 34.66,
-      "totalValue": 103980.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/36029/000119312526358683/ownership.xml"
-    },
-    {
-      "uid": "PSUS|POLSKY LISA|2026-08-18|6177.0|39.45",
-      "symbol": "PSUS",
-      "companyName": "Pershing Square USA, Ltd.",
-      "reportingName": "POLSKY LISA",
-      "title": "",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-20 08:16 ET",
-      "shares": 6177.0,
-      "price": 39.45,
-      "totalValue": 243682.65,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1390950/000119312526358101/ownership.xml"
-    },
-    {
       "uid": "ENHA|Apeiron Investment Group Ltd.|2026-08-19|1619316.0|1.66",
       "symbol": "ENHA",
       "companyName": "Enhanced Group Inc.",
@@ -1183,71 +1105,6 @@
       "price": 1.66,
       "totalValue": 2688064.56,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526357979/ownership.xml"
-    },
-    {
-      "uid": "ENHA|Apeiron Investment Group Ltd.|2026-08-18|93000.0|1.7012",
-      "symbol": "ENHA",
-      "companyName": "Enhanced Group Inc.",
-      "reportingName": "Apeiron Investment Group Ltd.",
-      "title": "",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-20 07:30 ET",
-      "shares": 93000.0,
-      "price": 1.7012,
-      "totalValue": 158211.6,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526357979/ownership.xml"
-    },
-    {
-      "uid": "GLPI|SHANKS EARL C|2026-08-18|10000.0|42.24",
-      "symbol": "GLPI",
-      "companyName": "Gaming & Leisure Properties, Inc.",
-      "reportingName": "SHANKS EARL C",
-      "title": "",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-19 16:18 ET",
-      "shares": 10000.0,
-      "price": 42.24,
-      "totalValue": 422400.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1228408/000157596526000065/primary_01.xml"
-    },
-    {
-      "uid": "SGRY|DeLuca Teresa|2026-08-18|10000.0|14.35",
-      "symbol": "SGRY",
-      "companyName": "Surgery Partners, Inc.",
-      "reportingName": "DeLuca Teresa",
-      "title": "",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-19 16:17 ET",
-      "shares": 10000.0,
-      "price": 14.35,
-      "totalValue": 143500.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1638833/000163883326000079/wk-form4_1787170661.xml"
-    },
-    {
-      "uid": "BKKT|ALFRED MICHAEL|2026-08-18|296567.0|7.12",
-      "symbol": "BKKT",
-      "companyName": "Bakkt, Inc.",
-      "reportingName": "ALFRED MICHAEL",
-      "title": "",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-19 14:22 ET",
-      "shares": 296567.0,
-      "price": 7.12,
-      "totalValue": 2111557.04,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1816739/000162828026057900/wk-form4_1787163725.xml"
-    },
-    {
-      "uid": "FRPH|BAKER JOHN D II|2026-08-18|8189.0|21.97",
-      "symbol": "FRPH",
-      "companyName": "FRP HOLDINGS, INC.",
-      "reportingName": "BAKER JOHN D II",
-      "title": "",
-      "transactionDate": "2026-08-18",
-      "filingDatetime": "2026-08-18 17:38 ET",
-      "shares": 8189.0,
-      "price": 21.97,
-      "totalValue": 179912.33,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/844059/000089706926001700/form4.xml"
     }
   ]
 }
