@@ -1,6 +1,58 @@
 {
-  "updated": "2026-09-23 17:39 UTC",
+  "updated": "2026-09-23 20:41 UTC",
   "alerts": [
+    {
+      "uid": "KBDC|ROBO JAMES L|2026-09-23|94120.0|13.079",
+      "symbol": "KBDC",
+      "companyName": "Kayne Anderson BDC, Inc.",
+      "reportingName": "ROBO JAMES L",
+      "title": "",
+      "transactionDate": "2026-09-23",
+      "filingDatetime": "2026-09-23 16:32 ET",
+      "shares": 94120.0,
+      "price": 13.079,
+      "totalValue": 1230995.48,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1183254/000118325426000006/primary_doc.xml"
+    },
+    {
+      "uid": "KBDC|ROBO JAMES L|2026-09-22|20841.0|13.135",
+      "symbol": "KBDC",
+      "companyName": "Kayne Anderson BDC, Inc.",
+      "reportingName": "ROBO JAMES L",
+      "title": "",
+      "transactionDate": "2026-09-22",
+      "filingDatetime": "2026-09-23 16:32 ET",
+      "shares": 20841.0,
+      "price": 13.135,
+      "totalValue": 273746.53,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1183254/000118325426000006/primary_doc.xml"
+    },
+    {
+      "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-09-21|212828.0|35.0797",
+      "symbol": "CRBG",
+      "companyName": "Corebridge Financial, Inc.",
+      "reportingName": "NIPPON LIFE INSURANCE CO",
+      "title": "",
+      "transactionDate": "2026-09-21",
+      "filingDatetime": "2026-09-23 16:30 ET",
+      "shares": 212828.0,
+      "price": 35.0797,
+      "totalValue": 7465942.39,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526399477/ownership.xml"
+    },
+    {
+      "uid": "TNC|ALLEN PATRICK E|2026-08-31|3000.0|69.4168",
+      "symbol": "TNC",
+      "companyName": "TENNANT CO",
+      "reportingName": "ALLEN PATRICK E",
+      "title": "",
+      "transactionDate": "2026-08-31",
+      "filingDatetime": "2026-09-23 16:28 ET",
+      "shares": 3000.0,
+      "price": 69.4168,
+      "totalValue": 208250.4,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/97134/000119156926000012/form4-09232026_080956.xml"
+    },
     {
       "uid": "ENHA|Apeiron Investment Group Ltd.|2026-09-17|6080047.0|1.15",
       "symbol": "ENHA",
