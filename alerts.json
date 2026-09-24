@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-24 20:47 UTC",
+  "updated": "2026-09-24 23:43 UTC",
   "alerts": [
+    {
+      "uid": "HHH|GRANDISSON MARC|2026-09-23|25000.0|64.1175",
+      "symbol": "HHH",
+      "companyName": "Howard Hughes Holdings Inc.",
+      "reportingName": "GRANDISSON MARC",
+      "title": "Executive Chairman, Vantage",
+      "transactionDate": "2026-09-23",
+      "filingDatetime": "2026-09-24 19:15 ET",
+      "shares": 25000.0,
+      "price": 64.1175,
+      "totalValue": 1602937.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1286007/000110465926110505/tm2626083-2_4seq1.xml"
+    },
     {
       "uid": "AIAI|Affeldt Eric|2026-09-22|42857.0|3.5",
       "symbol": "AIAI",
