@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24 23:43 UTC",
+  "updated": "2026-09-25 01:56 UTC",
   "alerts": [
     {
       "uid": "HHH|GRANDISSON MARC|2026-09-23|25000.0|64.1175",
@@ -741,71 +741,6 @@
       "price": 62.8438,
       "totalValue": 1885314.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1206264/000120639926000007/wk-form4_1787868378.xml"
-    },
-    {
-      "uid": "KDP|Alt Aaron E|2026-08-25|7862.0|31.83",
-      "symbol": "KDP",
-      "companyName": "Keurig Dr Pepper Inc.",
-      "reportingName": "Alt Aaron E",
-      "title": "",
-      "transactionDate": "2026-08-25",
-      "filingDatetime": "2026-08-27 18:00 ET",
-      "shares": 7862.0,
-      "price": 31.83,
-      "totalValue": 250247.46,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1418135/000174157626000008/wk-form4_1787868046.xml"
-    },
-    {
-      "uid": "BRTMU|B&R Technology Sponsor LLC (Cayman)|2026-08-25|52500.0|10.0",
-      "symbol": "BRTMU",
-      "companyName": "B&R Technology Merger Corp.",
-      "reportingName": "B&R Technology Sponsor LLC (Cayman)",
-      "title": "",
-      "transactionDate": "2026-08-25",
-      "filingDatetime": "2026-08-26 16:15 ET",
-      "shares": 52500.0,
-      "price": 10.0,
-      "totalValue": 525000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1181223/000119312526368535/ownership.xml"
-    },
-    {
-      "uid": "MAIR|La Force Andrew Hudson III|2026-08-25|20000.0|27.84",
-      "symbol": "MAIR",
-      "companyName": "Madison Air Solutions Corp",
-      "reportingName": "La Force Andrew Hudson III",
-      "title": "",
-      "transactionDate": "2026-08-25",
-      "filingDatetime": "2026-08-26 12:17 ET",
-      "shares": 20000.0,
-      "price": 27.84,
-      "totalValue": 556800.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1431218/000162828026059013/wk-form4_1787761059.xml"
-    },
-    {
-      "uid": "TTMI|Roks Edwin|2026-08-25|10000.0|111.77",
-      "symbol": "TTMI",
-      "companyName": "TTM TECHNOLOGIES INC",
-      "reportingName": "Roks Edwin",
-      "title": "President and CEO",
-      "transactionDate": "2026-08-25",
-      "filingDatetime": "2026-08-25 20:42 ET",
-      "shares": 10000.0,
-      "price": 111.77,
-      "totalValue": 1117700.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526365628/ownership.xml"
-    },
-    {
-      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-08-25|233624.0|9.21",
-      "symbol": "SUJA",
-      "companyName": "SUJA LIFE, INC.",
-      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-      "title": "",
-      "transactionDate": "2026-08-25",
-      "filingDatetime": "2026-08-25 19:31 ET",
-      "shares": 233624.0,
-      "price": 9.21,
-      "totalValue": 2151677.04,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126034358/form4.xml"
     }
   ]
 }
