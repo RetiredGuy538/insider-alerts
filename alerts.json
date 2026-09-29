@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-29 00:15 UTC",
+  "updated": "2026-09-29 05:48 UTC",
   "alerts": [
+    {
+      "uid": "INR|Baetz Cary D|2026-09-24|22000.0|13.441",
+      "symbol": "INR",
+      "companyName": "INFINITY NATURAL RESOURCES, INC.",
+      "reportingName": "Baetz Cary D",
+      "title": "EVP and CFO",
+      "transactionDate": "2026-09-24",
+      "filingDatetime": "2026-09-28 18:01 ET",
+      "shares": 22000.0,
+      "price": 13.441,
+      "totalValue": 295702.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1331940/000202911826000113/wk-form4_1790632866.xml"
+    },
     {
       "uid": "LEN|BERKSHIRE HATHAWAY INC|2026-09-25|313379.0|80.9",
       "symbol": "LEN",
