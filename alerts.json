@@ -1,6 +1,58 @@
 {
-  "updated": "2026-09-30 01:28 UTC",
+  "updated": "2026-09-30 07:11 UTC",
   "alerts": [
+    {
+      "uid": "ADRX|SR ONE CAPITAL MANAGEMENT, LLC|2026-09-28|592593.0|17.0",
+      "symbol": "ADRX",
+      "companyName": "ADARx Pharmaceuticals, Inc.",
+      "reportingName": "SR ONE CAPITAL MANAGEMENT, LLC",
+      "title": "",
+      "transactionDate": "2026-09-28",
+      "filingDatetime": "2026-09-29 21:45 ET",
+      "shares": 592593.0,
+      "price": 17.0,
+      "totalValue": 10074081.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526408064/ownership.xml"
+    },
+    {
+      "uid": "ADRX|SR ONE CAPITAL MANAGEMENT, LLC|2026-09-28|414814.0|17.0",
+      "symbol": "ADRX",
+      "companyName": "ADARx Pharmaceuticals, Inc.",
+      "reportingName": "SR ONE CAPITAL MANAGEMENT, LLC",
+      "title": "",
+      "transactionDate": "2026-09-28",
+      "filingDatetime": "2026-09-29 21:45 ET",
+      "shares": 414814.0,
+      "price": 17.0,
+      "totalValue": 7051838.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1802369/000119312526408064/ownership.xml"
+    },
+    {
+      "uid": "ADRX|George Simeon|2026-09-28|592593.0|17.0",
+      "symbol": "ADRX",
+      "companyName": "ADARx Pharmaceuticals, Inc.",
+      "reportingName": "George Simeon",
+      "title": "",
+      "transactionDate": "2026-09-28",
+      "filingDatetime": "2026-09-29 21:43 ET",
+      "shares": 592593.0,
+      "price": 17.0,
+      "totalValue": 10074081.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1595117/000119312526408061/ownership.xml"
+    },
+    {
+      "uid": "ADRX|George Simeon|2026-09-28|414814.0|17.0",
+      "symbol": "ADRX",
+      "companyName": "ADARx Pharmaceuticals, Inc.",
+      "reportingName": "George Simeon",
+      "title": "",
+      "transactionDate": "2026-09-28",
+      "filingDatetime": "2026-09-29 21:43 ET",
+      "shares": 414814.0,
+      "price": 17.0,
+      "totalValue": 7051838.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1595117/000119312526408061/ownership.xml"
+    },
     {
       "uid": "INR|Baetz Cary D|2026-09-24|22000.0|13.441",
       "symbol": "INR",
