@@ -1,6 +1,19 @@
 {
-  "updated": "2026-09-30 18:14 UTC",
+  "updated": "2026-09-30 22:20 UTC",
   "alerts": [
+    {
+      "uid": "ADRX|Chimovits Erez|2026-09-28|61516.0|17.0",
+      "symbol": "ADRX",
+      "companyName": "ADARx Pharmaceuticals, Inc.",
+      "reportingName": "Chimovits Erez",
+      "title": "",
+      "transactionDate": "2026-09-28",
+      "filingDatetime": "2026-09-30 17:29 ET",
+      "shares": 61516.0,
+      "price": 17.0,
+      "totalValue": 1045772.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1706399/000094787126000912/ownership.xml"
+    },
     {
       "uid": "ADRX|SR ONE CAPITAL MANAGEMENT, LLC|2026-09-28|592593.0|17.0",
       "symbol": "ADRX",
