@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-01 22:54 UTC",
+  "updated": "2026-10-02 01:56 UTC",
   "alerts": [
+    {
+      "uid": "GME|Turner Nat|2026-10-01|10462.0|24.33",
+      "symbol": "GME",
+      "companyName": "GameStop Corp.",
+      "reportingName": "Turner Nat",
+      "title": "",
+      "transactionDate": "2026-10-01",
+      "filingDatetime": "2026-10-01 20:55 ET",
+      "shares": 10462.0,
+      "price": 24.33,
+      "totalValue": 254540.46,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1326380/000182229326000002/wk-form4_1790902546.xml"
+    },
     {
       "uid": "GPI|Conifer Management, L.L.C.|2026-09-30|2133.0|238.3684",
       "symbol": "GPI",
