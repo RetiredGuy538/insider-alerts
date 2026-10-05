@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03 01:12 UTC",
+  "updated": "2026-10-05 03:45 UTC",
   "alerts": [
     {
       "uid": "GME|Turner Nat|2026-10-01|10462.0|24.33",
@@ -977,19 +977,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1253170/000123191926001158/form4-09102026_010944.xml"
     },
     {
-      "uid": "ALMS|AKKARAJU SRINIVAS|2026-09-04|220070.0|11.173",
-      "symbol": "ALMS",
-      "companyName": "ALUMIS INC.",
-      "reportingName": "AKKARAJU SRINIVAS",
-      "title": "",
-      "transactionDate": "2026-09-04",
-      "filingDatetime": "2026-09-09 21:39 ET",
-      "shares": 220070.0,
-      "price": 11.173,
-      "totalValue": 2458842.11,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1253170/000123191926001158/form4-09102026_010944.xml"
-    },
-    {
       "uid": "ENHA|Apeiron Investment Group Ltd.|2026-09-09|99342.0|1.6043",
       "symbol": "ENHA",
       "companyName": "Enhanced Group Inc.",
@@ -1094,32 +1081,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126035951/form4.xml"
     },
     {
-      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-09-04|125000.0|10.48",
-      "symbol": "SUJA",
-      "companyName": "SUJA LIFE, INC.",
-      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-      "title": "",
-      "transactionDate": "2026-09-04",
-      "filingDatetime": "2026-09-08 19:03 ET",
-      "shares": 125000.0,
-      "price": 10.48,
-      "totalValue": 1310000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126035951/form4.xml"
-    },
-    {
-      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-09-03|125000.0|10.57",
-      "symbol": "SUJA",
-      "companyName": "SUJA LIFE, INC.",
-      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-      "title": "",
-      "transactionDate": "2026-09-03",
-      "filingDatetime": "2026-09-08 19:03 ET",
-      "shares": 125000.0,
-      "price": 10.57,
-      "totalValue": 1321250.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126035951/form4.xml"
-    },
-    {
       "uid": "GME|Cheng Lawrence|2026-09-08|55000.0|18.7992",
       "symbol": "GME",
       "companyName": "GameStop Corp.",
@@ -1131,84 +1092,6 @@
       "price": 18.7992,
       "totalValue": 1033956.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1326380/000186828826000004/wk-form4_1788905495.xml"
-    },
-    {
-      "uid": "TSN|Schomburger Jeffrey K|2026-09-04|19450.0|51.497",
-      "symbol": "TSN",
-      "companyName": "TYSON FOODS, INC.",
-      "reportingName": "Schomburger Jeffrey K",
-      "title": "President & CEO Elect",
-      "transactionDate": "2026-09-04",
-      "filingDatetime": "2026-09-08 15:51 ET",
-      "shares": 19450.0,
-      "price": 51.497,
-      "totalValue": 1001616.65,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/100493/000162828026060888/wk-form4_1788897113.xml"
-    },
-    {
-      "uid": "KMT|HARSHMAN RICHARD J|2026-09-04|5000.0|30.21",
-      "symbol": "KMT",
-      "companyName": "KENNAMETAL INC",
-      "reportingName": "HARSHMAN RICHARD J",
-      "title": "",
-      "transactionDate": "2026-09-04",
-      "filingDatetime": "2026-09-08 15:40 ET",
-      "shares": 5000.0,
-      "price": 30.21,
-      "totalValue": 151050.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/55242/000120024426000006/primary_doc.xml"
-    },
-    {
-      "uid": "TISI|Roeder Clinton William|2026-09-03|8000.0|27.59",
-      "symbol": "TISI",
-      "companyName": "TEAM INC",
-      "reportingName": "Roeder Clinton William",
-      "title": "Chief Financial Officer",
-      "transactionDate": "2026-09-03",
-      "filingDatetime": "2026-09-08 14:39 ET",
-      "shares": 8000.0,
-      "price": 27.59,
-      "totalValue": 220720.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/318833/000214186626000006/wk-form4_1788892758.xml"
-    },
-    {
-      "uid": "ENOV|McDonald Damien|2026-09-04|13035.0|19.15",
-      "symbol": "ENOV",
-      "companyName": "Enovis CORP",
-      "reportingName": "McDonald Damien",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-09-04",
-      "filingDatetime": "2026-09-04 21:00 ET",
-      "shares": 13035.0,
-      "price": 19.15,
-      "totalValue": 249620.25,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1420800/000119312526384027/ownership.xml"
-    },
-    {
-      "uid": "ENOV|Engert Oliver|2026-09-03|5140.0|19.46",
-      "symbol": "ENOV",
-      "companyName": "Enovis CORP",
-      "reportingName": "Engert Oliver",
-      "title": "Chief Administrative Officer",
-      "transactionDate": "2026-09-03",
-      "filingDatetime": "2026-09-04 21:00 ET",
-      "shares": 5140.0,
-      "price": 19.46,
-      "totalValue": 100024.4,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1420800/000119312526384028/ownership.xml"
-    },
-    {
-      "uid": "ATRA|Cherry Brian N|2026-09-04|104166.0|9.6",
-      "symbol": "ATRA",
-      "companyName": "Atara Biotherapeutics, Inc.",
-      "reportingName": "Cherry Brian N",
-      "title": "",
-      "transactionDate": "2026-09-04",
-      "filingDatetime": "2026-09-04 18:20 ET",
-      "shares": 104166.0,
-      "price": 9.6,
-      "totalValue": 999993.6,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1290922/000090514826004085/form4.xml"
     }
   ]
 }
