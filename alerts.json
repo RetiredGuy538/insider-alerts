@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-06 01:39 UTC",
+  "updated": "2026-10-06 08:07 UTC",
   "alerts": [
+    {
+      "uid": "ACCV|Rubiera Michael|2026-10-01|200000.0|18.0",
+      "symbol": "ACCV",
+      "companyName": "Accelevation Holdings Corp.",
+      "reportingName": "Rubiera Michael",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-10-01",
+      "filingDatetime": "2026-10-05 21:45 ET",
+      "shares": 200000.0,
+      "price": 18.0,
+      "totalValue": 3600000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2141406/000162828026065167/wk-form4_1791251101.xml"
+    },
     {
       "uid": "ACCV|JONES GINGER M|2026-10-01|10000.0|18.0",
       "symbol": "ACCV",
