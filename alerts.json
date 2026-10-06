@@ -1,6 +1,45 @@
 {
-  "updated": "2026-10-06 18:44 UTC",
+  "updated": "2026-10-06 22:48 UTC",
   "alerts": [
+    {
+      "uid": "PSUS|ISRAEL RYAN|2026-10-06|57659.0|37.8737",
+      "symbol": "PSUS",
+      "companyName": "Pershing Square USA, Ltd.",
+      "reportingName": "ISRAEL RYAN",
+      "title": "Chief Investment Officer",
+      "transactionDate": "2026-10-06",
+      "filingDatetime": "2026-10-06 17:59 ET",
+      "shares": 57659.0,
+      "price": 37.8737,
+      "totalValue": 2183759.67,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1597463/000119312526415861/ownership.xml"
+    },
+    {
+      "uid": "PSUS|ISRAEL RYAN|2026-10-05|120816.0|37.4454",
+      "symbol": "PSUS",
+      "companyName": "Pershing Square USA, Ltd.",
+      "reportingName": "ISRAEL RYAN",
+      "title": "Chief Investment Officer",
+      "transactionDate": "2026-10-05",
+      "filingDatetime": "2026-10-06 17:59 ET",
+      "shares": 120816.0,
+      "price": 37.4454,
+      "totalValue": 4524003.45,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1597463/000119312526415861/ownership.xml"
+    },
+    {
+      "uid": "PSUS|ISRAEL RYAN|2026-10-02|78138.0|37.2092",
+      "symbol": "PSUS",
+      "companyName": "Pershing Square USA, Ltd.",
+      "reportingName": "ISRAEL RYAN",
+      "title": "Chief Investment Officer",
+      "transactionDate": "2026-10-02",
+      "filingDatetime": "2026-10-06 17:59 ET",
+      "shares": 78138.0,
+      "price": 37.2092,
+      "totalValue": 2907452.47,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1597463/000119312526415861/ownership.xml"
+    },
     {
       "uid": "ACCV|Rubiera Michael|2026-10-01|200000.0|18.0",
       "symbol": "ACCV",
