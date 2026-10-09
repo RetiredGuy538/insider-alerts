@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08 23:44 UTC",
+  "updated": "2026-10-09 03:05 UTC",
   "alerts": [
     {
       "uid": "PSUS|ISRAEL RYAN|2026-10-06|57659.0|37.8737",
@@ -1185,32 +1185,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1184237/000118423726000008/primarydocument.xml"
     },
     {
-      "uid": "ALMS|AKKARAJU SRINIVAS|2026-09-08|273291.0|10.6271",
-      "symbol": "ALMS",
-      "companyName": "ALUMIS INC.",
-      "reportingName": "AKKARAJU SRINIVAS",
-      "title": "",
-      "transactionDate": "2026-09-08",
-      "filingDatetime": "2026-09-09 21:39 ET",
-      "shares": 273291.0,
-      "price": 10.6271,
-      "totalValue": 2904290.79,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1253170/000123191926001158/form4-09102026_010944.xml"
-    },
-    {
-      "uid": "ALMS|AKKARAJU SRINIVAS|2026-09-08|273290.0|10.6271",
-      "symbol": "ALMS",
-      "companyName": "ALUMIS INC.",
-      "reportingName": "AKKARAJU SRINIVAS",
-      "title": "",
-      "transactionDate": "2026-09-08",
-      "filingDatetime": "2026-09-09 21:39 ET",
-      "shares": 273290.0,
-      "price": 10.6271,
-      "totalValue": 2904280.16,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1253170/000123191926001158/form4-09102026_010944.xml"
-    },
-    {
       "uid": "ENHA|Apeiron Investment Group Ltd.|2026-09-09|99342.0|1.6043",
       "symbol": "ENHA",
       "companyName": "Enhanced Group Inc.",
@@ -1222,110 +1196,6 @@
       "price": 1.6043,
       "totalValue": 159374.37,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526386771/ownership.xml"
-    },
-    {
-      "uid": "SEI|TEAGUE AJ|2026-09-08|3900.0|64.21",
-      "symbol": "SEI",
-      "companyName": "Solaris Energy Infrastructure, Inc.",
-      "reportingName": "TEAGUE AJ",
-      "title": "",
-      "transactionDate": "2026-09-08",
-      "filingDatetime": "2026-09-09 14:55 ET",
-      "shares": 3900.0,
-      "price": 64.21,
-      "totalValue": 250419.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1183251/000162828026061096/wk-form4_1788980103.xml"
-    },
-    {
-      "uid": "SEI|TEAGUE AJ|2026-09-08|3900.0|64.25",
-      "symbol": "SEI",
-      "companyName": "Solaris Energy Infrastructure, Inc.",
-      "reportingName": "TEAGUE AJ",
-      "title": "",
-      "transactionDate": "2026-09-08",
-      "filingDatetime": "2026-09-09 14:55 ET",
-      "shares": 3900.0,
-      "price": 64.25,
-      "totalValue": 250575.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1183251/000162828026061096/wk-form4_1788980103.xml"
-    },
-    {
-      "uid": "AMR|Courtis Kenneth S.|2026-09-08|1847.0|223.85",
-      "symbol": "AMR",
-      "companyName": "Alpha Metallurgical Resources, Inc.",
-      "reportingName": "Courtis Kenneth S.",
-      "title": "",
-      "transactionDate": "2026-09-08",
-      "filingDatetime": "2026-09-08 20:36 ET",
-      "shares": 1847.0,
-      "price": 223.85,
-      "totalValue": 413450.95,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000012/primary_doc.xml"
-    },
-    {
-      "uid": "AMR|Courtis Kenneth S.|2026-09-08|2109.0|225.21",
-      "symbol": "AMR",
-      "companyName": "Alpha Metallurgical Resources, Inc.",
-      "reportingName": "Courtis Kenneth S.",
-      "title": "",
-      "transactionDate": "2026-09-08",
-      "filingDatetime": "2026-09-08 20:36 ET",
-      "shares": 2109.0,
-      "price": 225.21,
-      "totalValue": 474967.89,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000012/primary_doc.xml"
-    },
-    {
-      "uid": "AMR|Courtis Kenneth S.|2026-09-08|2749.0|226.13",
-      "symbol": "AMR",
-      "companyName": "Alpha Metallurgical Resources, Inc.",
-      "reportingName": "Courtis Kenneth S.",
-      "title": "",
-      "transactionDate": "2026-09-08",
-      "filingDatetime": "2026-09-08 20:36 ET",
-      "shares": 2749.0,
-      "price": 226.13,
-      "totalValue": 621631.37,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000012/primary_doc.xml"
-    },
-    {
-      "uid": "AMR|Courtis Kenneth S.|2026-09-08|2891.0|226.92",
-      "symbol": "AMR",
-      "companyName": "Alpha Metallurgical Resources, Inc.",
-      "reportingName": "Courtis Kenneth S.",
-      "title": "",
-      "transactionDate": "2026-09-08",
-      "filingDatetime": "2026-09-08 20:36 ET",
-      "shares": 2891.0,
-      "price": 226.92,
-      "totalValue": 656025.72,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1704715/000181274626000012/primary_doc.xml"
-    },
-    {
-      "uid": "SUJA|PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.|2026-09-08|50000.0|9.9",
-      "symbol": "SUJA",
-      "companyName": "SUJA LIFE, INC.",
-      "reportingName": "PAINE SCHWARTZ FOOD CHAIN FUND V GP, LTD.",
-      "title": "",
-      "transactionDate": "2026-09-08",
-      "filingDatetime": "2026-09-08 19:03 ET",
-      "shares": 50000.0,
-      "price": 9.9,
-      "totalValue": 495000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1818714/000114036126035951/form4.xml"
-    },
-    {
-      "uid": "GME|Cheng Lawrence|2026-09-08|55000.0|18.7992",
-      "symbol": "GME",
-      "companyName": "GameStop Corp.",
-      "reportingName": "Cheng Lawrence",
-      "title": "",
-      "transactionDate": "2026-09-08",
-      "filingDatetime": "2026-09-08 18:11 ET",
-      "shares": 55000.0,
-      "price": 18.7992,
-      "totalValue": 1033956.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1326380/000186828826000004/wk-form4_1788905495.xml"
     }
   ]
 }
