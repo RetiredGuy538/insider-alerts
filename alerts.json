@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10 02:01 UTC",
+  "updated": "2026-10-12 04:01 UTC",
   "alerts": [
     {
       "uid": "PSUS|ISRAEL RYAN|2026-10-06|57659.0|37.8737",
@@ -1003,19 +1003,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1242818/000162828026062330/wk-form4_1789596176.xml"
     },
     {
-      "uid": "FTK|Wilks Matthew|2026-09-11|1319493.0|26.01",
-      "symbol": "FTK",
-      "companyName": "FLOTEK INDUSTRIES INC/CN/",
-      "reportingName": "Wilks Matthew",
-      "title": "",
-      "transactionDate": "2026-09-11",
-      "filingDatetime": "2026-09-15 21:30 ET",
-      "shares": 1319493.0,
-      "price": 26.01,
-      "totalValue": 34320012.93,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/928054/000110465926108024/tm2625501-2_4seq1.xml"
-    },
-    {
       "uid": "NTHI|Heshmatpour Amir F|2026-09-15|35000.0|3.297",
       "symbol": "NTHI",
       "companyName": "NEONC TECHNOLOGIES HOLDINGS, INC.",
@@ -1027,19 +1014,6 @@
       "price": 3.297,
       "totalValue": 115395.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1443035/000121390026100269/marketforms-73992.xml"
-    },
-    {
-      "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-09-11|171144.0|34.6095",
-      "symbol": "CRBG",
-      "companyName": "Corebridge Financial, Inc.",
-      "reportingName": "NIPPON LIFE INSURANCE CO",
-      "title": "",
-      "transactionDate": "2026-09-11",
-      "filingDatetime": "2026-09-15 16:15 ET",
-      "shares": 171144.0,
-      "price": 34.6095,
-      "totalValue": 5923208.27,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526391947/ownership.xml"
     },
     {
       "uid": "RWT|Carillo Brooke|2026-09-15|26065.0|3.8457",
@@ -1092,97 +1066,6 @@
       "price": 51.08,
       "totalValue": 199876.04,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1090012/000109001226000124/form4.xml"
-    },
-    {
-      "uid": "PVH|Larsson Stefan|2026-09-11|14179.102|70.5264",
-      "symbol": "PVH",
-      "companyName": "PVH CORP. /DE/",
-      "reportingName": "Larsson Stefan",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-09-11",
-      "filingDatetime": "2026-09-11 19:18 ET",
-      "shares": 14179.102,
-      "price": 70.5264,
-      "totalValue": 1000001.02,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/78239/000112329226001286/form4.xml"
-    },
-    {
-      "uid": "GLOO|GELSINGER PATRICK P|2026-09-11|50000.0|3.3375",
-      "symbol": "GLOO",
-      "companyName": "Gloo Holdings, Inc.",
-      "reportingName": "GELSINGER PATRICK P",
-      "title": "See Remarks",
-      "transactionDate": "2026-09-11",
-      "filingDatetime": "2026-09-11 17:14 ET",
-      "shares": 50000.0,
-      "price": 3.3375,
-      "totalValue": 166875.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1316331/000131633126000012/form4-09112026_090957.xml"
-    },
-    {
-      "uid": "ATEC|Miles Patrick|2026-09-10|115000.0|8.81",
-      "symbol": "ATEC",
-      "companyName": "Alphatec Holdings, Inc.",
-      "reportingName": "Miles Patrick",
-      "title": "CEO",
-      "transactionDate": "2026-09-10",
-      "filingDatetime": "2026-09-10 20:58 ET",
-      "shares": 115000.0,
-      "price": 8.81,
-      "totalValue": 1013150.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1289409/000128940926000008/form4-09112026_120939.xml"
-    },
-    {
-      "uid": "PRTS|Huffaker Michael|2026-09-10|13250.0|10.06",
-      "symbol": "PRTS",
-      "companyName": "CarParts.com, Inc.",
-      "reportingName": "Huffaker Michael",
-      "title": "COO",
-      "transactionDate": "2026-09-10",
-      "filingDatetime": "2026-09-10 20:01 ET",
-      "shares": 13250.0,
-      "price": 10.06,
-      "totalValue": 133295.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1378950/000114036126036239/form4.xml"
-    },
-    {
-      "uid": "PRTS|Meniane David|2026-09-10|13250.0|10.06",
-      "symbol": "PRTS",
-      "companyName": "CarParts.com, Inc.",
-      "reportingName": "Meniane David",
-      "title": "CEO",
-      "transactionDate": "2026-09-10",
-      "filingDatetime": "2026-09-10 19:57 ET",
-      "shares": 13250.0,
-      "price": 10.06,
-      "totalValue": 133295.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1378950/000114036126036237/form4.xml"
-    },
-    {
-      "uid": "UPST|Gu Paul|2026-09-10|50000.0|25.55",
-      "symbol": "UPST",
-      "companyName": "Upstart Holdings, Inc.",
-      "reportingName": "Gu Paul",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-09-10",
-      "filingDatetime": "2026-09-10 19:13 ET",
-      "shares": 50000.0,
-      "price": 25.55,
-      "totalValue": 1277500.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1647639/000183281226000010/wk-form4_1789082008.xml"
-    },
-    {
-      "uid": "UBER|KHOSROWSHAHI DARA|2026-09-10|141000.0|70.9642",
-      "symbol": "UBER",
-      "companyName": "Uber Technologies, Inc",
-      "reportingName": "KHOSROWSHAHI DARA",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-09-10",
-      "filingDatetime": "2026-09-10 12:40 ET",
-      "shares": 141000.0,
-      "price": 70.9642,
-      "totalValue": 10005952.2,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1184237/000118423726000008/primarydocument.xml"
     }
   ]
 }
