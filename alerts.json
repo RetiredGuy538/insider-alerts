@@ -1,6 +1,58 @@
 {
-  "updated": "2026-10-14 20:58 UTC",
+  "updated": "2026-10-14 23:47 UTC",
   "alerts": [
+    {
+      "uid": "INBX|Lappe Mark|2026-10-14|2470.0|84.0707",
+      "symbol": "INBX",
+      "companyName": "Inhibrx Biosciences, Inc.",
+      "reportingName": "Lappe Mark",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-10-14",
+      "filingDatetime": "2026-10-14 18:58 ET",
+      "shares": 2470.0,
+      "price": 84.0707,
+      "totalValue": 207654.63,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1366074/000136607426000006/wk-form4_1792018692.xml"
+    },
+    {
+      "uid": "INBX|Lappe Mark|2026-10-14|2470.0|84.9992",
+      "symbol": "INBX",
+      "companyName": "Inhibrx Biosciences, Inc.",
+      "reportingName": "Lappe Mark",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-10-14",
+      "filingDatetime": "2026-10-14 18:58 ET",
+      "shares": 2470.0,
+      "price": 84.9992,
+      "totalValue": 209948.02,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1366074/000136607426000006/wk-form4_1792018692.xml"
+    },
+    {
+      "uid": "INBX|Lappe Mark|2026-10-14|2449.0|84.0707",
+      "symbol": "INBX",
+      "companyName": "Inhibrx Biosciences, Inc.",
+      "reportingName": "Lappe Mark",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-10-14",
+      "filingDatetime": "2026-10-14 18:58 ET",
+      "shares": 2449.0,
+      "price": 84.0707,
+      "totalValue": 205889.14,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1366074/000136607426000006/wk-form4_1792018692.xml"
+    },
+    {
+      "uid": "INBX|Lappe Mark|2026-10-14|2451.0|84.9992",
+      "symbol": "INBX",
+      "companyName": "Inhibrx Biosciences, Inc.",
+      "reportingName": "Lappe Mark",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-10-14",
+      "filingDatetime": "2026-10-14 18:58 ET",
+      "shares": 2451.0,
+      "price": 84.9992,
+      "totalValue": 208333.04,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1366074/000136607426000006/wk-form4_1792018692.xml"
+    },
     {
       "uid": "FEAM|vant Hoff Graham|2026-10-08|60000.0|3.59",
       "symbol": "FEAM",
