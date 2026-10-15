@@ -1,6 +1,32 @@
 {
-  "updated": "2026-10-15 17:33 UTC",
+  "updated": "2026-10-15 20:32 UTC",
   "alerts": [
+    {
+      "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-10-13|253776.0|34.6839",
+      "symbol": "CRBG",
+      "companyName": "Corebridge Financial, Inc.",
+      "reportingName": "NIPPON LIFE INSURANCE CO",
+      "title": "",
+      "transactionDate": "2026-10-13",
+      "filingDatetime": "2026-10-15 16:30 ET",
+      "shares": 253776.0,
+      "price": 34.6839,
+      "totalValue": 8801941.41,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526422935/ownership.xml"
+    },
+    {
+      "uid": "CXM|WARD JR STEPHEN M|2026-10-13|150000.0|5.67",
+      "symbol": "CXM",
+      "companyName": "Sprinklr, Inc.",
+      "reportingName": "WARD JR STEPHEN M",
+      "title": "",
+      "transactionDate": "2026-10-13",
+      "filingDatetime": "2026-10-15 16:15 ET",
+      "shares": 150000.0,
+      "price": 5.67,
+      "totalValue": 850500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1164644/000116464426000008/form4-10152026_041001.xml"
+    },
     {
       "uid": "INBX|Lappe Mark|2026-10-14|2470.0|84.0707",
       "symbol": "INBX",
