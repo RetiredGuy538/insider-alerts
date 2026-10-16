@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15 23:18 UTC",
+  "updated": "2026-10-16 01:33 UTC",
   "alerts": [
     {
       "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-10-13|253776.0|34.6839",
@@ -1079,45 +1079,6 @@
       "price": 68.06,
       "totalValue": 500921.6,
       "secLink": "https://www.sec.gov/Archives/edgar/data/917251/000134849026000006/wk-form4_1789642821.xml"
-    },
-    {
-      "uid": "FOX|MURDOCH LACHLAN K|2026-09-15|149934.0|68.53",
-      "symbol": "FOX",
-      "companyName": "Fox Corp",
-      "reportingName": "MURDOCH LACHLAN K",
-      "title": "Executive Chair, CEO",
-      "transactionDate": "2026-09-15",
-      "filingDatetime": "2026-09-16 18:02 ET",
-      "shares": 149934.0,
-      "price": 68.53,
-      "totalValue": 10274977.02,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1242818/000162828026062330/wk-form4_1789596176.xml"
-    },
-    {
-      "uid": "NTHI|Heshmatpour Amir F|2026-09-15|35000.0|3.297",
-      "symbol": "NTHI",
-      "companyName": "NEONC TECHNOLOGIES HOLDINGS, INC.",
-      "reportingName": "Heshmatpour Amir F",
-      "title": "CEO, President",
-      "transactionDate": "2026-09-15",
-      "filingDatetime": "2026-09-15 20:47 ET",
-      "shares": 35000.0,
-      "price": 3.297,
-      "totalValue": 115395.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1443035/000121390026100269/marketforms-73992.xml"
-    },
-    {
-      "uid": "RWT|Carillo Brooke|2026-09-15|26065.0|3.8457",
-      "symbol": "RWT",
-      "companyName": "REDWOOD TRUST INC",
-      "reportingName": "Carillo Brooke",
-      "title": "Chief Financial Officer",
-      "transactionDate": "2026-09-15",
-      "filingDatetime": "2026-09-15 13:16 ET",
-      "shares": 26065.0,
-      "price": 3.8457,
-      "totalValue": 100238.17,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/930236/000186273926000004/edgardoc.xml"
     }
   ]
 }
