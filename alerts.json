@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17 00:46 UTC",
+  "updated": "2026-10-19 02:59 UTC",
   "alerts": [
     {
       "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-10-13|253776.0|34.6839",
@@ -1003,19 +1003,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526399477/ownership.xml"
     },
     {
-      "uid": "ENHA|Apeiron Investment Group Ltd.|2026-09-17|6080047.0|1.15",
-      "symbol": "ENHA",
-      "companyName": "Enhanced Group Inc.",
-      "reportingName": "Apeiron Investment Group Ltd.",
-      "title": "",
-      "transactionDate": "2026-09-17",
-      "filingDatetime": "2026-09-21 21:30 ET",
-      "shares": 6080047.0,
-      "price": 1.15,
-      "totalValue": 6992054.05,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1845711/000119312526397056/ownership.xml"
-    },
-    {
       "uid": "GME|Attal Alain|2026-09-21|17500.0|22.969",
       "symbol": "GME",
       "companyName": "GameStop Corp.",
@@ -1039,19 +1026,6 @@
       "shares": 5000.0,
       "price": 49.63,
       "totalValue": 248150.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000086/form4.xml"
-    },
-    {
-      "uid": "GLP|Global GP LLC|2026-09-17|5000.0|51.08",
-      "symbol": "GLP",
-      "companyName": "GLOBAL PARTNERS LP",
-      "reportingName": "Global GP LLC",
-      "title": "",
-      "transactionDate": "2026-09-17",
-      "filingDatetime": "2026-09-21 17:55 ET",
-      "shares": 5000.0,
-      "price": 51.08,
-      "totalValue": 255400.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1323468/000133939626000086/form4.xml"
     }
   ]
