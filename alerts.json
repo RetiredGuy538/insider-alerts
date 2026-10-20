@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-20 20:53 UTC",
+  "updated": "2026-10-20 23:35 UTC",
   "alerts": [
+    {
+      "uid": "DX|Popenoe Smriti Laxman|2026-10-20|10000.0|10.62",
+      "symbol": "DX",
+      "companyName": "DYNEX CAPITAL INC",
+      "reportingName": "Popenoe Smriti Laxman",
+      "title": "Co-CEO and President",
+      "transactionDate": "2026-10-20",
+      "filingDatetime": "2026-10-20 17:49 ET",
+      "shares": 10000.0,
+      "price": 10.62,
+      "totalValue": 106200.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000121/wk-form4_1792532957.xml"
+    },
     {
       "uid": "IAM|Rachlin Evan Lockwood|2026-10-16|718750.0|16.0",
       "symbol": "IAM",
