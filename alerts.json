@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-19 22:49 UTC",
+  "updated": "2026-10-20 01:29 UTC",
   "alerts": [
+    {
+      "uid": "IAM|Rachlin Evan Lockwood|2026-10-16|718750.0|16.0",
+      "symbol": "IAM",
+      "companyName": "Iambic Therapeutics, Inc.",
+      "reportingName": "Rachlin Evan Lockwood",
+      "title": "",
+      "transactionDate": "2026-10-16",
+      "filingDatetime": "2026-10-19 19:47 ET",
+      "shares": 718750.0,
+      "price": 16.0,
+      "totalValue": 11500000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1997038/000215167826000007/form4-10192026_111032.xml"
+    },
     {
       "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-10-13|253776.0|34.6839",
       "symbol": "CRBG",
