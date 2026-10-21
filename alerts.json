@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-21 17:51 UTC",
+  "updated": "2026-10-21 21:09 UTC",
   "alerts": [
+    {
+      "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-10-19|162024.0|34.5087",
+      "symbol": "CRBG",
+      "companyName": "Corebridge Financial, Inc.",
+      "reportingName": "NIPPON LIFE INSURANCE CO",
+      "title": "",
+      "transactionDate": "2026-10-19",
+      "filingDatetime": "2026-10-21 16:52 ET",
+      "shares": 162024.0,
+      "price": 34.5087,
+      "totalValue": 5591237.61,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526427950/ownership.xml"
+    },
     {
       "uid": "DX|Popenoe Smriti Laxman|2026-10-20|10000.0|10.62",
       "symbol": "DX",
