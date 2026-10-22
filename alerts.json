@@ -1,6 +1,45 @@
 {
-  "updated": "2026-10-22 17:49 UTC",
+  "updated": "2026-10-22 21:07 UTC",
   "alerts": [
+    {
+      "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-10-20|193357.0|35.0106",
+      "symbol": "CRBG",
+      "companyName": "Corebridge Financial, Inc.",
+      "reportingName": "NIPPON LIFE INSURANCE CO",
+      "title": "",
+      "transactionDate": "2026-10-20",
+      "filingDatetime": "2026-10-22 17:03 ET",
+      "shares": 193357.0,
+      "price": 35.0106,
+      "totalValue": 6769544.58,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526429089/ownership.xml"
+    },
+    {
+      "uid": "RAPP|PAUL STEVEN M|2026-10-22|35714.0|27.28",
+      "symbol": "RAPP",
+      "companyName": "Rapport Therapeutics, Inc.",
+      "reportingName": "PAUL STEVEN M",
+      "title": "",
+      "transactionDate": "2026-10-22",
+      "filingDatetime": "2026-10-22 16:56 ET",
+      "shares": 35714.0,
+      "price": 27.28,
+      "totalValue": 974277.92,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1237564/000119312526429073/ownership.xml"
+    },
+    {
+      "uid": "RAPP|MARAGANORE JOHN|2026-10-22|8239.0|26.3799",
+      "symbol": "RAPP",
+      "companyName": "Rapport Therapeutics, Inc.",
+      "reportingName": "MARAGANORE JOHN",
+      "title": "",
+      "transactionDate": "2026-10-22",
+      "filingDatetime": "2026-10-22 16:56 ET",
+      "shares": 8239.0,
+      "price": 26.3799,
+      "totalValue": 217344.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1180432/000119312526429071/ownership.xml"
+    },
     {
       "uid": "FBK|INGRAM ORRIN H II|2026-10-20|15591.0|52.68",
       "symbol": "FBK",
