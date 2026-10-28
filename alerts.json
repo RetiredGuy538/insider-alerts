@@ -1,6 +1,19 @@
 {
-  "updated": "2026-10-28 18:37 UTC",
+  "updated": "2026-10-28 22:51 UTC",
   "alerts": [
+    {
+      "uid": "HXL|KEATING NEAL J.|2026-10-26|3000.0|80.67",
+      "symbol": "HXL",
+      "companyName": "HEXCEL CORP /DE/",
+      "reportingName": "KEATING NEAL J.",
+      "title": "",
+      "transactionDate": "2026-10-26",
+      "filingDatetime": "2026-10-28 17:30 ET",
+      "shares": 3000.0,
+      "price": 80.67,
+      "totalValue": 242010.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/717605/000119312526436418/ownership.xml"
+    },
     {
       "uid": "LRN|Haggart Dylan G.|2026-10-26|4152.0|78.47",
       "symbol": "LRN",
