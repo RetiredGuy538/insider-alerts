@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29 23:04 UTC",
+  "updated": "2026-10-30 02:34 UTC",
   "alerts": [
     {
       "uid": "TTMI|Roks Edwin|2026-10-28|5000.0|88.07",
@@ -1120,110 +1120,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1031203/000090514826004310/form4.xml"
     },
     {
-      "uid": "GPI|Conifer Management, L.L.C.|2026-09-29|2821.0|235.6335",
-      "symbol": "GPI",
-      "companyName": "GROUP 1 AUTOMOTIVE INC",
-      "reportingName": "Conifer Management, L.L.C.",
-      "title": "",
-      "transactionDate": "2026-09-29",
-      "filingDatetime": "2026-09-30 20:46 ET",
-      "shares": 2821.0,
-      "price": 235.6335,
-      "totalValue": 664722.1,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1031203/000090514826004310/form4.xml"
-    },
-    {
-      "uid": "GPI|Conifer Management, L.L.C.|2026-09-29|12942.0|236.4808",
-      "symbol": "GPI",
-      "companyName": "GROUP 1 AUTOMOTIVE INC",
-      "reportingName": "Conifer Management, L.L.C.",
-      "title": "",
-      "transactionDate": "2026-09-29",
-      "filingDatetime": "2026-09-30 20:46 ET",
-      "shares": 12942.0,
-      "price": 236.4808,
-      "totalValue": 3060534.51,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1031203/000090514826004310/form4.xml"
-    },
-    {
-      "uid": "GPI|Conifer Management, L.L.C.|2026-09-29|3292.0|237.8379",
-      "symbol": "GPI",
-      "companyName": "GROUP 1 AUTOMOTIVE INC",
-      "reportingName": "Conifer Management, L.L.C.",
-      "title": "",
-      "transactionDate": "2026-09-29",
-      "filingDatetime": "2026-09-30 20:46 ET",
-      "shares": 3292.0,
-      "price": 237.8379,
-      "totalValue": 782962.37,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1031203/000090514826004310/form4.xml"
-    },
-    {
-      "uid": "GPI|Conifer Management, L.L.C.|2026-09-29|523.0|238.799",
-      "symbol": "GPI",
-      "companyName": "GROUP 1 AUTOMOTIVE INC",
-      "reportingName": "Conifer Management, L.L.C.",
-      "title": "",
-      "transactionDate": "2026-09-29",
-      "filingDatetime": "2026-09-30 20:46 ET",
-      "shares": 523.0,
-      "price": 238.799,
-      "totalValue": 124891.88,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1031203/000090514826004310/form4.xml"
-    },
-    {
-      "uid": "GPI|Conifer Management, L.L.C.|2026-09-29|14570.0|239.5223",
-      "symbol": "GPI",
-      "companyName": "GROUP 1 AUTOMOTIVE INC",
-      "reportingName": "Conifer Management, L.L.C.",
-      "title": "",
-      "transactionDate": "2026-09-29",
-      "filingDatetime": "2026-09-30 20:46 ET",
-      "shares": 14570.0,
-      "price": 239.5223,
-      "totalValue": 3489839.91,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1031203/000090514826004310/form4.xml"
-    },
-    {
-      "uid": "GPI|Conifer Management, L.L.C.|2026-09-29|28791.0|240.8725",
-      "symbol": "GPI",
-      "companyName": "GROUP 1 AUTOMOTIVE INC",
-      "reportingName": "Conifer Management, L.L.C.",
-      "title": "",
-      "transactionDate": "2026-09-29",
-      "filingDatetime": "2026-09-30 20:46 ET",
-      "shares": 28791.0,
-      "price": 240.8725,
-      "totalValue": 6934960.15,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1031203/000090514826004310/form4.xml"
-    },
-    {
-      "uid": "GPI|Conifer Management, L.L.C.|2026-09-29|4249.0|241.6866",
-      "symbol": "GPI",
-      "companyName": "GROUP 1 AUTOMOTIVE INC",
-      "reportingName": "Conifer Management, L.L.C.",
-      "title": "",
-      "transactionDate": "2026-09-29",
-      "filingDatetime": "2026-09-30 20:46 ET",
-      "shares": 4249.0,
-      "price": 241.6866,
-      "totalValue": 1026926.36,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1031203/000090514826004310/form4.xml"
-    },
-    {
-      "uid": "GPI|Conifer Management, L.L.C.|2026-09-29|980.0|242.9246",
-      "symbol": "GPI",
-      "companyName": "GROUP 1 AUTOMOTIVE INC",
-      "reportingName": "Conifer Management, L.L.C.",
-      "title": "",
-      "transactionDate": "2026-09-29",
-      "filingDatetime": "2026-09-30 20:46 ET",
-      "shares": 980.0,
-      "price": 242.9246,
-      "totalValue": 238066.11,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1031203/000090514826004310/form4.xml"
-    },
-    {
       "uid": "LEN|BERKSHIRE HATHAWAY INC|2026-09-30|638813.0|81.59",
       "symbol": "LEN",
       "companyName": "LENNAR CORP /NEW/",
@@ -1247,19 +1143,6 @@
       "shares": 4008.0,
       "price": 79.98,
       "totalValue": 320559.84,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/315090/000119312526409451/ownership.xml"
-    },
-    {
-      "uid": "LEN|BERKSHIRE HATHAWAY INC|2026-09-29|12289.0|81.95",
-      "symbol": "LEN",
-      "companyName": "LENNAR CORP /NEW/",
-      "reportingName": "BERKSHIRE HATHAWAY INC",
-      "title": "",
-      "transactionDate": "2026-09-29",
-      "filingDatetime": "2026-09-30 19:52 ET",
-      "shares": 12289.0,
-      "price": 81.95,
-      "totalValue": 1007083.55,
       "secLink": "https://www.sec.gov/Archives/edgar/data/315090/000119312526409451/ownership.xml"
     }
   ]
