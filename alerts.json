@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-02 04:03 UTC",
+  "updated": "2026-11-02 22:04 UTC",
   "alerts": [
+    {
+      "uid": "ENPH|Kothandaraman Badrinarayanan|2026-11-02|10000.0|26.7514",
+      "symbol": "ENPH",
+      "companyName": "Enphase Energy, Inc.",
+      "reportingName": "Kothandaraman Badrinarayanan",
+      "title": "President & CEO",
+      "transactionDate": "2026-11-02",
+      "filingDatetime": "2026-11-02 16:59 ET",
+      "shares": 10000.0,
+      "price": 26.7514,
+      "totalValue": 267514.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1463101/000154377726000006/wk-form4_1793656765.xml"
+    },
     {
       "uid": "RAPP|HEALY JAMES|2026-10-28|952380.0|21.0",
       "symbol": "RAPP",
