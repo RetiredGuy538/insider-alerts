@@ -1,6 +1,71 @@
 {
-  "updated": "2026-11-02 22:04 UTC",
+  "updated": "2026-11-03 03:28 UTC",
   "alerts": [
+    {
+      "uid": "ASPE|ARCH Venture Fund X, L.P.|2026-11-02|66666.0|15.0",
+      "symbol": "ASPE",
+      "companyName": "Aspen Neuroscience, Inc.",
+      "reportingName": "ARCH Venture Fund X, L.P.",
+      "title": "",
+      "transactionDate": "2026-11-02",
+      "filingDatetime": "2026-11-02 21:50 ET",
+      "shares": 66666.0,
+      "price": 15.0,
+      "totalValue": 999990.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1219039/000119312526444147/ownership.xml"
+    },
+    {
+      "uid": "ASPE|ARCH Venture Fund X, L.P.|2026-11-02|66667.0|15.0",
+      "symbol": "ASPE",
+      "companyName": "Aspen Neuroscience, Inc.",
+      "reportingName": "ARCH Venture Fund X, L.P.",
+      "title": "",
+      "transactionDate": "2026-11-02",
+      "filingDatetime": "2026-11-02 21:50 ET",
+      "shares": 66667.0,
+      "price": 15.0,
+      "totalValue": 1000005.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1219039/000119312526444147/ownership.xml"
+    },
+    {
+      "uid": "ASPE|ARCH Venture Fund X, L.P.|2026-11-02|1200000.0|15.0",
+      "symbol": "ASPE",
+      "companyName": "Aspen Neuroscience, Inc.",
+      "reportingName": "ARCH Venture Fund X, L.P.",
+      "title": "",
+      "transactionDate": "2026-11-02",
+      "filingDatetime": "2026-11-02 21:50 ET",
+      "shares": 1200000.0,
+      "price": 15.0,
+      "totalValue": 18000000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1219039/000119312526444147/ownership.xml"
+    },
+    {
+      "uid": "ASPE|ARCH Venture Partners XIV, L.P.|2026-11-02|1200000.0|15.0",
+      "symbol": "ASPE",
+      "companyName": "Aspen Neuroscience, Inc.",
+      "reportingName": "ARCH Venture Partners XIV, L.P.",
+      "title": "",
+      "transactionDate": "2026-11-02",
+      "filingDatetime": "2026-11-02 21:46 ET",
+      "shares": 1200000.0,
+      "price": 15.0,
+      "totalValue": 18000000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1202769/000119312526444141/ownership.xml"
+    },
+    {
+      "uid": "RSI|Winter Thomas|2026-11-02|10000.0|11.831",
+      "symbol": "RSI",
+      "companyName": "Rush Street Interactive, Inc.",
+      "reportingName": "Winter Thomas",
+      "title": "",
+      "transactionDate": "2026-11-02",
+      "filingDatetime": "2026-11-02 18:27 ET",
+      "shares": 10000.0,
+      "price": 11.831,
+      "totalValue": 118310.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1793659/000183615626000008/wk-form4_1793662043.xml"
+    },
     {
       "uid": "ENPH|Kothandaraman Badrinarayanan|2026-11-02|10000.0|26.7514",
       "symbol": "ENPH",
