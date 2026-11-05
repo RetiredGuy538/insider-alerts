@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04 20:14 UTC",
+  "updated": "2026-11-05 00:54 UTC",
   "alerts": [
     {
       "uid": "LSCC|Tamer Ford|2026-11-04|2894.0|101.7849",
@@ -1156,19 +1156,6 @@
       "shares": 57659.0,
       "price": 37.8737,
       "totalValue": 2183759.67,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1597463/000119312526415861/ownership.xml"
-    },
-    {
-      "uid": "PSUS|ISRAEL RYAN|2026-10-05|120816.0|37.4454",
-      "symbol": "PSUS",
-      "companyName": "Pershing Square USA, Ltd.",
-      "reportingName": "ISRAEL RYAN",
-      "title": "Chief Investment Officer",
-      "transactionDate": "2026-10-05",
-      "filingDatetime": "2026-10-06 17:59 ET",
-      "shares": 120816.0,
-      "price": 37.4454,
-      "totalValue": 4524003.45,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1597463/000119312526415861/ownership.xml"
     }
   ]
