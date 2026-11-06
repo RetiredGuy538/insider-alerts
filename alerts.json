@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-05 20:26 UTC",
+  "updated": "2026-11-06 01:02 UTC",
   "alerts": [
+    {
+      "uid": "MTDR|Calvert Christopher P|2026-11-05|2000.0|52.57",
+      "symbol": "MTDR",
+      "companyName": "Matador Resources Co",
+      "reportingName": "Calvert Christopher P",
+      "title": "EVP and CFO",
+      "transactionDate": "2026-11-05",
+      "filingDatetime": "2026-11-05 18:58 ET",
+      "shares": 2000.0,
+      "price": 52.57,
+      "totalValue": 105140.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1520006/000202028626000011/wk-form4_1793923101.xml"
+    },
     {
       "uid": "LSCC|Tamer Ford|2026-11-04|2894.0|101.7849",
       "symbol": "LSCC",
@@ -1144,19 +1157,6 @@
       "price": 3.59,
       "totalValue": 215400.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1829340/000182934026000011/primarydocument.xml"
-    },
-    {
-      "uid": "PSUS|ISRAEL RYAN|2026-10-06|57659.0|37.8737",
-      "symbol": "PSUS",
-      "companyName": "Pershing Square USA, Ltd.",
-      "reportingName": "ISRAEL RYAN",
-      "title": "Chief Investment Officer",
-      "transactionDate": "2026-10-06",
-      "filingDatetime": "2026-10-06 17:59 ET",
-      "shares": 57659.0,
-      "price": 37.8737,
-      "totalValue": 2183759.67,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1597463/000119312526415861/ownership.xml"
     }
   ]
 }
