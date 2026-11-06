@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-06 01:02 UTC",
+  "updated": "2026-11-06 07:54 UTC",
   "alerts": [
+    {
+      "uid": "MTUS|RICE RONALD A|2026-11-05|10000.0|16.61",
+      "symbol": "MTUS",
+      "companyName": "Metallus Inc.",
+      "reportingName": "RICE RONALD A",
+      "title": "",
+      "transactionDate": "2026-11-05",
+      "filingDatetime": "2026-11-05 21:00 ET",
+      "shares": 10000.0,
+      "price": 16.61,
+      "totalValue": 166100.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1224027/000119312526450443/ownership.xml"
+    },
+    {
+      "uid": "FLOC|Fairbanks Jonathan B.|2026-11-04|15140.0|19.3477",
+      "symbol": "FLOC",
+      "companyName": "Flowco Holdings Inc.",
+      "reportingName": "Fairbanks Jonathan B.",
+      "title": "",
+      "transactionDate": "2026-11-04",
+      "filingDatetime": "2026-11-05 20:30 ET",
+      "shares": 15140.0,
+      "price": 19.3477,
+      "totalValue": 292924.18,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2035149/000119312526450429/ownership.xml"
+    },
     {
       "uid": "MTDR|Calvert Christopher P|2026-11-05|2000.0|52.57",
       "symbol": "MTDR",
