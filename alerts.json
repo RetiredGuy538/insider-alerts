@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06 23:55 UTC",
+  "updated": "2026-11-09 04:20 UTC",
   "alerts": [
     {
       "uid": "MTUS|RICE RONALD A|2026-11-05|10000.0|16.61",
@@ -1170,19 +1170,6 @@
       "price": 84.9992,
       "totalValue": 208333.04,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1366074/000136607426000006/wk-form4_1792018692.xml"
-    },
-    {
-      "uid": "FEAM|vant Hoff Graham|2026-10-08|60000.0|3.59",
-      "symbol": "FEAM",
-      "companyName": "5E Advanced Materials, Inc.",
-      "reportingName": "vant Hoff Graham",
-      "title": "",
-      "transactionDate": "2026-10-08",
-      "filingDatetime": "2026-10-13 15:02 ET",
-      "shares": 60000.0,
-      "price": 3.59,
-      "totalValue": 215400.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1829340/000182934026000011/primarydocument.xml"
     }
   ]
 }
