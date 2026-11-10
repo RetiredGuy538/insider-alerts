@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-09 22:50 UTC",
+  "updated": "2026-11-10 04:28 UTC",
   "alerts": [
+    {
+      "uid": "ADTN|STANTON THOMAS R|2026-11-06|150000.0|4.006",
+      "symbol": "ADTN",
+      "companyName": "ADTRAN Holdings, Inc.",
+      "reportingName": "STANTON THOMAS R",
+      "title": "Chairman & CEO",
+      "transactionDate": "2026-11-06",
+      "filingDatetime": "2026-11-09 18:53 ET",
+      "shares": 150000.0,
+      "price": 4.006,
+      "totalValue": 600900.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/926282/000119312526454019/ownership.xml"
+    },
     {
       "uid": "ROK|Moret Blake D.|2026-11-09|1039.0|385.5906",
       "symbol": "ROK",
