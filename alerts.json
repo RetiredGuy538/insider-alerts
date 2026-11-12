@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-12 01:50 UTC",
+  "updated": "2026-11-12 20:37 UTC",
   "alerts": [
+    {
+      "uid": "EGBN|Curley Stephen Russell|2026-11-10|4393.0|34.05",
+      "symbol": "EGBN",
+      "companyName": "EAGLE BANCORP INC",
+      "reportingName": "Curley Stephen Russell",
+      "title": "President/CEO",
+      "transactionDate": "2026-11-10",
+      "filingDatetime": "2026-11-12 14:29 ET",
+      "shares": 4393.0,
+      "price": 34.05,
+      "totalValue": 149581.65,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1050441/000144189026000007/wk-form4_1794511770.xml"
+    },
     {
       "uid": "ADTN|STANTON THOMAS R|2026-11-06|150000.0|4.006",
       "symbol": "ADTN",
