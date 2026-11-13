@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-13 01:28 UTC",
+  "updated": "2026-11-13 08:37 UTC",
   "alerts": [
+    {
+      "uid": "LRMR|Hamilton Thomas Edward|2026-11-12|70000.0|2.6726",
+      "symbol": "LRMR",
+      "companyName": "Larimar Therapeutics, Inc.",
+      "reportingName": "Hamilton Thomas Edward",
+      "title": "",
+      "transactionDate": "2026-11-12",
+      "filingDatetime": "2026-11-12 21:32 ET",
+      "shares": 70000.0,
+      "price": 2.6726,
+      "totalValue": 187082.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1374690/000119312526459008/ownership.xml"
+    },
+    {
+      "uid": "HPP|COLEMAN VICTOR J|2026-11-10|20000.0|9.1",
+      "symbol": "HPP",
+      "companyName": "Hudson Pacific Properties, Inc.",
+      "reportingName": "COLEMAN VICTOR J",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-11-10",
+      "filingDatetime": "2026-11-12 20:43 ET",
+      "shares": 20000.0,
+      "price": 9.1,
+      "totalValue": 182000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1191420/000119142026000014/wk-form4_1794534219.xml"
+    },
     {
       "uid": "VISN|Watts Claudius E. IV|2026-11-09|200000.0|4.1553",
       "symbol": "VISN",
