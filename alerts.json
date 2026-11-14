@@ -1,6 +1,45 @@
 {
-  "updated": "2026-11-13 20:15 UTC",
+  "updated": "2026-11-14 00:57 UTC",
   "alerts": [
+    {
+      "uid": "CTRI|Patton Charles R.|2026-11-11|11000.0|22.72",
+      "symbol": "CTRI",
+      "companyName": "Centuri Holdings, Inc.",
+      "reportingName": "Patton Charles R.",
+      "title": "",
+      "transactionDate": "2026-11-11",
+      "filingDatetime": "2026-11-13 19:17 ET",
+      "shares": 11000.0,
+      "price": 22.72,
+      "totalValue": 249920.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1473188/000198159926000141/wk-form4_1794615473.xml"
+    },
+    {
+      "uid": "IOND|Abbate Michael|2026-11-12|7149.0|64.98",
+      "symbol": "IOND",
+      "companyName": "Ionic Digital Inc.",
+      "reportingName": "Abbate Michael",
+      "title": "",
+      "transactionDate": "2026-11-12",
+      "filingDatetime": "2026-11-13 18:59 ET",
+      "shares": 7149.0,
+      "price": 64.98,
+      "totalValue": 464542.02,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2007691/000118518526005414/ownership.xml"
+    },
+    {
+      "uid": "IOND|Abbate Michael|2026-11-11|12493.0|66.2",
+      "symbol": "IOND",
+      "companyName": "Ionic Digital Inc.",
+      "reportingName": "Abbate Michael",
+      "title": "",
+      "transactionDate": "2026-11-11",
+      "filingDatetime": "2026-11-13 18:59 ET",
+      "shares": 12493.0,
+      "price": 66.2,
+      "totalValue": 827036.6,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2007691/000118518526005414/ownership.xml"
+    },
     {
       "uid": "LRMR|Hamilton Thomas Edward|2026-11-12|70000.0|2.6726",
       "symbol": "LRMR",
@@ -1248,58 +1287,6 @@
       "price": 16.0,
       "totalValue": 11500000.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1997038/000215167826000007/form4-10192026_111032.xml"
-    },
-    {
-      "uid": "INBX|Lappe Mark|2026-10-14|2470.0|84.0707",
-      "symbol": "INBX",
-      "companyName": "Inhibrx Biosciences, Inc.",
-      "reportingName": "Lappe Mark",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-10-14",
-      "filingDatetime": "2026-10-14 18:58 ET",
-      "shares": 2470.0,
-      "price": 84.0707,
-      "totalValue": 207654.63,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1366074/000136607426000006/wk-form4_1792018692.xml"
-    },
-    {
-      "uid": "INBX|Lappe Mark|2026-10-14|2470.0|84.9992",
-      "symbol": "INBX",
-      "companyName": "Inhibrx Biosciences, Inc.",
-      "reportingName": "Lappe Mark",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-10-14",
-      "filingDatetime": "2026-10-14 18:58 ET",
-      "shares": 2470.0,
-      "price": 84.9992,
-      "totalValue": 209948.02,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1366074/000136607426000006/wk-form4_1792018692.xml"
-    },
-    {
-      "uid": "INBX|Lappe Mark|2026-10-14|2449.0|84.0707",
-      "symbol": "INBX",
-      "companyName": "Inhibrx Biosciences, Inc.",
-      "reportingName": "Lappe Mark",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-10-14",
-      "filingDatetime": "2026-10-14 18:58 ET",
-      "shares": 2449.0,
-      "price": 84.0707,
-      "totalValue": 205889.14,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1366074/000136607426000006/wk-form4_1792018692.xml"
-    },
-    {
-      "uid": "INBX|Lappe Mark|2026-10-14|2451.0|84.9992",
-      "symbol": "INBX",
-      "companyName": "Inhibrx Biosciences, Inc.",
-      "reportingName": "Lappe Mark",
-      "title": "Chief Executive Officer",
-      "transactionDate": "2026-10-14",
-      "filingDatetime": "2026-10-14 18:58 ET",
-      "shares": 2451.0,
-      "price": 84.9992,
-      "totalValue": 208333.04,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1366074/000136607426000006/wk-form4_1792018692.xml"
     }
   ]
 }
