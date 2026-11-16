@@ -1,6 +1,71 @@
 {
-  "updated": "2026-11-14 00:57 UTC",
+  "updated": "2026-11-16 04:29 UTC",
   "alerts": [
+    {
+      "uid": "STWD|Pollack Jonathan Lee|2026-11-11|85000.0|11.8361",
+      "symbol": "STWD",
+      "companyName": "STARWOOD PROPERTY TRUST, INC.",
+      "reportingName": "Pollack Jonathan Lee",
+      "title": "",
+      "transactionDate": "2026-11-11",
+      "filingDatetime": "2026-11-13 21:21 ET",
+      "shares": 85000.0,
+      "price": 11.8361,
+      "totalValue": 1006068.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1465128/000090514826004807/form4.xml"
+    },
+    {
+      "uid": "STWD|Pollack Jonathan Lee|2026-11-11|84800.0|11.8795",
+      "symbol": "STWD",
+      "companyName": "STARWOOD PROPERTY TRUST, INC.",
+      "reportingName": "Pollack Jonathan Lee",
+      "title": "",
+      "transactionDate": "2026-11-11",
+      "filingDatetime": "2026-11-13 21:21 ET",
+      "shares": 84800.0,
+      "price": 11.8795,
+      "totalValue": 1007381.6,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1465128/000090514826004807/form4.xml"
+    },
+    {
+      "uid": "STWD|STERNLICHT BARRY S|2026-11-12|415000.0|11.5869",
+      "symbol": "STWD",
+      "companyName": "STARWOOD PROPERTY TRUST, INC.",
+      "reportingName": "STERNLICHT BARRY S",
+      "title": "CEO, Chairman of the Board",
+      "transactionDate": "2026-11-12",
+      "filingDatetime": "2026-11-13 21:19 ET",
+      "shares": 415000.0,
+      "price": 11.5869,
+      "totalValue": 4808563.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1034657/000090514826004805/form4.xml"
+    },
+    {
+      "uid": "STWD|STERNLICHT BARRY S|2026-11-11|830000.0|11.9146",
+      "symbol": "STWD",
+      "companyName": "STARWOOD PROPERTY TRUST, INC.",
+      "reportingName": "STERNLICHT BARRY S",
+      "title": "CEO, Chairman of the Board",
+      "transactionDate": "2026-11-11",
+      "filingDatetime": "2026-11-13 21:19 ET",
+      "shares": 830000.0,
+      "price": 11.9146,
+      "totalValue": 9889118.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1034657/000090514826004805/form4.xml"
+    },
+    {
+      "uid": "INDI|ALDRICH DAVID J|2026-11-11|130000.0|2.3",
+      "symbol": "INDI",
+      "companyName": "indie Semiconductor, Inc.",
+      "reportingName": "ALDRICH DAVID J",
+      "title": "",
+      "transactionDate": "2026-11-11",
+      "filingDatetime": "2026-11-13 20:13 ET",
+      "shares": 130000.0,
+      "price": 2.3,
+      "totalValue": 299000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1025092/000102509226000012/ownership.xml"
+    },
     {
       "uid": "CTRI|Patton Charles R.|2026-11-11|11000.0|22.72",
       "symbol": "CTRI",
@@ -1274,19 +1339,6 @@
       "price": 10.62,
       "totalValue": 106200.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000121/wk-form4_1792532957.xml"
-    },
-    {
-      "uid": "IAM|Rachlin Evan Lockwood|2026-10-16|718750.0|16.0",
-      "symbol": "IAM",
-      "companyName": "Iambic Therapeutics, Inc.",
-      "reportingName": "Rachlin Evan Lockwood",
-      "title": "",
-      "transactionDate": "2026-10-16",
-      "filingDatetime": "2026-10-19 19:47 ET",
-      "shares": 718750.0,
-      "price": 16.0,
-      "totalValue": 11500000.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1997038/000215167826000007/form4-10192026_111032.xml"
     }
   ]
 }
