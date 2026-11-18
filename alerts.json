@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-18 03:04 UTC",
+  "updated": "2026-11-18 21:03 UTC",
   "alerts": [
+    {
+      "uid": "SLRC|GROSS MICHAEL S|2026-11-17|10000.0|11.1137",
+      "symbol": "SLRC",
+      "companyName": "SLR Investment Corp.",
+      "reportingName": "GROSS MICHAEL S",
+      "title": "See Remarks",
+      "transactionDate": "2026-11-17",
+      "filingDatetime": "2026-11-18 16:00 ET",
+      "shares": 10000.0,
+      "price": 11.1137,
+      "totalValue": 111137.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1186884/000119312526467052/ownership.xml"
+    },
+    {
+      "uid": "SLRC|GROSS MICHAEL S|2026-11-16|10000.0|11.4998",
+      "symbol": "SLRC",
+      "companyName": "SLR Investment Corp.",
+      "reportingName": "GROSS MICHAEL S",
+      "title": "See Remarks",
+      "transactionDate": "2026-11-16",
+      "filingDatetime": "2026-11-18 16:00 ET",
+      "shares": 10000.0,
+      "price": 11.4998,
+      "totalValue": 114998.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1186884/000119312526467052/ownership.xml"
+    },
     {
       "uid": "SKYD|Cardinale Gerald J.|2026-11-13|66400.0|7.5388",
       "symbol": "SKYD",
