@@ -1,6 +1,97 @@
 {
-  "updated": "2026-11-18 21:03 UTC",
+  "updated": "2026-11-19 02:32 UTC",
   "alerts": [
+    {
+      "uid": "USAR|BLITZER MICHAEL|2026-11-18|100000.0|6.6412",
+      "symbol": "USAR",
+      "companyName": "USA Rare Earth, Inc.",
+      "reportingName": "BLITZER MICHAEL",
+      "title": "",
+      "transactionDate": "2026-11-18",
+      "filingDatetime": "2026-11-18 20:26 ET",
+      "shares": 100000.0,
+      "price": 6.6412,
+      "totalValue": 664120.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1458423/000145842326000012/wk-form4_1795051595.xml"
+    },
+    {
+      "uid": "USAR|BLITZER MICHAEL|2026-11-17|100000.0|6.7155",
+      "symbol": "USAR",
+      "companyName": "USA Rare Earth, Inc.",
+      "reportingName": "BLITZER MICHAEL",
+      "title": "",
+      "transactionDate": "2026-11-17",
+      "filingDatetime": "2026-11-18 20:26 ET",
+      "shares": 100000.0,
+      "price": 6.7155,
+      "totalValue": 671550.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1458423/000145842326000012/wk-form4_1795051595.xml"
+    },
+    {
+      "uid": "USAR|BLITZER MICHAEL|2026-11-17|250000.0|6.6439",
+      "symbol": "USAR",
+      "companyName": "USA Rare Earth, Inc.",
+      "reportingName": "BLITZER MICHAEL",
+      "title": "",
+      "transactionDate": "2026-11-17",
+      "filingDatetime": "2026-11-18 20:26 ET",
+      "shares": 250000.0,
+      "price": 6.6439,
+      "totalValue": 1660975.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1458423/000145842326000012/wk-form4_1795051595.xml"
+    },
+    {
+      "uid": "RMIX|Rees-Jones David|2026-11-18|16470.0|6.75",
+      "symbol": "RMIX",
+      "companyName": "Suncrete, Inc.",
+      "reportingName": "Rees-Jones David",
+      "title": "",
+      "transactionDate": "2026-11-18",
+      "filingDatetime": "2026-11-18 20:14 ET",
+      "shares": 16470.0,
+      "price": 6.75,
+      "totalValue": 111172.5,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2094433/000119312526467461/ownership.xml"
+    },
+    {
+      "uid": "RMIX|Rees-Jones David|2026-11-17|100000.0|6.2",
+      "symbol": "RMIX",
+      "companyName": "Suncrete, Inc.",
+      "reportingName": "Rees-Jones David",
+      "title": "",
+      "transactionDate": "2026-11-17",
+      "filingDatetime": "2026-11-18 20:14 ET",
+      "shares": 100000.0,
+      "price": 6.2,
+      "totalValue": 620000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2094433/000119312526467461/ownership.xml"
+    },
+    {
+      "uid": "EQPT|Schlacks William J.|2026-11-17|10000.0|14.54",
+      "symbol": "EQPT",
+      "companyName": "EquipmentShare.com Inc",
+      "reportingName": "Schlacks William J.",
+      "title": "Founder & President",
+      "transactionDate": "2026-11-17",
+      "filingDatetime": "2026-11-18 20:10 ET",
+      "shares": 10000.0,
+      "price": 14.54,
+      "totalValue": 145400.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1693736/000095010326017804/ownership.xml"
+    },
+    {
+      "uid": "EQPT|Schlacks Jabbok|2026-11-16|16972.0|14.73",
+      "symbol": "EQPT",
+      "companyName": "EquipmentShare.com Inc",
+      "reportingName": "Schlacks Jabbok",
+      "title": "Founder & CEO /",
+      "transactionDate": "2026-11-16",
+      "filingDatetime": "2026-11-18 20:09 ET",
+      "shares": 16972.0,
+      "price": 14.73,
+      "totalValue": 249997.56,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1693736/000095010326017803/ownership.xml"
+    },
     {
       "uid": "SLRC|GROSS MICHAEL S|2026-11-17|10000.0|11.1137",
       "symbol": "SLRC",
@@ -1443,19 +1534,6 @@
       "price": 26.1,
       "totalValue": 143550.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1579829/000119312526428018/ownership.xml"
-    },
-    {
-      "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-10-19|162024.0|34.5087",
-      "symbol": "CRBG",
-      "companyName": "Corebridge Financial, Inc.",
-      "reportingName": "NIPPON LIFE INSURANCE CO",
-      "title": "",
-      "transactionDate": "2026-10-19",
-      "filingDatetime": "2026-10-21 16:52 ET",
-      "shares": 162024.0,
-      "price": 34.5087,
-      "totalValue": 5591237.61,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526427950/ownership.xml"
     },
     {
       "uid": "DX|Popenoe Smriti Laxman|2026-10-20|10000.0|10.62",
