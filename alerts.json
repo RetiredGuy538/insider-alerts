@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-20 02:17 UTC",
+  "updated": "2026-11-20 20:53 UTC",
   "alerts": [
+    {
+      "uid": "SEI|Ramachandran Kyle S.|2026-11-20|3000.0|53.25",
+      "symbol": "SEI",
+      "companyName": "Solaris Energy Infrastructure, Inc.",
+      "reportingName": "Ramachandran Kyle S.",
+      "title": "President",
+      "transactionDate": "2026-11-20",
+      "filingDatetime": "2026-11-20 15:16 ET",
+      "shares": 3000.0,
+      "price": 53.25,
+      "totalValue": 159750.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1697500/000162828026075234/wk-form4_1795205786.xml"
+    },
+    {
+      "uid": "SEI|Brock Amanda M|2026-11-20|5000.0|53.78",
+      "symbol": "SEI",
+      "companyName": "Solaris Energy Infrastructure, Inc.",
+      "reportingName": "Brock Amanda M",
+      "title": "Co-Chief Executive Officer",
+      "transactionDate": "2026-11-20",
+      "filingDatetime": "2026-11-20 15:16 ET",
+      "shares": 5000.0,
+      "price": 53.78,
+      "totalValue": 268900.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1697500/000162828026075233/wk-form4_1795205771.xml"
+    },
     {
       "uid": "SCM|Ladd Robert T.|2026-11-17|30000.0|6.57",
       "symbol": "SCM",
