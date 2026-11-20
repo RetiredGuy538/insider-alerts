@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-19 21:08 UTC",
+  "updated": "2026-11-20 02:17 UTC",
   "alerts": [
+    {
+      "uid": "SCM|Ladd Robert T.|2026-11-17|30000.0|6.57",
+      "symbol": "SCM",
+      "companyName": "Stellus Capital Investment Corp",
+      "reportingName": "Ladd Robert T.",
+      "title": "President and CEO",
+      "transactionDate": "2026-11-17",
+      "filingDatetime": "2026-11-19 20:02 ET",
+      "shares": 30000.0,
+      "price": 6.57,
+      "totalValue": 197100.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1551901/000110465926130305/tm2630328-1_4seq1.xml"
+    },
     {
       "uid": "USAR|BLITZER MICHAEL|2026-11-18|100000.0|6.6412",
       "symbol": "USAR",
@@ -1458,19 +1471,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526430508/ownership.xml"
     },
     {
-      "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-10-20|193357.0|35.0106",
-      "symbol": "CRBG",
-      "companyName": "Corebridge Financial, Inc.",
-      "reportingName": "NIPPON LIFE INSURANCE CO",
-      "title": "",
-      "transactionDate": "2026-10-20",
-      "filingDatetime": "2026-10-22 17:03 ET",
-      "shares": 193357.0,
-      "price": 35.0106,
-      "totalValue": 6769544.58,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526429089/ownership.xml"
-    },
-    {
       "uid": "RAPP|PAUL STEVEN M|2026-10-22|35714.0|27.28",
       "symbol": "RAPP",
       "companyName": "Rapport Therapeutics, Inc.",
@@ -1497,32 +1497,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/1180432/000119312526429071/ownership.xml"
     },
     {
-      "uid": "FBK|INGRAM ORRIN H II|2026-10-20|15591.0|52.68",
-      "symbol": "FBK",
-      "companyName": "FB Financial Corp",
-      "reportingName": "INGRAM ORRIN H II",
-      "title": "",
-      "transactionDate": "2026-10-20",
-      "filingDatetime": "2026-10-21 19:24 ET",
-      "shares": 15591.0,
-      "price": 52.68,
-      "totalValue": 821333.88,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1191473/000119147326000008/wk-form4_1792625039.xml"
-    },
-    {
-      "uid": "FBK|INGRAM ORRIN H II|2026-10-20|13490.0|53.11",
-      "symbol": "FBK",
-      "companyName": "FB Financial Corp",
-      "reportingName": "INGRAM ORRIN H II",
-      "title": "",
-      "transactionDate": "2026-10-20",
-      "filingDatetime": "2026-10-21 19:24 ET",
-      "shares": 13490.0,
-      "price": 53.11,
-      "totalValue": 716453.9,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1191473/000119147326000008/wk-form4_1792625039.xml"
-    },
-    {
       "uid": "RAPP|Ignelzi Troy A.|2026-10-21|5500.0|26.1",
       "symbol": "RAPP",
       "companyName": "Rapport Therapeutics, Inc.",
@@ -1534,19 +1508,6 @@
       "price": 26.1,
       "totalValue": 143550.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1579829/000119312526428018/ownership.xml"
-    },
-    {
-      "uid": "DX|Popenoe Smriti Laxman|2026-10-20|10000.0|10.62",
-      "symbol": "DX",
-      "companyName": "DYNEX CAPITAL INC",
-      "reportingName": "Popenoe Smriti Laxman",
-      "title": "Co-CEO and President",
-      "transactionDate": "2026-10-20",
-      "filingDatetime": "2026-10-20 17:49 ET",
-      "shares": 10000.0,
-      "price": 10.62,
-      "totalValue": 106200.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/826675/000082667526000121/wk-form4_1792532957.xml"
     }
   ]
 }
