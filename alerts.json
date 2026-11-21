@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-20 20:53 UTC",
+  "updated": "2026-11-21 01:56 UTC",
   "alerts": [
+    {
+      "uid": "UPST|Gu Paul|2026-11-19|50000.0|17.2013",
+      "symbol": "UPST",
+      "companyName": "Upstart Holdings, Inc.",
+      "reportingName": "Gu Paul",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-11-19",
+      "filingDatetime": "2026-11-20 20:22 ET",
+      "shares": 50000.0,
+      "price": 17.2013,
+      "totalValue": 860065.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1647639/000183281226000016/wk-form4_1795224137.xml"
+    },
     {
       "uid": "SEI|Ramachandran Kyle S.|2026-11-20|3000.0|53.25",
       "symbol": "SEI",
@@ -1484,19 +1497,6 @@
       "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526432280/ownership.xml"
     },
     {
-      "uid": "CRBG|NIPPON LIFE INSURANCE CO|2026-10-21|217182.0|35.382",
-      "symbol": "CRBG",
-      "companyName": "Corebridge Financial, Inc.",
-      "reportingName": "NIPPON LIFE INSURANCE CO",
-      "title": "",
-      "transactionDate": "2026-10-21",
-      "filingDatetime": "2026-10-23 16:30 ET",
-      "shares": 217182.0,
-      "price": 35.382,
-      "totalValue": 7684333.52,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/905591/000119312526430508/ownership.xml"
-    },
-    {
       "uid": "RAPP|PAUL STEVEN M|2026-10-22|35714.0|27.28",
       "symbol": "RAPP",
       "companyName": "Rapport Therapeutics, Inc.",
@@ -1521,19 +1521,6 @@
       "price": 26.3799,
       "totalValue": 217344.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1180432/000119312526429071/ownership.xml"
-    },
-    {
-      "uid": "RAPP|Ignelzi Troy A.|2026-10-21|5500.0|26.1",
-      "symbol": "RAPP",
-      "companyName": "Rapport Therapeutics, Inc.",
-      "reportingName": "Ignelzi Troy A.",
-      "title": "Chief Financial Officer",
-      "transactionDate": "2026-10-21",
-      "filingDatetime": "2026-10-21 17:46 ET",
-      "shares": 5500.0,
-      "price": 26.1,
-      "totalValue": 143550.0,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1579829/000119312526428018/ownership.xml"
     }
   ]
 }
