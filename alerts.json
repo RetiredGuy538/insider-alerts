@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-24 00:33 UTC",
+  "updated": "2026-11-24 10:25 UTC",
   "alerts": [
+    {
+      "uid": "FRMI|Wentz George R. Jr.|2026-10-28|2223624.0|2.9",
+      "symbol": "FRMI",
+      "companyName": "Fermi Inc.",
+      "reportingName": "Wentz George R. Jr.",
+      "title": "General Counsel",
+      "transactionDate": "2026-10-28",
+      "filingDatetime": "2026-11-23 21:51 ET",
+      "shares": 2223624.0,
+      "price": 2.9,
+      "totalValue": 6448509.6,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2071778/000121390026123347/ownership.xml"
+    },
     {
       "uid": "RMIX|Rees-Jones David|2026-11-19|100000.0|6.49",
       "symbol": "RMIX",
