@@ -1,6 +1,19 @@
 {
-  "updated": "2026-11-24 10:25 UTC",
+  "updated": "2026-11-24 22:53 UTC",
   "alerts": [
+    {
+      "uid": "SCOR|McLaughlin Matthew F.|2026-11-20|36622.0|3.23",
+      "symbol": "SCOR",
+      "companyName": "COMSCORE, INC.",
+      "reportingName": "McLaughlin Matthew F.",
+      "title": "Chief Executive Officer",
+      "transactionDate": "2026-11-20",
+      "filingDatetime": "2026-11-24 17:37 ET",
+      "shares": 36622.0,
+      "price": 3.23,
+      "totalValue": 118289.06,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1158172/000185387426000018/wk-form4_1795559818.xml"
+    },
     {
       "uid": "FRMI|Wentz George R. Jr.|2026-10-28|2223624.0|2.9",
       "symbol": "FRMI",
