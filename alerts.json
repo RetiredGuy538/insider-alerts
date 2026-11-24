@@ -1,6 +1,32 @@
 {
-  "updated": "2026-11-23 05:27 UTC",
+  "updated": "2026-11-24 00:33 UTC",
   "alerts": [
+    {
+      "uid": "RMIX|Rees-Jones David|2026-11-19|100000.0|6.49",
+      "symbol": "RMIX",
+      "companyName": "Suncrete, Inc.",
+      "reportingName": "Rees-Jones David",
+      "title": "",
+      "transactionDate": "2026-11-19",
+      "filingDatetime": "2026-11-23 19:12 ET",
+      "shares": 100000.0,
+      "price": 6.49,
+      "totalValue": 649000.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/2094433/000119312526472825/ownership.xml"
+    },
+    {
+      "uid": "WMB|Turner Robb E|2026-11-20|10000.0|64.65",
+      "symbol": "WMB",
+      "companyName": "WILLIAMS COMPANIES, INC.",
+      "reportingName": "Turner Robb E",
+      "title": "",
+      "transactionDate": "2026-11-20",
+      "filingDatetime": "2026-11-23 13:45 ET",
+      "shares": 10000.0,
+      "price": 64.65,
+      "totalValue": 646500.0,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/107263/000140544426000008/wk-form4_1795459533.xml"
+    },
     {
       "uid": "UPST|Gu Paul|2026-11-19|50000.0|17.2013",
       "symbol": "UPST",
