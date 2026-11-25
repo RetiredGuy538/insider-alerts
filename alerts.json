@@ -1,6 +1,45 @@
 {
-  "updated": "2026-11-24 22:53 UTC",
+  "updated": "2026-11-25 05:11 UTC",
   "alerts": [
+    {
+      "uid": "PLTR|THIEL PETER|2026-11-20|213437.0|142.9122",
+      "symbol": "PLTR",
+      "companyName": "Palantir Technologies Inc.",
+      "reportingName": "THIEL PETER",
+      "title": "",
+      "transactionDate": "2026-11-20",
+      "filingDatetime": "2026-11-24 20:43 ET",
+      "shares": 213437.0,
+      "price": 142.9122,
+      "totalValue": 30502751.23,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1211060/000121106026000012/form4-11252026_011156.xml"
+    },
+    {
+      "uid": "PLTR|THIEL PETER|2026-11-20|341423.0|143.6841",
+      "symbol": "PLTR",
+      "companyName": "Palantir Technologies Inc.",
+      "reportingName": "THIEL PETER",
+      "title": "",
+      "transactionDate": "2026-11-20",
+      "filingDatetime": "2026-11-24 20:43 ET",
+      "shares": 341423.0,
+      "price": 143.6841,
+      "totalValue": 49057056.47,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1211060/000121106026000012/form4-11252026_011156.xml"
+    },
+    {
+      "uid": "PLTR|THIEL PETER|2026-11-20|295240.0|144.6068",
+      "symbol": "PLTR",
+      "companyName": "Palantir Technologies Inc.",
+      "reportingName": "THIEL PETER",
+      "title": "",
+      "transactionDate": "2026-11-20",
+      "filingDatetime": "2026-11-24 20:43 ET",
+      "shares": 295240.0,
+      "price": 144.6068,
+      "totalValue": 42693711.63,
+      "secLink": "https://www.sec.gov/Archives/edgar/data/1211060/000121106026000012/form4-11252026_011156.xml"
+    },
     {
       "uid": "SCOR|McLaughlin Matthew F.|2026-11-20|36622.0|3.23",
       "symbol": "SCOR",
