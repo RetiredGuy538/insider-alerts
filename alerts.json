@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-26 22:04 UTC",
+  "updated": "2026-11-27 04:13 UTC",
   "alerts": [
     {
       "uid": "TMS|Moore Evan Charles|2026-11-24|29104.0|4.4",
@@ -1339,32 +1339,6 @@
       "price": 90.635,
       "totalValue": 453175.0,
       "secLink": "https://www.sec.gov/Archives/edgar/data/1116942/000119312526436557/ownership.xml"
-    },
-    {
-      "uid": "LYCA|Venrock Healthcare Capital Partners III, L.P.|2026-10-27|8729.0|25.84",
-      "symbol": "LYCA",
-      "companyName": "Lycia Therapeutics, Inc.",
-      "reportingName": "Venrock Healthcare Capital Partners III, L.P.",
-      "title": "",
-      "transactionDate": "2026-10-27",
-      "filingDatetime": "2026-10-27 18:38 ET",
-      "shares": 8729.0,
-      "price": 25.84,
-      "totalValue": 225557.36,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1615979/000123191926001503/form4-10272026_101057.xml"
-    },
-    {
-      "uid": "LYCA|Venrock Healthcare Capital Partners III, L.P.|2026-10-27|31067.0|26.84",
-      "symbol": "LYCA",
-      "companyName": "Lycia Therapeutics, Inc.",
-      "reportingName": "Venrock Healthcare Capital Partners III, L.P.",
-      "title": "",
-      "transactionDate": "2026-10-27",
-      "filingDatetime": "2026-10-27 18:38 ET",
-      "shares": 31067.0,
-      "price": 26.84,
-      "totalValue": 833838.28,
-      "secLink": "https://www.sec.gov/Archives/edgar/data/1615979/000123191926001503/form4-10272026_101057.xml"
     }
   ]
 }
